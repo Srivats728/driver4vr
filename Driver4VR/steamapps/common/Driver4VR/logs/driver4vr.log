@@ -1,0 +1,3421 @@
+2022-02-24 04:09:25: Initializing Driver4VR application ver:  5.7.7.3
+2022-02-24 04:09:29: Initialize data structures...
+2022-02-24 04:09:30: Initialize data structures... done.
+2022-02-24 04:09:31: Initializing UI: step 2.1.1
+2022-02-24 04:09:31: Reading application settings...
+2022-02-24 04:09:32: Reading application settings... done.
+2022-02-24 04:09:32: Initializing UI: step 2.1.2
+2022-02-24 04:09:32: Initializing UI: step 2.1.3
+2022-02-24 04:09:32: Initializing UI: step 2.1.4
+2022-02-24 04:09:32: Initializing UI: step 2.1.5
+2022-02-24 04:09:32: Initializing UI: step 2.1.6
+2022-02-24 04:09:32: Initializing UI: step 2.1.7
+2022-02-24 04:09:32: Initializing UI: step 2.1.8
+2022-02-24 04:09:32: Initializing UI: step 2.1.9
+2022-02-24 04:09:32: Initializing UI: step 2.1.10
+2022-02-24 04:09:32: Initializing UI.TrackerList: step 1
+2022-02-24 04:09:34: Initializing UI.TrackerList: step 2
+2022-02-24 04:09:35: Initializing UI.TrackerList: step 3
+2022-02-24 04:09:35: Initializing UI.TrackerList: step 99
+2022-02-24 04:09:35: Initializing UI: step 2.1.11
+2022-02-24 04:09:35: Initializing UI: step 2.1.12
+2022-02-24 04:09:35: Initializing UI: step 2.1.13
+2022-02-24 04:09:35: Initializing UI: step 2.1.14
+2022-02-24 04:09:35: Initializing UI: step 2.1.15
+2022-02-24 04:09:35: Initializing UI: step 2.1.16
+2022-02-24 04:09:35: Initializing UI: step 2.1.17
+2022-02-24 04:09:35: Initializing UI: step 2.1.18
+2022-02-24 04:09:35: Initializing UI: step 2.1.19
+2022-02-24 04:09:35: Initializing UI: step 2.1.20
+2022-02-24 04:09:35: Initializing UI: step 2.1.21
+2022-02-24 04:09:35: Initializing UI: step 2.1.22
+2022-02-24 04:09:35: Initializing UI: step 2.1.23
+2022-02-24 04:09:35: Initializing UI: step 2.1.24
+2022-02-24 04:09:35: Initializing UI: step 2.1.25
+2022-02-24 04:09:35: Initializing UI: step 2.1.26
+2022-02-24 04:09:35: Initializing UI: step 2.1.27
+2022-02-24 04:09:35: Initializing UI: step 2.1.28
+2022-02-24 04:09:35: Initializing UI: step 2.1.29
+2022-02-24 04:09:35: Initializing UI: step 2.1.30
+2022-02-24 04:09:35: Initializing UI: step 2.1.99
+2022-02-24 04:09:39: Loading main window.
+2022-02-24 04:09:39: Initialisation...
+2022-02-24 04:09:40: Initialisation - Start...
+2022-02-24 04:09:40: Initialisation - Checking driver installation...
+2022-02-24 04:09:41: Unable to verify driver installation: Can't find 'openvrpaths.vrpath' in 'C:\Users\Admin\AppData\Local\openvr\openvrpaths.vrpath'.
+2022-02-24 04:09:41: Initialisation - Checking driver installation: True
+2022-02-24 04:09:41: Initialisation - Authenticating...
+2022-02-24 04:09:42: Initialisation - Authenticating: True
+2022-02-24 04:09:42: Initialisation - Authenticating: True, 0, 
+2022-02-24 04:09:42: Initialisation - loading devices...
+2022-02-24 04:09:42: Connecting to SteamVR - start
+2022-02-24 04:09:42: Connecting to SteamVR - returned: Init_PathRegistryNotFound
+2022-02-24 04:09:42: Connecting to SteamVR - complete
+2022-02-24 04:09:42: Unable to connect to SteamVR: Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Connection status chanced to: Error: Unable to connect to SteamVR:
+Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Initialisation... complted.
+2022-02-24 04:09:43: Finalising...
+2022-02-24 04:09:43: Finalising... completed.
+2022-02-24 04:09:47: Closing application...
+2022-02-24 04:09:47: Creating Wii Connection...
+2022-02-24 04:09:48: Creating Wii Connection... completed with success.
+2022-02-24 04:09:50: Closing application... completed.
+2022-02-24 04:09:50: Shutdown of Driver4VR application has been completed.
+2022-08-16 01:52:27: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 01:52:27: Initialize data structures...
+2022-08-16 01:52:27: Initialize data structures... done.
+2022-08-16 01:52:27: Initializing UI: step 2.1.1
+2022-08-16 01:52:27: Reading application settings...
+2022-08-16 01:52:27: Reading application settings... done.
+2022-08-16 01:52:27: Initializing UI: step 2.1.2
+2022-08-16 01:52:27: Initializing UI: step 2.1.3
+2022-08-16 01:52:27: Initializing UI: step 2.1.4
+2022-08-16 01:52:27: Initializing UI: step 2.1.5
+2022-08-16 01:52:27: Initializing UI: step 2.1.6
+2022-08-16 01:52:27: Initializing UI: step 2.1.7
+2022-08-16 01:52:27: Initializing UI: step 2.1.8
+2022-08-16 01:52:27: Initializing UI: step 2.1.9
+2022-08-16 01:52:27: Initializing UI: step 2.1.10
+2022-08-16 01:52:28: Initializing UI.TrackerList: step 1
+2022-08-16 01:52:28: Initializing UI.TrackerList: step 2
+2022-08-16 01:52:28: Initializing UI.TrackerList: step 3
+2022-08-16 01:52:28: Initializing UI.TrackerList: step 99
+2022-08-16 01:52:28: Initializing UI: step 2.1.11
+2022-08-16 01:52:28: Initializing UI: step 2.1.12
+2022-08-16 01:52:28: Initializing UI: step 2.1.13
+2022-08-16 01:52:28: Initializing UI: step 2.1.14
+2022-08-16 01:52:28: Initializing UI: step 2.1.15
+2022-08-16 01:52:28: Initializing UI: step 2.1.16
+2022-08-16 01:52:28: Initializing UI: step 2.1.17
+2022-08-16 01:52:28: Initializing UI: step 2.1.18
+2022-08-16 01:52:28: Initializing UI: step 2.1.19
+2022-08-16 01:52:28: Initializing UI: step 2.1.20
+2022-08-16 01:52:28: Initializing UI: step 2.1.21
+2022-08-16 01:52:28: Initializing UI: step 2.1.22
+2022-08-16 01:52:28: Initializing UI: step 2.1.23
+2022-08-16 01:52:28: Initializing UI: step 2.1.24
+2022-08-16 01:52:28: Initializing UI: step 2.1.25
+2022-08-16 01:52:28: Initializing UI: step 2.1.26
+2022-08-16 01:52:28: Initializing UI: step 2.1.27
+2022-08-16 01:52:28: Initializing UI: step 2.1.28
+2022-08-16 01:52:28: Initializing UI: step 2.1.29
+2022-08-16 01:52:28: Initializing UI: step 2.1.30
+2022-08-16 01:52:28: Initializing UI: step 2.1.99
+2022-08-16 01:52:28: Loading main window.
+2022-08-16 01:52:28: Initialisation...
+2022-08-16 01:52:28: Initialisation - Start...
+2022-08-16 01:52:28: Initialisation - Checking driver installation...
+2022-08-16 01:52:28: Driver will be reinstlled with path: C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+2022-08-16 01:52:59: Initialisation - Checking driver installation: False
+2022-08-16 01:52:59: Connection status chanced to: SteamVR driver for Driver4VR has been registered
+Please restart SteamVR.
+2022-08-16 01:52:59: Initialisation - not completed at driver initialisation
+2022-08-16 01:52:59: Initialisation... complted.
+2022-08-16 01:52:59: Finalising...
+2022-08-16 01:53:02: Closing application...
+2022-08-16 01:53:02: Creating Wii Connection...
+2022-08-16 01:53:02: Creating Wii Connection... completed with success.
+2022-08-16 01:53:02: Closing application... completed.
+2022-08-16 01:53:02: Shutdown of Driver4VR application has been completed.
+2022-08-16 01:53:06: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 01:53:06: Initialize data structures...
+2022-08-16 01:53:06: Initialize data structures... done.
+2022-08-16 01:53:06: Initializing UI: step 2.1.1
+2022-08-16 01:53:06: Reading application settings...
+2022-08-16 01:53:06: Reading application settings... done.
+2022-08-16 01:53:06: Initializing UI: step 2.1.2
+2022-08-16 01:53:06: Initializing UI: step 2.1.3
+2022-08-16 01:53:06: Initializing UI: step 2.1.4
+2022-08-16 01:53:06: Initializing UI: step 2.1.5
+2022-08-16 01:53:06: Initializing UI: step 2.1.6
+2022-08-16 01:53:06: Initializing UI: step 2.1.7
+2022-08-16 01:53:06: Initializing UI: step 2.1.8
+2022-08-16 01:53:06: Initializing UI: step 2.1.9
+2022-08-16 01:53:06: Initializing UI: step 2.1.10
+2022-08-16 01:53:06: Initializing UI.TrackerList: step 1
+2022-08-16 01:53:06: Initializing UI.TrackerList: step 2
+2022-08-16 01:53:06: Initializing UI.TrackerList: step 3
+2022-08-16 01:53:06: Initializing UI.TrackerList: step 99
+2022-08-16 01:53:06: Initializing UI: step 2.1.11
+2022-08-16 01:53:06: Initializing UI: step 2.1.12
+2022-08-16 01:53:06: Initializing UI: step 2.1.13
+2022-08-16 01:53:06: Initializing UI: step 2.1.14
+2022-08-16 01:53:06: Initializing UI: step 2.1.15
+2022-08-16 01:53:06: Initializing UI: step 2.1.16
+2022-08-16 01:53:06: Initializing UI: step 2.1.17
+2022-08-16 01:53:06: Initializing UI: step 2.1.18
+2022-08-16 01:53:06: Initializing UI: step 2.1.19
+2022-08-16 01:53:06: Initializing UI: step 2.1.20
+2022-08-16 01:53:06: Initializing UI: step 2.1.21
+2022-08-16 01:53:06: Initializing UI: step 2.1.22
+2022-08-16 01:53:06: Initializing UI: step 2.1.23
+2022-08-16 01:53:06: Initializing UI: step 2.1.24
+2022-08-16 01:53:06: Initializing UI: step 2.1.25
+2022-08-16 01:53:06: Initializing UI: step 2.1.26
+2022-08-16 01:53:06: Initializing UI: step 2.1.27
+2022-08-16 01:53:06: Initializing UI: step 2.1.28
+2022-08-16 01:53:06: Initializing UI: step 2.1.29
+2022-08-16 01:53:06: Initializing UI: step 2.1.30
+2022-08-16 01:53:06: Initializing UI: step 2.1.99
+2022-08-16 01:53:06: Loading main window.
+2022-08-16 01:53:06: Initialisation...
+2022-08-16 01:53:06: Initialisation - Start...
+2022-08-16 01:53:06: Initialisation - Checking driver installation...
+2022-08-16 01:53:06: Initialisation - Checking driver installation: True
+2022-08-16 01:53:06: Initialisation - Authenticating...
+2022-08-16 01:53:06: [Steamworks] SteamAPI_Init() failed..
+2022-08-16 01:53:06: Initialisation - Authenticating: False
+2022-08-16 01:53:06: Initialisation - Authenticating: False, -1, Please start Steam before launching Driver4VR
+2022-08-16 01:53:06: Failed to initialize: Please start Steam before launching Driver4VR
+2022-08-16 01:53:06: Initialisation - not completed at authentication:Please start Steam before launching Driver4VR
+2022-08-16 01:53:06: Initialisation... complted.
+2022-08-16 01:53:06: Finalising...
+2022-08-16 01:53:09: Closing application...
+2022-08-16 01:53:09: Creating Wii Connection...
+2022-08-16 01:53:09: Creating Wii Connection... completed with success.
+2022-08-16 01:53:09: Closing application... completed.
+2022-08-16 01:53:09: Shutdown of Driver4VR application has been completed.
+2022-08-16 01:53:42: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 01:53:42: Initialize data structures...
+2022-08-16 01:53:42: Initialize data structures... done.
+2022-08-16 01:53:42: Initializing UI: step 2.1.1
+2022-08-16 01:53:42: Reading application settings...
+2022-08-16 01:53:42: Reading application settings... done.
+2022-08-16 01:53:42: Initializing UI: step 2.1.2
+2022-08-16 01:53:42: Initializing UI: step 2.1.3
+2022-08-16 01:53:42: Initializing UI: step 2.1.4
+2022-08-16 01:53:42: Initializing UI: step 2.1.5
+2022-08-16 01:53:42: Initializing UI: step 2.1.6
+2022-08-16 01:53:42: Initializing UI: step 2.1.7
+2022-08-16 01:53:42: Initializing UI: step 2.1.8
+2022-08-16 01:53:42: Initializing UI: step 2.1.9
+2022-08-16 01:53:42: Initializing UI: step 2.1.10
+2022-08-16 01:53:42: Initializing UI.TrackerList: step 1
+2022-08-16 01:53:42: Initializing UI.TrackerList: step 2
+2022-08-16 01:53:42: Initializing UI.TrackerList: step 3
+2022-08-16 01:53:42: Initializing UI.TrackerList: step 99
+2022-08-16 01:53:42: Initializing UI: step 2.1.11
+2022-08-16 01:53:42: Initializing UI: step 2.1.12
+2022-08-16 01:53:42: Initializing UI: step 2.1.13
+2022-08-16 01:53:42: Initializing UI: step 2.1.14
+2022-08-16 01:53:42: Initializing UI: step 2.1.15
+2022-08-16 01:53:42: Initializing UI: step 2.1.16
+2022-08-16 01:53:42: Initializing UI: step 2.1.17
+2022-08-16 01:53:42: Initializing UI: step 2.1.18
+2022-08-16 01:53:42: Initializing UI: step 2.1.19
+2022-08-16 01:53:42: Initializing UI: step 2.1.20
+2022-08-16 01:53:42: Initializing UI: step 2.1.21
+2022-08-16 01:53:42: Initializing UI: step 2.1.22
+2022-08-16 01:53:42: Initializing UI: step 2.1.23
+2022-08-16 01:53:42: Initializing UI: step 2.1.24
+2022-08-16 01:53:42: Initializing UI: step 2.1.25
+2022-08-16 01:53:42: Initializing UI: step 2.1.26
+2022-08-16 01:53:42: Initializing UI: step 2.1.27
+2022-08-16 01:53:42: Initializing UI: step 2.1.28
+2022-08-16 01:53:42: Initializing UI: step 2.1.29
+2022-08-16 01:53:42: Initializing UI: step 2.1.30
+2022-08-16 01:53:42: Initializing UI: step 2.1.99
+2022-08-16 01:53:42: Loading main window.
+2022-08-16 01:53:42: Initialisation...
+2022-08-16 01:53:42: Initialisation - Start...
+2022-08-16 01:53:42: Initialisation - Checking driver installation...
+2022-08-16 01:53:43: Initialisation - Checking driver installation: True
+2022-08-16 01:53:43: Initialisation - Authenticating...
+2022-08-16 01:53:43: Unable to read statistic: stat_reset_stats
+2022-08-16 01:53:43: Initialisation - Authenticating: True
+2022-08-16 01:53:43: Initialisation - Authenticating: True, 0, 
+2022-08-16 01:53:43: Initialisation - loading devices...
+2022-08-16 01:53:43: Connecting to SteamVR - start
+2022-08-16 01:53:43: Connecting to SteamVR - returned: Init_HmdNotFound
+2022-08-16 01:53:43: VRPath reg output: 
+
+2022-08-16 01:53:43: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 01:53:43: Connecting to SteamVR - complete
+2022-08-16 01:53:43: Unable to connect to SteamVR: Headset was not found.
+2022-08-16 01:53:43: Connection status chanced to: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 01:53:43: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 01:53:43: Initialisation... complted.
+2022-08-16 01:53:43: Finalising...
+2022-08-16 01:53:43: Finalising... completed.
+2022-08-16 01:53:48: Closing application...
+2022-08-16 01:53:48: Creating Wii Connection...
+2022-08-16 01:53:48: Creating Wii Connection... completed with success.
+2022-08-16 01:53:48: Closing application... completed.
+2022-08-16 01:53:48: Shutdown of Driver4VR application has been completed.
+2022-08-16 01:56:22: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 01:56:23: Initialize data structures...
+2022-08-16 01:56:23: Initialize data structures... done.
+2022-08-16 01:56:23: Initializing UI: step 2.1.1
+2022-08-16 01:56:23: Reading application settings...
+2022-08-16 01:56:23: Reading application settings... done.
+2022-08-16 01:56:23: Initializing UI: step 2.1.2
+2022-08-16 01:56:23: Initializing UI: step 2.1.3
+2022-08-16 01:56:23: Initializing UI: step 2.1.4
+2022-08-16 01:56:23: Initializing UI: step 2.1.5
+2022-08-16 01:56:23: Initializing UI: step 2.1.6
+2022-08-16 01:56:23: Initializing UI: step 2.1.7
+2022-08-16 01:56:23: Initializing UI: step 2.1.8
+2022-08-16 01:56:23: Initializing UI: step 2.1.9
+2022-08-16 01:56:23: Initializing UI: step 2.1.10
+2022-08-16 01:56:23: Initializing UI.TrackerList: step 1
+2022-08-16 01:56:23: Initializing UI.TrackerList: step 2
+2022-08-16 01:56:23: Initializing UI.TrackerList: step 3
+2022-08-16 01:56:23: Initializing UI.TrackerList: step 99
+2022-08-16 01:56:23: Initializing UI: step 2.1.11
+2022-08-16 01:56:23: Initializing UI: step 2.1.12
+2022-08-16 01:56:23: Initializing UI: step 2.1.13
+2022-08-16 01:56:23: Initializing UI: step 2.1.14
+2022-08-16 01:56:23: Initializing UI: step 2.1.15
+2022-08-16 01:56:23: Initializing UI: step 2.1.16
+2022-08-16 01:56:23: Initializing UI: step 2.1.17
+2022-08-16 01:56:23: Initializing UI: step 2.1.18
+2022-08-16 01:56:23: Initializing UI: step 2.1.19
+2022-08-16 01:56:23: Initializing UI: step 2.1.20
+2022-08-16 01:56:23: Initializing UI: step 2.1.21
+2022-08-16 01:56:23: Initializing UI: step 2.1.22
+2022-08-16 01:56:23: Initializing UI: step 2.1.23
+2022-08-16 01:56:23: Initializing UI: step 2.1.24
+2022-08-16 01:56:23: Initializing UI: step 2.1.25
+2022-08-16 01:56:23: Initializing UI: step 2.1.26
+2022-08-16 01:56:23: Initializing UI: step 2.1.27
+2022-08-16 01:56:23: Initializing UI: step 2.1.28
+2022-08-16 01:56:23: Initializing UI: step 2.1.29
+2022-08-16 01:56:23: Initializing UI: step 2.1.30
+2022-08-16 01:56:23: Initializing UI: step 2.1.99
+2022-08-16 01:56:24: Loading main window.
+2022-08-16 01:56:24: Initialisation...
+2022-08-16 01:56:24: Initialisation - Start...
+2022-08-16 01:56:24: Initialisation - Checking driver installation...
+2022-08-16 01:56:24: Initialisation - Checking driver installation: True
+2022-08-16 01:56:24: Initialisation - Authenticating...
+2022-08-16 01:56:24: Unable to read statistic: stat_reset_stats
+2022-08-16 01:56:24: Initialisation - Authenticating: True
+2022-08-16 01:56:24: Initialisation - Authenticating: True, 0, 
+2022-08-16 01:56:24: Initialisation - loading devices...
+2022-08-16 01:56:24: Connecting to SteamVR - start
+2022-08-16 01:56:24: Connecting to SteamVR - returned: None
+2022-08-16 01:56:25: VRPath reg output: 
+
+2022-08-16 01:56:25: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 01:56:25: Connecting to SteamVR - complete
+2022-08-16 01:56:25: Detected iVRy Headset.
+2022-08-16 01:56:25: Initialisation - loading devices - Done.
+2022-08-16 01:56:25: Initialisation - loading configuration...
+2022-08-16 01:56:25: Initialisation - loading configuration - Done.
+2022-08-16 01:56:25: Initialisation - starting server...
+2022-08-16 01:56:25: Creating communication thread...
+2022-08-16 01:56:25: Creating communication done...
+2022-08-16 01:56:25: Initialisation - starting server - Done.
+2022-08-16 01:56:25: Initialisation - reload enabled async.
+2022-08-16 01:56:25: Initialize communication thread.
+2022-08-16 01:56:25: Communication thread test start - #1
+2022-08-16 01:56:25: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 01:56:25: Initialisation - Done
+2022-08-16 01:56:25: Initialisation... complted.
+2022-08-16 01:56:25: Finalising...
+2022-08-16 01:56:25: Communication thread test end  - #1
+2022-08-16 01:56:25: Communication thread test start - #2
+2022-08-16 01:56:25: Communication thread test end  - #2
+2022-08-16 01:56:25: Communication thread test start - #3
+2022-08-16 01:56:25: Communication thread test end  - #3
+2022-08-16 01:56:25: Communication thread test start - #4
+2022-08-16 01:56:25: Communication thread test end  - #4
+2022-08-16 01:56:25: Communication thread test start - #5
+2022-08-16 01:56:25: Communication thread test end  - #5
+2022-08-16 01:56:27: Status trace: stopped
+2022-08-16 01:56:30: Status trace: stopped
+2022-08-16 01:56:33: Status trace: stopped
+2022-08-16 01:56:36: Status trace: stopped
+2022-08-16 01:56:39: Status trace: stopped
+2022-08-16 01:56:42: Status trace: stopped
+2022-08-16 01:56:45: Status trace: stopped
+2022-08-16 01:56:48: Status trace: stopped
+2022-08-16 01:56:51: Status trace: stopped
+2022-08-16 01:56:54: Status trace: stopped
+2022-08-16 01:57:05: Closing application...
+2022-08-16 01:57:05: Creating Wii Connection...
+2022-08-16 01:57:05: Creating Wii Connection... completed with success.
+2022-08-16 01:57:05: End communication thread.
+2022-08-16 01:57:05: Closing application... completed.
+2022-08-16 01:57:05: Shutdown of Driver4VR application has been completed.
+2022-08-16 11:45:43: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 11:45:43: Initialize data structures...
+2022-08-16 11:45:43: Initialize data structures... done.
+2022-08-16 11:45:43: Initializing UI: step 2.1.1
+2022-08-16 11:45:43: Reading application settings...
+2022-08-16 11:45:43: Reading application settings... done.
+2022-08-16 11:45:43: Initializing UI: step 2.1.2
+2022-08-16 11:45:43: Initializing UI: step 2.1.3
+2022-08-16 11:45:43: Initializing UI: step 2.1.4
+2022-08-16 11:45:43: Initializing UI: step 2.1.5
+2022-08-16 11:45:43: Initializing UI: step 2.1.6
+2022-08-16 11:45:43: Initializing UI: step 2.1.7
+2022-08-16 11:45:43: Initializing UI: step 2.1.8
+2022-08-16 11:45:43: Initializing UI: step 2.1.9
+2022-08-16 11:45:43: Initializing UI: step 2.1.10
+2022-08-16 11:45:43: Initializing UI.TrackerList: step 1
+2022-08-16 11:45:43: Initializing UI.TrackerList: step 2
+2022-08-16 11:45:43: Initializing UI.TrackerList: step 3
+2022-08-16 11:45:43: Initializing UI.TrackerList: step 99
+2022-08-16 11:45:43: Initializing UI: step 2.1.11
+2022-08-16 11:45:43: Initializing UI: step 2.1.12
+2022-08-16 11:45:43: Initializing UI: step 2.1.13
+2022-08-16 11:45:43: Initializing UI: step 2.1.14
+2022-08-16 11:45:43: Initializing UI: step 2.1.15
+2022-08-16 11:45:43: Initializing UI: step 2.1.16
+2022-08-16 11:45:43: Initializing UI: step 2.1.17
+2022-08-16 11:45:43: Initializing UI: step 2.1.18
+2022-08-16 11:45:43: Initializing UI: step 2.1.19
+2022-08-16 11:45:43: Initializing UI: step 2.1.20
+2022-08-16 11:45:43: Initializing UI: step 2.1.21
+2022-08-16 11:45:43: Initializing UI: step 2.1.22
+2022-08-16 11:45:43: Initializing UI: step 2.1.23
+2022-08-16 11:45:43: Initializing UI: step 2.1.24
+2022-08-16 11:45:43: Initializing UI: step 2.1.25
+2022-08-16 11:45:43: Initializing UI: step 2.1.26
+2022-08-16 11:45:43: Initializing UI: step 2.1.27
+2022-08-16 11:45:43: Initializing UI: step 2.1.28
+2022-08-16 11:45:43: Initializing UI: step 2.1.29
+2022-08-16 11:45:43: Initializing UI: step 2.1.30
+2022-08-16 11:45:43: Initializing UI: step 2.1.99
+2022-08-16 11:45:44: Loading main window.
+2022-08-16 11:45:44: Initialisation...
+2022-08-16 11:45:44: Initialisation - Start...
+2022-08-16 11:45:44: Initialisation - Checking driver installation...
+2022-08-16 11:45:44: Initialisation - Checking driver installation: True
+2022-08-16 11:45:44: Initialisation - Authenticating...
+2022-08-16 11:45:45: Unable to read statistic: stat_reset_stats
+2022-08-16 11:45:45: Initialisation - Authenticating: True
+2022-08-16 11:45:45: Initialisation - Authenticating: True, 0, 
+2022-08-16 11:45:45: Initialisation - loading devices...
+2022-08-16 11:45:45: Connecting to SteamVR - start
+2022-08-16 11:45:47: Connecting to SteamVR - returned: None
+2022-08-16 11:45:48: VRPath reg output: 
+
+2022-08-16 11:45:48: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 11:45:48: Connecting to SteamVR - complete
+2022-08-16 11:45:48: Detected iVRy Headset.
+2022-08-16 11:45:48: Initialisation - loading devices - Done.
+2022-08-16 11:45:48: Initialisation - loading configuration...
+2022-08-16 11:45:48: Initialisation - loading configuration - Done.
+2022-08-16 11:45:48: Initialisation - starting server...
+2022-08-16 11:45:48: Creating communication thread...
+2022-08-16 11:45:48: Creating communication done...
+2022-08-16 11:45:48: Initialisation - starting server - Done.
+2022-08-16 11:45:48: Initialize communication thread.
+2022-08-16 11:45:48: Communication thread test start - #1
+2022-08-16 11:45:48: Initialisation - reload enabled async.
+2022-08-16 11:45:48: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 11:45:48: Initialisation - Done
+2022-08-16 11:45:48: Initialisation... complted.
+2022-08-16 11:45:48: Finalising...
+2022-08-16 11:45:48: Communication thread test end  - #1
+2022-08-16 11:45:48: Communication thread test start - #2
+2022-08-16 11:45:48: Communication thread test end  - #2
+2022-08-16 11:45:48: Communication thread test start - #3
+2022-08-16 11:45:48: Communication thread test end  - #3
+2022-08-16 11:45:48: Communication thread test start - #4
+2022-08-16 11:45:48: Communication thread test end  - #4
+2022-08-16 11:45:48: Communication thread test start - #5
+2022-08-16 11:45:48: Communication thread test end  - #5
+2022-08-16 11:45:50: Status trace: stopped
+2022-08-16 11:45:53: Status trace: stopped
+2022-08-16 11:45:56: Status trace: stopped
+2022-08-16 11:45:59: Status trace: stopped
+2022-08-16 11:46:02: Status trace: stopped
+2022-08-16 11:46:05: Status trace: stopped
+2022-08-16 11:46:08: Status trace: stopped
+2022-08-16 11:46:11: Status trace: stopped
+2022-08-16 11:46:14: Status trace: stopped
+2022-08-16 11:46:17: Status trace: stopped
+2022-08-16 11:48:23: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 11:48:23: Initialize data structures...
+2022-08-16 11:48:23: Initialize data structures... done.
+2022-08-16 11:48:23: Initializing UI: step 2.1.1
+2022-08-16 11:48:23: Reading application settings...
+2022-08-16 11:48:23: Reading application settings... done.
+2022-08-16 11:48:23: Initializing UI: step 2.1.2
+2022-08-16 11:48:23: Initializing UI: step 2.1.3
+2022-08-16 11:48:23: Initializing UI: step 2.1.4
+2022-08-16 11:48:23: Initializing UI: step 2.1.5
+2022-08-16 11:48:23: Initializing UI: step 2.1.6
+2022-08-16 11:48:23: Initializing UI: step 2.1.7
+2022-08-16 11:48:23: Initializing UI: step 2.1.8
+2022-08-16 11:48:23: Initializing UI: step 2.1.9
+2022-08-16 11:48:23: Initializing UI: step 2.1.10
+2022-08-16 11:48:23: Initializing UI.TrackerList: step 1
+2022-08-16 11:48:23: Initializing UI.TrackerList: step 2
+2022-08-16 11:48:23: Initializing UI.TrackerList: step 3
+2022-08-16 11:48:23: Initializing UI.TrackerList: step 99
+2022-08-16 11:48:23: Initializing UI: step 2.1.11
+2022-08-16 11:48:23: Initializing UI: step 2.1.12
+2022-08-16 11:48:23: Initializing UI: step 2.1.13
+2022-08-16 11:48:23: Initializing UI: step 2.1.14
+2022-08-16 11:48:23: Initializing UI: step 2.1.15
+2022-08-16 11:48:23: Initializing UI: step 2.1.16
+2022-08-16 11:48:23: Initializing UI: step 2.1.17
+2022-08-16 11:48:23: Initializing UI: step 2.1.18
+2022-08-16 11:48:23: Initializing UI: step 2.1.19
+2022-08-16 11:48:23: Initializing UI: step 2.1.20
+2022-08-16 11:48:23: Initializing UI: step 2.1.21
+2022-08-16 11:48:23: Initializing UI: step 2.1.22
+2022-08-16 11:48:23: Initializing UI: step 2.1.23
+2022-08-16 11:48:23: Initializing UI: step 2.1.24
+2022-08-16 11:48:23: Initializing UI: step 2.1.25
+2022-08-16 11:48:23: Initializing UI: step 2.1.26
+2022-08-16 11:48:23: Initializing UI: step 2.1.27
+2022-08-16 11:48:23: Initializing UI: step 2.1.28
+2022-08-16 11:48:23: Initializing UI: step 2.1.29
+2022-08-16 11:48:23: Initializing UI: step 2.1.30
+2022-08-16 11:48:23: Initializing UI: step 2.1.99
+2022-08-16 11:48:24: Loading main window.
+2022-08-16 11:48:24: Initialisation...
+2022-08-16 11:48:24: Initialisation - Start...
+2022-08-16 11:48:24: Initialisation - Checking driver installation...
+2022-08-16 11:48:24: Initialisation - Checking driver installation: True
+2022-08-16 11:48:24: Initialisation - Authenticating...
+2022-08-16 11:48:24: Unable to read statistic: stat_reset_stats
+2022-08-16 11:48:24: Initialisation - Authenticating: True
+2022-08-16 11:48:24: Initialisation - Authenticating: True, 0, 
+2022-08-16 11:48:24: Initialisation - loading devices...
+2022-08-16 11:48:24: Connecting to SteamVR - start
+2022-08-16 11:48:26: Connecting to SteamVR - returned: None
+2022-08-16 11:48:27: VRPath reg output: 
+
+2022-08-16 11:48:27: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 11:48:27: Connecting to SteamVR - complete
+2022-08-16 11:48:27: Detected iVRy Headset.
+2022-08-16 11:48:27: Initialisation - loading devices - Done.
+2022-08-16 11:48:27: Initialisation - loading configuration...
+2022-08-16 11:48:27: Initialisation - loading configuration - Done.
+2022-08-16 11:48:27: Initialisation - starting server...
+2022-08-16 11:48:27: Creating communication thread...
+2022-08-16 11:48:27: Creating communication done...
+2022-08-16 11:48:27: Initialisation - starting server - Done.
+2022-08-16 11:48:27: Initialisation - reload enabled async.
+2022-08-16 11:48:27: Initialize communication thread.
+2022-08-16 11:48:27: Communication thread test start - #1
+2022-08-16 11:48:27: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 11:48:27: Initialisation - Done
+2022-08-16 11:48:27: Initialisation... complted.
+2022-08-16 11:48:27: Finalising...
+2022-08-16 11:48:27: Communication thread test end  - #1
+2022-08-16 11:48:27: Communication thread test start - #2
+2022-08-16 11:48:27: Communication thread test end  - #2
+2022-08-16 11:48:27: Communication thread test start - #3
+2022-08-16 11:48:27: Communication thread test end  - #3
+2022-08-16 11:48:27: Communication thread test start - #4
+2022-08-16 11:48:27: Communication thread test end  - #4
+2022-08-16 11:48:27: Communication thread test start - #5
+2022-08-16 11:48:27: Communication thread test end  - #5
+2022-08-16 11:48:29: Status trace: stopped
+2022-08-16 11:48:32: Status trace: stopped
+2022-08-16 11:48:35: Status trace: stopped
+2022-08-16 11:48:38: Status trace: stopped
+2022-08-16 11:48:41: Status trace: stopped
+2022-08-16 11:48:44: Status trace: stopped
+2022-08-16 11:48:47: Status trace: stopped
+2022-08-16 11:48:50: Status trace: stopped
+2022-08-16 11:48:53: Status trace: stopped
+2022-08-16 11:48:56: Status trace: stopped
+2022-08-16 11:49:38: Enumeration of devices starting... with 0
+2022-08-16 11:49:38: PS Move Service not required... skipping.
+2022-08-16 11:49:39: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:49:58: Enumeration of devices starting... with 0
+2022-08-16 11:49:58: PS Move Service not required... skipping.
+2022-08-16 11:49:58: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:51:17: Enumeration of devices starting... with 0
+2022-08-16 11:51:17: PS Move Service not required... skipping.
+2022-08-16 11:51:17: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:52:32: Enumeration of devices starting... with 0
+2022-08-16 11:52:32: PS Move Service not required... skipping.
+2022-08-16 11:52:32: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:52:56: Enumeration of devices starting... with 0
+2022-08-16 11:52:56: PS Move Service not required... skipping.
+2022-08-16 11:52:56: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:53:36: Start/Stop sequence starting.
+2022-08-16 11:53:36: Start/Stop sequence starting.
+2022-08-16 11:53:36: DeepLearning module initialized with result: 0
+2022-08-16 11:53:36: Could not find configured camera. Trying default.
+2022-08-16 11:53:36: starting camera: '0' in mode: Msmf
+2022-08-16 11:53:40: starting camera completed: True
+2022-08-16 11:53:40: Creating processing thread... start.
+2022-08-16 11:53:40: Creating processing thread... done.
+2022-08-16 11:53:40: Sending communication to start driver - start.
+2022-08-16 11:53:40: Sending communication to start driver - complete.
+2022-08-16 11:53:40: Start/Stop sequence done.
+2022-08-16 11:53:40: Start/Stop sequence done.
+2022-08-16 11:53:40: Initialize processing thread.
+2022-08-16 11:53:40: Connection status chanced to: Driver4VR is running!
+2022-08-16 11:53:40: Starting all devices...
+2022-08-16 11:53:40: Creating Wii Connection...
+2022-08-16 11:53:40: Creating Wii Connection... completed with success.
+2022-08-16 11:53:40: Starting devices...
+2022-08-16 11:53:40: Initializing Wii library...
+2022-08-16 11:53:40: Initializing Wii library... done.
+2022-08-16 11:53:43: Starting devices complete
+2022-08-16 11:53:43: Starting all devices... done.
+2022-08-16 11:53:43: Tracker update test start - #1
+2022-08-16 11:53:44: Tracker update test end  - #1
+2022-08-16 11:53:44: Tracker update test start - #2
+2022-08-16 11:53:44: Tracker update test end  - #2
+2022-08-16 11:53:44: Tracker update test start - #3
+2022-08-16 11:53:44: Tracker update test end  - #3
+2022-08-16 11:53:44: Tracker update test start - #4
+2022-08-16 11:53:44: Tracker update test end  - #4
+2022-08-16 11:53:44: Tracker update test start - #5
+2022-08-16 11:53:44: Tracker update test end  - #5
+2022-08-16 11:53:50: Enumeration of devices starting... with 0
+2022-08-16 11:53:50: PS Move Service not required... skipping.
+2022-08-16 11:53:50: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:54:00: Start/Stop sequence starting.
+2022-08-16 11:54:00: Start/Stop sequence starting.
+2022-08-16 11:54:00: Start/Stop sequence done.
+2022-08-16 11:54:00: Start/Stop sequence done.
+2022-08-16 11:54:00: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 11:54:00: Stopping devices...
+2022-08-16 11:54:00: Stopping devices... done. 
+2022-08-16 11:54:02: Start/Stop sequence starting.
+2022-08-16 11:54:02: Start/Stop sequence starting.
+2022-08-16 11:54:02: Sending communication to start driver - start.
+2022-08-16 11:54:02: Sending communication to start driver - complete.
+2022-08-16 11:54:02: Start/Stop sequence done.
+2022-08-16 11:54:02: Start/Stop sequence done.
+2022-08-16 11:54:02: Connection status chanced to: Driver4VR is running!
+2022-08-16 11:54:02: Starting all devices...
+2022-08-16 11:54:02: Starting devices...
+2022-08-16 11:54:02: Starting devices complete
+2022-08-16 11:54:02: Starting all devices... done.
+2022-08-16 11:54:36: Enumeration of devices starting... with 0
+2022-08-16 11:54:36: PS Move Service not required... skipping.
+2022-08-16 11:54:36: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:55:18: Start/Stop sequence starting.
+2022-08-16 11:55:18: Start/Stop sequence starting.
+2022-08-16 11:55:18: Start/Stop sequence done.
+2022-08-16 11:55:18: Start/Stop sequence done.
+2022-08-16 11:55:19: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 11:55:19: Stopping devices...
+2022-08-16 11:55:19: Stopping devices... done. 
+2022-08-16 11:57:27: Start/Stop sequence starting.
+2022-08-16 11:57:27: Start/Stop sequence starting.
+2022-08-16 11:57:27: Sending communication to start driver - start.
+2022-08-16 11:57:27: Sending communication to start driver - complete.
+2022-08-16 11:57:27: Start/Stop sequence done.
+2022-08-16 11:57:27: Start/Stop sequence done.
+2022-08-16 11:57:28: Connection status chanced to: Driver4VR is running!
+2022-08-16 11:57:28: Starting all devices...
+2022-08-16 11:57:28: Starting devices...
+2022-08-16 11:57:28: Starting devices complete
+2022-08-16 11:57:28: Starting all devices... done.
+2022-08-16 11:57:46: Enumeration of devices starting... with 0
+2022-08-16 11:57:46: PS Move Service not required... skipping.
+2022-08-16 11:57:46: Enumeration of devices starting completed with 0 total.
+2022-08-16 11:59:58: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 11:59:58: Initialize data structures...
+2022-08-16 11:59:58: Initialize data structures... done.
+2022-08-16 11:59:58: Initializing UI: step 2.1.1
+2022-08-16 11:59:58: Reading application settings...
+2022-08-16 11:59:58: Reading application settings... done.
+2022-08-16 11:59:58: Initializing UI: step 2.1.2
+2022-08-16 11:59:58: Initializing UI: step 2.1.3
+2022-08-16 11:59:58: Initializing UI: step 2.1.4
+2022-08-16 11:59:58: Initializing UI: step 2.1.5
+2022-08-16 11:59:58: Initializing UI: step 2.1.6
+2022-08-16 11:59:58: Initializing UI: step 2.1.7
+2022-08-16 11:59:58: Initializing UI: step 2.1.8
+2022-08-16 11:59:58: Initializing UI: step 2.1.9
+2022-08-16 11:59:58: Initializing UI: step 2.1.10
+2022-08-16 11:59:58: Initializing UI.TrackerList: step 1
+2022-08-16 11:59:58: Initializing UI.TrackerList: step 2
+2022-08-16 11:59:58: Initializing UI.TrackerList: step 3
+2022-08-16 11:59:58: Initializing UI.TrackerList: step 99
+2022-08-16 11:59:58: Initializing UI: step 2.1.11
+2022-08-16 11:59:58: Initializing UI: step 2.1.12
+2022-08-16 11:59:58: Initializing UI: step 2.1.13
+2022-08-16 11:59:58: Initializing UI: step 2.1.14
+2022-08-16 11:59:58: Initializing UI: step 2.1.15
+2022-08-16 11:59:58: Initializing UI: step 2.1.16
+2022-08-16 11:59:58: Initializing UI: step 2.1.17
+2022-08-16 11:59:58: Initializing UI: step 2.1.18
+2022-08-16 11:59:58: Initializing UI: step 2.1.19
+2022-08-16 11:59:58: Initializing UI: step 2.1.20
+2022-08-16 11:59:58: Initializing UI: step 2.1.21
+2022-08-16 11:59:58: Initializing UI: step 2.1.22
+2022-08-16 11:59:58: Initializing UI: step 2.1.23
+2022-08-16 11:59:58: Initializing UI: step 2.1.24
+2022-08-16 11:59:58: Initializing UI: step 2.1.25
+2022-08-16 11:59:58: Initializing UI: step 2.1.26
+2022-08-16 11:59:58: Initializing UI: step 2.1.27
+2022-08-16 11:59:58: Initializing UI: step 2.1.28
+2022-08-16 11:59:58: Initializing UI: step 2.1.29
+2022-08-16 11:59:58: Initializing UI: step 2.1.30
+2022-08-16 11:59:58: Initializing UI: step 2.1.99
+2022-08-16 11:59:58: Loading main window.
+2022-08-16 11:59:58: Initialisation...
+2022-08-16 11:59:58: Initialisation - Start...
+2022-08-16 11:59:58: Initialisation - Checking driver installation...
+2022-08-16 11:59:58: Initialisation - Checking driver installation: True
+2022-08-16 11:59:58: Initialisation - Authenticating...
+2022-08-16 11:59:58: Unable to read statistic: stat_reset_stats
+2022-08-16 11:59:58: Initialisation - Authenticating: True
+2022-08-16 11:59:58: Initialisation - Authenticating: True, 0, 
+2022-08-16 11:59:58: Initialisation - loading devices...
+2022-08-16 11:59:58: Connecting to SteamVR - start
+2022-08-16 11:59:58: Connecting to SteamVR - returned: Init_HmdNotFound
+2022-08-16 11:59:59: VRPath reg output: 
+
+2022-08-16 11:59:59: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 11:59:59: Connecting to SteamVR - complete
+2022-08-16 11:59:59: Unable to connect to SteamVR: Headset was not found.
+2022-08-16 11:59:59: Connection status chanced to: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 11:59:59: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 11:59:59: Initialisation... complted.
+2022-08-16 11:59:59: Finalising...
+2022-08-16 11:59:59: Finalising... completed.
+2022-08-16 12:00:22: Closing application...
+2022-08-16 12:00:22: Creating Wii Connection...
+2022-08-16 12:00:22: Creating Wii Connection... completed with success.
+2022-08-16 12:00:22: Closing application... completed.
+2022-08-16 12:00:22: Shutdown of Driver4VR application has been completed.
+2022-08-16 12:00:43: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 12:00:44: Initialize data structures...
+2022-08-16 12:00:44: Initialize data structures... done.
+2022-08-16 12:00:44: Initializing UI: step 2.1.1
+2022-08-16 12:00:44: Reading application settings...
+2022-08-16 12:00:44: Reading application settings... done.
+2022-08-16 12:00:44: Initializing UI: step 2.1.2
+2022-08-16 12:00:44: Initializing UI: step 2.1.3
+2022-08-16 12:00:44: Initializing UI: step 2.1.4
+2022-08-16 12:00:44: Initializing UI: step 2.1.5
+2022-08-16 12:00:44: Initializing UI: step 2.1.6
+2022-08-16 12:00:44: Initializing UI: step 2.1.7
+2022-08-16 12:00:44: Initializing UI: step 2.1.8
+2022-08-16 12:00:44: Initializing UI: step 2.1.9
+2022-08-16 12:00:44: Initializing UI: step 2.1.10
+2022-08-16 12:00:44: Initializing UI.TrackerList: step 1
+2022-08-16 12:00:44: Initializing UI.TrackerList: step 2
+2022-08-16 12:00:44: Initializing UI.TrackerList: step 3
+2022-08-16 12:00:44: Initializing UI.TrackerList: step 99
+2022-08-16 12:00:44: Initializing UI: step 2.1.11
+2022-08-16 12:00:44: Initializing UI: step 2.1.12
+2022-08-16 12:00:44: Initializing UI: step 2.1.13
+2022-08-16 12:00:44: Initializing UI: step 2.1.14
+2022-08-16 12:00:44: Initializing UI: step 2.1.15
+2022-08-16 12:00:44: Initializing UI: step 2.1.16
+2022-08-16 12:00:44: Initializing UI: step 2.1.17
+2022-08-16 12:00:44: Initializing UI: step 2.1.18
+2022-08-16 12:00:44: Initializing UI: step 2.1.19
+2022-08-16 12:00:44: Initializing UI: step 2.1.20
+2022-08-16 12:00:44: Initializing UI: step 2.1.21
+2022-08-16 12:00:44: Initializing UI: step 2.1.22
+2022-08-16 12:00:44: Initializing UI: step 2.1.23
+2022-08-16 12:00:44: Initializing UI: step 2.1.24
+2022-08-16 12:00:44: Initializing UI: step 2.1.25
+2022-08-16 12:00:44: Initializing UI: step 2.1.26
+2022-08-16 12:00:44: Initializing UI: step 2.1.27
+2022-08-16 12:00:44: Initializing UI: step 2.1.28
+2022-08-16 12:00:44: Initializing UI: step 2.1.29
+2022-08-16 12:00:44: Initializing UI: step 2.1.30
+2022-08-16 12:00:44: Initializing UI: step 2.1.99
+2022-08-16 12:00:45: Loading main window.
+2022-08-16 12:00:45: Initialisation...
+2022-08-16 12:00:45: Initialisation - Start...
+2022-08-16 12:00:45: Initialisation - Checking driver installation...
+2022-08-16 12:00:46: Initialisation - Checking driver installation: True
+2022-08-16 12:00:46: Initialisation - Authenticating...
+2022-08-16 12:00:46: Unable to read statistic: stat_reset_stats
+2022-08-16 12:00:46: Initialisation - Authenticating: True
+2022-08-16 12:00:46: Initialisation - Authenticating: True, 0, 
+2022-08-16 12:00:46: Initialisation - loading devices...
+2022-08-16 12:00:46: Connecting to SteamVR - start
+2022-08-16 12:00:48: Connecting to SteamVR - returned: None
+2022-08-16 12:00:48: VRPath reg output: 
+
+2022-08-16 12:00:48: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 12:00:48: Connecting to SteamVR - complete
+2022-08-16 12:00:48: Detected iVRy Headset.
+2022-08-16 12:00:48: Initialisation - loading devices - Done.
+2022-08-16 12:00:48: Initialisation - loading configuration...
+2022-08-16 12:00:48: Initialisation - loading configuration - Done.
+2022-08-16 12:00:48: Initialisation - starting server...
+2022-08-16 12:00:48: Creating communication thread...
+2022-08-16 12:00:48: Creating communication done...
+2022-08-16 12:00:48: Initialisation - starting server - Done.
+2022-08-16 12:00:48: Initialisation - reload enabled async.
+2022-08-16 12:00:48: Initialize communication thread.
+2022-08-16 12:00:48: Communication thread test start - #1
+2022-08-16 12:00:48: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 12:00:48: Initialisation - Done
+2022-08-16 12:00:48: Initialisation... complted.
+2022-08-16 12:00:48: Finalising...
+2022-08-16 12:00:48: Communication thread test end  - #1
+2022-08-16 12:00:48: Communication thread test start - #2
+2022-08-16 12:00:48: Communication thread test end  - #2
+2022-08-16 12:00:48: Communication thread test start - #3
+2022-08-16 12:00:48: Communication thread test end  - #3
+2022-08-16 12:00:48: Communication thread test start - #4
+2022-08-16 12:00:48: Communication thread test end  - #4
+2022-08-16 12:00:48: Communication thread test start - #5
+2022-08-16 12:00:48: Communication thread test end  - #5
+2022-08-16 12:00:50: Status trace: stopped
+2022-08-16 12:00:53: Status trace: stopped
+2022-08-16 12:00:55: Start/Stop sequence starting.
+2022-08-16 12:00:55: Start/Stop sequence starting.
+2022-08-16 12:00:56: DeepLearning module initialized with result: 0
+2022-08-16 12:00:56: Could not find configured camera. Trying default.
+2022-08-16 12:00:56: starting camera: '0' in mode: Msmf
+2022-08-16 12:01:01: starting camera completed: True
+2022-08-16 12:01:01: Creating processing thread... start.
+2022-08-16 12:01:01: Creating processing thread... done.
+2022-08-16 12:01:01: Sending communication to start driver - start.
+2022-08-16 12:01:01: Sending communication to start driver - complete.
+2022-08-16 12:01:01: Start/Stop sequence done.
+2022-08-16 12:01:01: Start/Stop sequence done.
+2022-08-16 12:01:01: Initialize processing thread.
+2022-08-16 12:01:01: Status trace: running
+2022-08-16 12:01:01: Connection status chanced to: Driver4VR is running!
+2022-08-16 12:01:01: Starting all devices...
+2022-08-16 12:01:01: Creating Wii Connection...
+2022-08-16 12:01:01: Creating Wii Connection... completed with success.
+2022-08-16 12:01:01: Starting devices...
+2022-08-16 12:01:01: Initializing Wii library...
+2022-08-16 12:01:01: Initializing Wii library... done.
+2022-08-16 12:01:04: Starting devices complete
+2022-08-16 12:01:04: Starting all devices... done.
+2022-08-16 12:01:04: Tracker update test start - #1
+2022-08-16 12:01:04: Tracker update test end  - #1
+2022-08-16 12:01:04: Tracker update test start - #2
+2022-08-16 12:01:04: Tracker update test end  - #2
+2022-08-16 12:01:04: Tracker update test start - #3
+2022-08-16 12:01:04: Tracker update test end  - #3
+2022-08-16 12:01:04: Tracker update test start - #4
+2022-08-16 12:01:04: Tracker update test end  - #4
+2022-08-16 12:01:04: Tracker update test start - #5
+2022-08-16 12:01:04: Tracker update test end  - #5
+2022-08-16 12:01:06: Status trace: running
+2022-08-16 12:01:07: Enumeration of devices starting... with 0
+2022-08-16 12:01:07: PS Move Service not required... skipping.
+2022-08-16 12:01:07: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:01:08: Status trace: running
+2022-08-16 12:01:11: Status trace: running
+2022-08-16 12:01:14: Status trace: running
+2022-08-16 12:01:17: Status trace: running
+2022-08-16 12:01:20: Status trace: running
+2022-08-16 12:01:23: Status trace: running
+2022-08-16 12:02:24: Start/Stop sequence starting.
+2022-08-16 12:02:24: Start/Stop sequence starting.
+2022-08-16 12:02:24: Start/Stop sequence done.
+2022-08-16 12:02:24: Start/Stop sequence done.
+2022-08-16 12:02:25: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 12:02:25: Stopping devices...
+2022-08-16 12:02:25: Stopping devices... done. 
+2022-08-16 12:02:32: Start/Stop sequence starting.
+2022-08-16 12:02:32: Start/Stop sequence starting.
+2022-08-16 12:02:32: Sending communication to start driver - start.
+2022-08-16 12:02:32: Sending communication to start driver - complete.
+2022-08-16 12:02:32: Start/Stop sequence done.
+2022-08-16 12:02:32: Start/Stop sequence done.
+2022-08-16 12:02:32: Connection status chanced to: Driver4VR is running!
+2022-08-16 12:02:32: Starting all devices...
+2022-08-16 12:02:32: Starting devices...
+2022-08-16 12:02:32: Starting devices complete
+2022-08-16 12:02:32: Starting all devices... done.
+2022-08-16 12:03:51: Enumeration of devices starting... with 0
+2022-08-16 12:03:51: PS Move Service not required... skipping.
+2022-08-16 12:03:51: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:13:00: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 12:13:00: Initialize data structures...
+2022-08-16 12:13:00: Initialize data structures... done.
+2022-08-16 12:13:00: Initializing UI: step 2.1.1
+2022-08-16 12:13:00: Reading application settings...
+2022-08-16 12:13:00: Reading application settings... done.
+2022-08-16 12:13:00: Initializing UI: step 2.1.2
+2022-08-16 12:13:00: Initializing UI: step 2.1.3
+2022-08-16 12:13:00: Initializing UI: step 2.1.4
+2022-08-16 12:13:00: Initializing UI: step 2.1.5
+2022-08-16 12:13:00: Initializing UI: step 2.1.6
+2022-08-16 12:13:00: Initializing UI: step 2.1.7
+2022-08-16 12:13:00: Initializing UI: step 2.1.8
+2022-08-16 12:13:00: Initializing UI: step 2.1.9
+2022-08-16 12:13:00: Initializing UI: step 2.1.10
+2022-08-16 12:13:00: Initializing UI.TrackerList: step 1
+2022-08-16 12:13:01: Initializing UI.TrackerList: step 2
+2022-08-16 12:13:01: Initializing UI.TrackerList: step 3
+2022-08-16 12:13:01: Initializing UI.TrackerList: step 99
+2022-08-16 12:13:01: Initializing UI: step 2.1.11
+2022-08-16 12:13:01: Initializing UI: step 2.1.12
+2022-08-16 12:13:01: Initializing UI: step 2.1.13
+2022-08-16 12:13:01: Initializing UI: step 2.1.14
+2022-08-16 12:13:01: Initializing UI: step 2.1.15
+2022-08-16 12:13:01: Initializing UI: step 2.1.16
+2022-08-16 12:13:01: Initializing UI: step 2.1.17
+2022-08-16 12:13:01: Initializing UI: step 2.1.18
+2022-08-16 12:13:01: Initializing UI: step 2.1.19
+2022-08-16 12:13:01: Initializing UI: step 2.1.20
+2022-08-16 12:13:01: Initializing UI: step 2.1.21
+2022-08-16 12:13:01: Initializing UI: step 2.1.22
+2022-08-16 12:13:01: Initializing UI: step 2.1.23
+2022-08-16 12:13:01: Initializing UI: step 2.1.24
+2022-08-16 12:13:01: Initializing UI: step 2.1.25
+2022-08-16 12:13:01: Initializing UI: step 2.1.26
+2022-08-16 12:13:01: Initializing UI: step 2.1.27
+2022-08-16 12:13:01: Initializing UI: step 2.1.28
+2022-08-16 12:13:01: Initializing UI: step 2.1.29
+2022-08-16 12:13:01: Initializing UI: step 2.1.30
+2022-08-16 12:13:01: Initializing UI: step 2.1.99
+2022-08-16 12:13:01: Loading main window.
+2022-08-16 12:13:01: Initialisation...
+2022-08-16 12:13:01: Initialisation - Start...
+2022-08-16 12:13:01: Initialisation - Checking driver installation...
+2022-08-16 12:13:01: Initialisation - Checking driver installation: True
+2022-08-16 12:13:01: Initialisation - Authenticating...
+2022-08-16 12:13:01: Unable to read statistic: stat_reset_stats
+2022-08-16 12:13:01: Initialisation - Authenticating: True
+2022-08-16 12:13:01: Initialisation - Authenticating: True, 0, 
+2022-08-16 12:13:01: Initialisation - loading devices...
+2022-08-16 12:13:01: Connecting to SteamVR - start
+2022-08-16 12:13:01: Connecting to SteamVR - returned: Init_HmdNotFound
+2022-08-16 12:13:02: VRPath reg output: 
+
+2022-08-16 12:13:02: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 12:13:02: Connecting to SteamVR - complete
+2022-08-16 12:13:02: Unable to connect to SteamVR: Headset was not found.
+2022-08-16 12:13:02: Connection status chanced to: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 12:13:02: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-16 12:13:02: Initialisation... complted.
+2022-08-16 12:13:02: Finalising...
+2022-08-16 12:13:02: Finalising... completed.
+2022-08-16 12:13:09: Ending application...
+2022-08-16 12:13:09: Closing application...
+2022-08-16 12:13:09: Creating Wii Connection...
+2022-08-16 12:13:09: Creating Wii Connection... completed with success.
+2022-08-16 12:13:10: Closing application... completed.
+2022-08-16 12:13:10: Shutdown of Driver4VR application has been completed.
+2022-08-16 12:17:38: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 12:17:38: Initialize data structures...
+2022-08-16 12:17:39: Initialize data structures... done.
+2022-08-16 12:17:39: Initializing UI: step 2.1.1
+2022-08-16 12:17:39: Reading application settings...
+2022-08-16 12:17:39: Reading application settings... done.
+2022-08-16 12:17:39: Initializing UI: step 2.1.2
+2022-08-16 12:17:39: Initializing UI: step 2.1.3
+2022-08-16 12:17:39: Initializing UI: step 2.1.4
+2022-08-16 12:17:39: Initializing UI: step 2.1.5
+2022-08-16 12:17:39: Initializing UI: step 2.1.6
+2022-08-16 12:17:39: Initializing UI: step 2.1.7
+2022-08-16 12:17:39: Initializing UI: step 2.1.8
+2022-08-16 12:17:39: Initializing UI: step 2.1.9
+2022-08-16 12:17:39: Initializing UI: step 2.1.10
+2022-08-16 12:17:39: Initializing UI.TrackerList: step 1
+2022-08-16 12:17:39: Initializing UI.TrackerList: step 2
+2022-08-16 12:17:39: Initializing UI.TrackerList: step 3
+2022-08-16 12:17:39: Initializing UI.TrackerList: step 99
+2022-08-16 12:17:39: Initializing UI: step 2.1.11
+2022-08-16 12:17:39: Initializing UI: step 2.1.12
+2022-08-16 12:17:39: Initializing UI: step 2.1.13
+2022-08-16 12:17:39: Initializing UI: step 2.1.14
+2022-08-16 12:17:39: Initializing UI: step 2.1.15
+2022-08-16 12:17:39: Initializing UI: step 2.1.16
+2022-08-16 12:17:39: Initializing UI: step 2.1.17
+2022-08-16 12:17:39: Initializing UI: step 2.1.18
+2022-08-16 12:17:39: Initializing UI: step 2.1.19
+2022-08-16 12:17:39: Initializing UI: step 2.1.20
+2022-08-16 12:17:39: Initializing UI: step 2.1.21
+2022-08-16 12:17:39: Initializing UI: step 2.1.22
+2022-08-16 12:17:39: Initializing UI: step 2.1.23
+2022-08-16 12:17:39: Initializing UI: step 2.1.24
+2022-08-16 12:17:39: Initializing UI: step 2.1.25
+2022-08-16 12:17:39: Initializing UI: step 2.1.26
+2022-08-16 12:17:39: Initializing UI: step 2.1.27
+2022-08-16 12:17:39: Initializing UI: step 2.1.28
+2022-08-16 12:17:39: Initializing UI: step 2.1.29
+2022-08-16 12:17:39: Initializing UI: step 2.1.30
+2022-08-16 12:17:39: Initializing UI: step 2.1.99
+2022-08-16 12:17:40: Loading main window.
+2022-08-16 12:17:40: Initialisation...
+2022-08-16 12:17:40: Initialisation - Start...
+2022-08-16 12:17:40: Initialisation - Checking driver installation...
+2022-08-16 12:17:40: Initialisation - Checking driver installation: True
+2022-08-16 12:17:40: Initialisation - Authenticating...
+2022-08-16 12:17:40: Unable to read statistic: stat_reset_stats
+2022-08-16 12:17:40: Initialisation - Authenticating: True
+2022-08-16 12:17:40: Initialisation - Authenticating: True, 0, 
+2022-08-16 12:17:40: Initialisation - loading devices...
+2022-08-16 12:17:40: Connecting to SteamVR - start
+2022-08-16 12:17:42: Connecting to SteamVR - returned: None
+2022-08-16 12:17:42: VRPath reg output: 
+
+2022-08-16 12:17:42: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 12:17:42: Connecting to SteamVR - complete
+2022-08-16 12:17:42: Detected iVRy Headset.
+2022-08-16 12:17:42: Initialisation - loading devices - Done.
+2022-08-16 12:17:42: Initialisation - loading configuration...
+2022-08-16 12:17:42: Initialisation - loading configuration - Done.
+2022-08-16 12:17:42: Initialisation - starting server...
+2022-08-16 12:17:42: Creating communication thread...
+2022-08-16 12:17:42: Creating communication done...
+2022-08-16 12:17:42: Initialisation - starting server - Done.
+2022-08-16 12:17:42: Initialisation - reload enabled async.
+2022-08-16 12:17:42: Initialize communication thread.
+2022-08-16 12:17:42: Communication thread test start - #1
+2022-08-16 12:17:42: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 12:17:42: Initialisation - Done
+2022-08-16 12:17:42: Initialisation... complted.
+2022-08-16 12:17:42: Finalising...
+2022-08-16 12:17:42: Communication thread test end  - #1
+2022-08-16 12:17:42: Communication thread test start - #2
+2022-08-16 12:17:42: Communication thread test end  - #2
+2022-08-16 12:17:42: Communication thread test start - #3
+2022-08-16 12:17:42: Communication thread test end  - #3
+2022-08-16 12:17:42: Communication thread test start - #4
+2022-08-16 12:17:42: Communication thread test end  - #4
+2022-08-16 12:17:42: Communication thread test start - #5
+2022-08-16 12:17:42: Communication thread test end  - #5
+2022-08-16 12:17:44: Status trace: stopped
+2022-08-16 12:17:48: Status trace: stopped
+2022-08-16 12:17:50: Status trace: stopped
+2022-08-16 12:17:52: Enumeration of devices starting... with 0
+2022-08-16 12:17:52: PS Move Service not required... skipping.
+2022-08-16 12:17:52: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:17:53: Status trace: stopped
+2022-08-16 12:17:56: Status trace: stopped
+2022-08-16 12:17:57: Start/Stop sequence starting.
+2022-08-16 12:17:57: Start/Stop sequence starting.
+2022-08-16 12:17:57: Creating processing thread... start.
+2022-08-16 12:17:57: Creating processing thread... done.
+2022-08-16 12:17:57: Sending communication to start driver - start.
+2022-08-16 12:17:57: Sending communication to start driver - complete.
+2022-08-16 12:17:57: Start/Stop sequence done.
+2022-08-16 12:17:57: Start/Stop sequence done.
+2022-08-16 12:17:57: Initialize processing thread.
+2022-08-16 12:17:57: Connection status chanced to: Driver4VR is running!
+2022-08-16 12:17:57: Starting all devices...
+2022-08-16 12:17:57: Creating Wii Connection...
+2022-08-16 12:17:58: Creating Wii Connection... completed with success.
+2022-08-16 12:17:58: Starting devices...
+2022-08-16 12:17:58: Initializing Wii library...
+2022-08-16 12:17:58: Initializing Wii library... done.
+2022-08-16 12:18:00: Starting devices complete
+2022-08-16 12:18:00: Starting all devices... done.
+2022-08-16 12:18:00: Tracker update test start - #1
+2022-08-16 12:18:00: Tracker update test end  - #1
+2022-08-16 12:18:00: Tracker update test start - #2
+2022-08-16 12:18:00: Tracker update test end  - #2
+2022-08-16 12:18:00: Status trace: running
+2022-08-16 12:18:00: Tracker update test start - #3
+2022-08-16 12:18:00: Tracker update test end  - #3
+2022-08-16 12:18:00: Tracker update test start - #4
+2022-08-16 12:18:00: Tracker update test end  - #4
+2022-08-16 12:18:00: Tracker update test start - #5
+2022-08-16 12:18:00: Tracker update test end  - #5
+2022-08-16 12:18:03: Status trace: running
+2022-08-16 12:18:06: Status trace: running
+2022-08-16 12:18:09: Status trace: running
+2022-08-16 12:18:10: Enumeration of devices starting... with 0
+2022-08-16 12:18:10: PS Move Service not required... skipping.
+2022-08-16 12:18:10: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:12: Status trace: running
+2022-08-16 12:18:30: Enumeration of devices starting... with 0
+2022-08-16 12:18:30: PS Move Service not required... skipping.
+2022-08-16 12:18:30: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:50: Enumeration of devices starting... with 0
+2022-08-16 12:18:50: PS Move Service not required... skipping.
+2022-08-16 12:18:50: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:51: Enumeration of devices starting... with 0
+2022-08-16 12:18:51: PS Move Service not required... skipping.
+2022-08-16 12:18:51: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:52: Enumeration of devices starting... with 0
+2022-08-16 12:18:52: PS Move Service not required... skipping.
+2022-08-16 12:18:52: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:54: Enumeration of devices starting... with 0
+2022-08-16 12:18:54: PS Move Service not required... skipping.
+2022-08-16 12:18:54: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:55: Enumeration of devices starting... with 0
+2022-08-16 12:18:55: PS Move Service not required... skipping.
+2022-08-16 12:18:55: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:55: Enumeration of devices starting... with 0
+2022-08-16 12:18:55: PS Move Service not required... skipping.
+2022-08-16 12:18:55: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:55: Enumeration of devices starting... with 0
+2022-08-16 12:18:55: PS Move Service not required... skipping.
+2022-08-16 12:18:55: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:56: Enumeration of devices starting... with 0
+2022-08-16 12:18:56: PS Move Service not required... skipping.
+2022-08-16 12:18:56: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:18:57: Enumeration of devices starting... with 0
+2022-08-16 12:18:57: PS Move Service not required... skipping.
+2022-08-16 12:18:57: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:21:21: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 12:21:21: Initialize data structures...
+2022-08-16 12:21:21: Initialize data structures... done.
+2022-08-16 12:21:21: Initializing UI: step 2.1.1
+2022-08-16 12:21:21: Reading application settings...
+2022-08-16 12:21:21: Reading application settings... done.
+2022-08-16 12:21:21: Initializing UI: step 2.1.2
+2022-08-16 12:21:21: Initializing UI: step 2.1.3
+2022-08-16 12:21:21: Initializing UI: step 2.1.4
+2022-08-16 12:21:21: Initializing UI: step 2.1.5
+2022-08-16 12:21:21: Initializing UI: step 2.1.6
+2022-08-16 12:21:21: Initializing UI: step 2.1.7
+2022-08-16 12:21:21: Initializing UI: step 2.1.8
+2022-08-16 12:21:21: Initializing UI: step 2.1.9
+2022-08-16 12:21:21: Initializing UI: step 2.1.10
+2022-08-16 12:21:21: Initializing UI.TrackerList: step 1
+2022-08-16 12:21:21: Initializing UI.TrackerList: step 2
+2022-08-16 12:21:21: Initializing UI.TrackerList: step 3
+2022-08-16 12:21:21: Initializing UI.TrackerList: step 99
+2022-08-16 12:21:21: Initializing UI: step 2.1.11
+2022-08-16 12:21:21: Initializing UI: step 2.1.12
+2022-08-16 12:21:21: Initializing UI: step 2.1.13
+2022-08-16 12:21:21: Initializing UI: step 2.1.14
+2022-08-16 12:21:21: Initializing UI: step 2.1.15
+2022-08-16 12:21:21: Initializing UI: step 2.1.16
+2022-08-16 12:21:21: Initializing UI: step 2.1.17
+2022-08-16 12:21:21: Initializing UI: step 2.1.18
+2022-08-16 12:21:21: Initializing UI: step 2.1.19
+2022-08-16 12:21:21: Initializing UI: step 2.1.20
+2022-08-16 12:21:21: Initializing UI: step 2.1.21
+2022-08-16 12:21:21: Initializing UI: step 2.1.22
+2022-08-16 12:21:21: Initializing UI: step 2.1.23
+2022-08-16 12:21:21: Initializing UI: step 2.1.24
+2022-08-16 12:21:21: Initializing UI: step 2.1.25
+2022-08-16 12:21:21: Initializing UI: step 2.1.26
+2022-08-16 12:21:21: Initializing UI: step 2.1.27
+2022-08-16 12:21:21: Initializing UI: step 2.1.28
+2022-08-16 12:21:21: Initializing UI: step 2.1.29
+2022-08-16 12:21:21: Initializing UI: step 2.1.30
+2022-08-16 12:21:21: Initializing UI: step 2.1.99
+2022-08-16 12:21:21: Loading main window.
+2022-08-16 12:21:21: Initialisation...
+2022-08-16 12:21:21: Initialisation - Start...
+2022-08-16 12:21:21: Initialisation - Checking driver installation...
+2022-08-16 12:21:22: Initialisation - Checking driver installation: True
+2022-08-16 12:21:22: Initialisation - Authenticating...
+2022-08-16 12:21:22: [Steamworks] Steam is not running or game wasn't started through Steam.
+2022-08-16 12:21:22: Initialisation - Authenticating: False
+2022-08-16 12:21:22: Initialisation - Authenticating: False, -1, Error: Unable to initialize Steam#4
+2022-08-16 12:21:22: Failed to initialize: Error: Unable to initialize Steam#4
+2022-08-16 12:21:22: Initialisation - not completed at authentication:Error: Unable to initialize Steam#4
+2022-08-16 12:21:22: Initialisation... complted.
+2022-08-16 12:21:22: Finalising...
+2022-08-16 12:22:04: Closing application...
+2022-08-16 12:22:04: Creating Wii Connection...
+2022-08-16 12:22:04: Creating Wii Connection... completed with success.
+2022-08-16 12:22:05: Closing application... completed.
+2022-08-16 12:22:05: Shutdown of Driver4VR application has been completed.
+2022-08-16 12:22:27: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-16 12:22:27: Initialize data structures...
+2022-08-16 12:22:27: Initialize data structures... done.
+2022-08-16 12:22:27: Initializing UI: step 2.1.1
+2022-08-16 12:22:27: Reading application settings...
+2022-08-16 12:22:27: Reading application settings... done.
+2022-08-16 12:22:27: Initializing UI: step 2.1.2
+2022-08-16 12:22:27: Initializing UI: step 2.1.3
+2022-08-16 12:22:27: Initializing UI: step 2.1.4
+2022-08-16 12:22:27: Initializing UI: step 2.1.5
+2022-08-16 12:22:27: Initializing UI: step 2.1.6
+2022-08-16 12:22:27: Initializing UI: step 2.1.7
+2022-08-16 12:22:27: Initializing UI: step 2.1.8
+2022-08-16 12:22:27: Initializing UI: step 2.1.9
+2022-08-16 12:22:27: Initializing UI: step 2.1.10
+2022-08-16 12:22:27: Initializing UI.TrackerList: step 1
+2022-08-16 12:22:27: Initializing UI.TrackerList: step 2
+2022-08-16 12:22:28: Initializing UI.TrackerList: step 3
+2022-08-16 12:22:28: Initializing UI.TrackerList: step 99
+2022-08-16 12:22:28: Initializing UI: step 2.1.11
+2022-08-16 12:22:28: Initializing UI: step 2.1.12
+2022-08-16 12:22:28: Initializing UI: step 2.1.13
+2022-08-16 12:22:28: Initializing UI: step 2.1.14
+2022-08-16 12:22:28: Initializing UI: step 2.1.15
+2022-08-16 12:22:28: Initializing UI: step 2.1.16
+2022-08-16 12:22:28: Initializing UI: step 2.1.17
+2022-08-16 12:22:28: Initializing UI: step 2.1.18
+2022-08-16 12:22:28: Initializing UI: step 2.1.19
+2022-08-16 12:22:28: Initializing UI: step 2.1.20
+2022-08-16 12:22:28: Initializing UI: step 2.1.21
+2022-08-16 12:22:28: Initializing UI: step 2.1.22
+2022-08-16 12:22:28: Initializing UI: step 2.1.23
+2022-08-16 12:22:28: Initializing UI: step 2.1.24
+2022-08-16 12:22:28: Initializing UI: step 2.1.25
+2022-08-16 12:22:28: Initializing UI: step 2.1.26
+2022-08-16 12:22:28: Initializing UI: step 2.1.27
+2022-08-16 12:22:28: Initializing UI: step 2.1.28
+2022-08-16 12:22:28: Initializing UI: step 2.1.29
+2022-08-16 12:22:28: Initializing UI: step 2.1.30
+2022-08-16 12:22:28: Initializing UI: step 2.1.99
+2022-08-16 12:22:28: Loading main window.
+2022-08-16 12:22:28: Initialisation...
+2022-08-16 12:22:28: Initialisation - Start...
+2022-08-16 12:22:28: Initialisation - Checking driver installation...
+2022-08-16 12:22:28: Initialisation - Checking driver installation: True
+2022-08-16 12:22:28: Initialisation - Authenticating...
+2022-08-16 12:22:28: Unable to read statistic: stat_reset_stats
+2022-08-16 12:22:28: Initialisation - Authenticating: True
+2022-08-16 12:22:28: Initialisation - Authenticating: True, 0, 
+2022-08-16 12:22:28: Initialisation - loading devices...
+2022-08-16 12:22:28: Connecting to SteamVR - start
+2022-08-16 12:22:31: Connecting to SteamVR - returned: None
+2022-08-16 12:22:31: VRPath reg output: 
+
+2022-08-16 12:22:31: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2022-08-16 12:22:31: Connecting to SteamVR - complete
+2022-08-16 12:22:31: Detected iVRy Headset.
+2022-08-16 12:22:31: Initialisation - loading devices - Done.
+2022-08-16 12:22:31: Initialisation - loading configuration...
+2022-08-16 12:22:31: Initialisation - loading configuration - Done.
+2022-08-16 12:22:31: Initialisation - starting server...
+2022-08-16 12:22:31: Creating communication thread...
+2022-08-16 12:22:31: Creating communication done...
+2022-08-16 12:22:31: Initialisation - starting server - Done.
+2022-08-16 12:22:31: Initialisation - reload enabled async.
+2022-08-16 12:22:31: Initialize communication thread.
+2022-08-16 12:22:31: Communication thread test start - #1
+2022-08-16 12:22:31: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-16 12:22:31: Initialisation - Done
+2022-08-16 12:22:31: Initialisation... complted.
+2022-08-16 12:22:31: Finalising...
+2022-08-16 12:22:31: Communication thread test end  - #1
+2022-08-16 12:22:31: Communication thread test start - #2
+2022-08-16 12:22:31: Communication thread test end  - #2
+2022-08-16 12:22:31: Communication thread test start - #3
+2022-08-16 12:22:31: Communication thread test end  - #3
+2022-08-16 12:22:31: Communication thread test start - #4
+2022-08-16 12:22:31: Communication thread test end  - #4
+2022-08-16 12:22:31: Communication thread test start - #5
+2022-08-16 12:22:31: Communication thread test end  - #5
+2022-08-16 12:22:33: Status trace: stopped
+2022-08-16 12:22:36: Status trace: stopped
+2022-08-16 12:22:39: Status trace: stopped
+2022-08-16 12:22:42: Status trace: stopped
+2022-08-16 12:22:45: Status trace: stopped
+2022-08-16 12:22:47: Enumeration of devices starting... with 0
+2022-08-16 12:22:47: PS Move Service not required... skipping.
+2022-08-16 12:22:47: Enumeration of devices starting completed with 0 total.
+2022-08-16 12:22:48: Status trace: stopped
+2022-08-16 12:22:51: Status trace: stopped
+2022-08-16 12:22:54: Status trace: stopped
+2022-08-16 12:22:57: Status trace: stopped
+2022-08-16 12:23:00: Status trace: stopped
+2022-08-16 12:23:09: Enumeration of devices starting... with 0
+2022-08-16 12:23:09: PS Move Service not required... skipping.
+2022-08-16 12:23:09: Enumeration of devices starting completed with 0 total.
+2022-08-17 22:40:21: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-17 22:40:22: Initialize data structures...
+2022-08-17 22:40:22: Initialize data structures... done.
+2022-08-17 22:40:23: Initializing UI: step 2.1.1
+2022-08-17 22:40:23: Reading application settings...
+2022-08-17 22:40:23: Reading application settings... done.
+2022-08-17 22:40:23: Initializing UI: step 2.1.2
+2022-08-17 22:40:23: Initializing UI: step 2.1.3
+2022-08-17 22:40:23: Initializing UI: step 2.1.4
+2022-08-17 22:40:23: Initializing UI: step 2.1.5
+2022-08-17 22:40:23: Initializing UI: step 2.1.6
+2022-08-17 22:40:23: Initializing UI: step 2.1.7
+2022-08-17 22:40:23: Initializing UI: step 2.1.8
+2022-08-17 22:40:23: Initializing UI: step 2.1.9
+2022-08-17 22:40:23: Initializing UI: step 2.1.10
+2022-08-17 22:40:23: Initializing UI.TrackerList: step 1
+2022-08-17 22:40:24: Initializing UI.TrackerList: step 2
+2022-08-17 22:40:24: Initializing UI.TrackerList: step 3
+2022-08-17 22:40:24: Initializing UI.TrackerList: step 99
+2022-08-17 22:40:24: Initializing UI: step 2.1.11
+2022-08-17 22:40:24: Initializing UI: step 2.1.12
+2022-08-17 22:40:24: Initializing UI: step 2.1.13
+2022-08-17 22:40:24: Initializing UI: step 2.1.14
+2022-08-17 22:40:24: Initializing UI: step 2.1.15
+2022-08-17 22:40:24: Initializing UI: step 2.1.16
+2022-08-17 22:40:24: Initializing UI: step 2.1.17
+2022-08-17 22:40:24: Initializing UI: step 2.1.18
+2022-08-17 22:40:24: Initializing UI: step 2.1.19
+2022-08-17 22:40:24: Initializing UI: step 2.1.20
+2022-08-17 22:40:24: Initializing UI: step 2.1.21
+2022-08-17 22:40:24: Initializing UI: step 2.1.22
+2022-08-17 22:40:24: Initializing UI: step 2.1.23
+2022-08-17 22:40:24: Initializing UI: step 2.1.24
+2022-08-17 22:40:24: Initializing UI: step 2.1.25
+2022-08-17 22:40:24: Initializing UI: step 2.1.26
+2022-08-17 22:40:24: Initializing UI: step 2.1.27
+2022-08-17 22:40:24: Initializing UI: step 2.1.28
+2022-08-17 22:40:24: Initializing UI: step 2.1.29
+2022-08-17 22:40:24: Initializing UI: step 2.1.30
+2022-08-17 22:40:24: Initializing UI: step 2.1.99
+2022-08-17 22:40:27: Loading main window.
+2022-08-17 22:40:27: Initialisation...
+2022-08-17 22:40:28: Initialisation - Start...
+2022-08-17 22:40:28: Initialisation - Checking driver installation...
+2022-08-17 22:40:28: Initialisation - Checking driver installation: True
+2022-08-17 22:40:28: Initialisation - Authenticating...
+2022-08-17 22:40:28: Unable to read statistic: stat_reset_stats
+2022-08-17 22:40:28: Initialisation - Authenticating: True
+2022-08-17 22:40:28: Initialisation - Authenticating: True, 0, 
+2022-08-17 22:40:28: Initialisation - loading devices...
+2022-08-17 22:40:28: Connecting to SteamVR - start
+2022-08-17 22:40:29: Connecting to SteamVR - returned: None
+2022-08-17 22:40:29: VRPath reg output: 
+
+2022-08-17 22:40:29: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+
+2022-08-17 22:40:29: Connecting to SteamVR - complete
+2022-08-17 22:40:30: Initialisation - loading devices - Done.
+2022-08-17 22:40:30: Initialisation - loading configuration...
+2022-08-17 22:40:30: Initialisation - loading configuration - Done.
+2022-08-17 22:40:30: Initialisation - starting server...
+2022-08-17 22:40:30: Creating communication thread...
+2022-08-17 22:40:30: Creating communication done...
+2022-08-17 22:40:30: Initialisation - starting server - Done.
+2022-08-17 22:40:30: Initialisation - reload enabled async.
+2022-08-17 22:40:30: Initialize communication thread.
+2022-08-17 22:40:30: Communication thread test start - #1
+2022-08-17 22:40:30: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-17 22:40:30: Initialisation - Done
+2022-08-17 22:40:30: Initialisation... complted.
+2022-08-17 22:40:30: Finalising...
+2022-08-17 22:40:30: Communication thread test end  - #1
+2022-08-17 22:40:30: Communication thread test start - #2
+2022-08-17 22:40:30: Communication thread test end  - #2
+2022-08-17 22:40:30: Communication thread test start - #3
+2022-08-17 22:40:30: Communication thread test end  - #3
+2022-08-17 22:40:30: Communication thread test start - #4
+2022-08-17 22:40:30: Communication thread test end  - #4
+2022-08-17 22:40:30: Communication thread test start - #5
+2022-08-17 22:40:30: Communication thread test end  - #5
+2022-08-17 22:40:32: Status trace: stopped
+2022-08-17 22:40:35: Status trace: stopped
+2022-08-17 22:40:38: Status trace: stopped
+2022-08-17 22:40:41: Status trace: stopped
+2022-08-17 22:40:44: Status trace: stopped
+2022-08-17 22:40:47: Status trace: stopped
+2022-08-17 22:40:50: Status trace: stopped
+2022-08-17 22:40:53: Status trace: stopped
+2022-08-17 22:40:56: Status trace: stopped
+2022-08-17 22:40:59: Status trace: stopped
+2022-08-17 22:43:03: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-17 22:43:04: Initialize data structures...
+2022-08-17 22:43:04: Initialize data structures... done.
+2022-08-17 22:43:04: Initializing UI: step 2.1.1
+2022-08-17 22:43:04: Reading application settings...
+2022-08-17 22:43:04: Reading application settings... done.
+2022-08-17 22:43:04: Initializing UI: step 2.1.2
+2022-08-17 22:43:04: Initializing UI: step 2.1.3
+2022-08-17 22:43:04: Initializing UI: step 2.1.4
+2022-08-17 22:43:04: Initializing UI: step 2.1.5
+2022-08-17 22:43:04: Initializing UI: step 2.1.6
+2022-08-17 22:43:04: Initializing UI: step 2.1.7
+2022-08-17 22:43:04: Initializing UI: step 2.1.8
+2022-08-17 22:43:04: Initializing UI: step 2.1.9
+2022-08-17 22:43:04: Initializing UI: step 2.1.10
+2022-08-17 22:43:04: Initializing UI.TrackerList: step 1
+2022-08-17 22:43:04: Initializing UI.TrackerList: step 2
+2022-08-17 22:43:04: Initializing UI.TrackerList: step 3
+2022-08-17 22:43:04: Initializing UI.TrackerList: step 99
+2022-08-17 22:43:04: Initializing UI: step 2.1.11
+2022-08-17 22:43:04: Initializing UI: step 2.1.12
+2022-08-17 22:43:04: Initializing UI: step 2.1.13
+2022-08-17 22:43:04: Initializing UI: step 2.1.14
+2022-08-17 22:43:04: Initializing UI: step 2.1.15
+2022-08-17 22:43:04: Initializing UI: step 2.1.16
+2022-08-17 22:43:04: Initializing UI: step 2.1.17
+2022-08-17 22:43:04: Initializing UI: step 2.1.18
+2022-08-17 22:43:04: Initializing UI: step 2.1.19
+2022-08-17 22:43:04: Initializing UI: step 2.1.20
+2022-08-17 22:43:04: Initializing UI: step 2.1.21
+2022-08-17 22:43:04: Initializing UI: step 2.1.22
+2022-08-17 22:43:04: Initializing UI: step 2.1.23
+2022-08-17 22:43:04: Initializing UI: step 2.1.24
+2022-08-17 22:43:04: Initializing UI: step 2.1.25
+2022-08-17 22:43:04: Initializing UI: step 2.1.26
+2022-08-17 22:43:04: Initializing UI: step 2.1.27
+2022-08-17 22:43:04: Initializing UI: step 2.1.28
+2022-08-17 22:43:04: Initializing UI: step 2.1.29
+2022-08-17 22:43:04: Initializing UI: step 2.1.30
+2022-08-17 22:43:04: Initializing UI: step 2.1.99
+2022-08-17 22:43:05: Loading main window.
+2022-08-17 22:43:05: Initialisation...
+2022-08-17 22:43:05: Initialisation - Start...
+2022-08-17 22:43:05: Initialisation - Checking driver installation...
+2022-08-17 22:43:06: Initialisation - Checking driver installation: True
+2022-08-17 22:43:06: Initialisation - Authenticating...
+2022-08-17 22:43:06: Unable to read statistic: stat_reset_stats
+2022-08-17 22:43:06: Initialisation - Authenticating: True
+2022-08-17 22:43:06: Initialisation - Authenticating: True, 0, 
+2022-08-17 22:43:06: Initialisation - loading devices...
+2022-08-17 22:43:06: Connecting to SteamVR - start
+2022-08-17 22:43:08: Connecting to SteamVR - returned: None
+2022-08-17 22:43:08: VRPath reg output: 
+
+2022-08-17 22:43:08: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+
+2022-08-17 22:43:08: Connecting to SteamVR - complete
+2022-08-17 22:43:08: Initialisation - loading devices - Done.
+2022-08-17 22:43:08: Initialisation - loading configuration...
+2022-08-17 22:43:08: Initialisation - loading configuration - Done.
+2022-08-17 22:43:08: Initialisation - starting server...
+2022-08-17 22:43:08: Creating communication thread...
+2022-08-17 22:43:08: Creating communication done...
+2022-08-17 22:43:08: Initialisation - starting server - Done.
+2022-08-17 22:43:08: Initialisation - reload enabled async.
+2022-08-17 22:43:08: Initialize communication thread.
+2022-08-17 22:43:08: Communication thread test start - #1
+2022-08-17 22:43:08: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-17 22:43:08: Initialisation - Done
+2022-08-17 22:43:08: Initialisation... complted.
+2022-08-17 22:43:08: Finalising...
+2022-08-17 22:43:08: Communication thread test end  - #1
+2022-08-17 22:43:08: Communication thread test start - #2
+2022-08-17 22:43:08: Communication thread test end  - #2
+2022-08-17 22:43:08: Communication thread test start - #3
+2022-08-17 22:43:08: Communication thread test end  - #3
+2022-08-17 22:43:08: Communication thread test start - #4
+2022-08-17 22:43:09: Communication thread test end  - #4
+2022-08-17 22:43:09: Communication thread test start - #5
+2022-08-17 22:43:09: Communication thread test end  - #5
+2022-08-17 22:43:11: Closing application...
+2022-08-17 22:43:11: Creating Wii Connection...
+2022-08-17 22:43:11: Creating Wii Connection... completed with success.
+2022-08-17 22:43:11: End communication thread.
+2022-08-17 22:43:11: Closing application... completed.
+2022-08-17 22:43:11: Shutdown of Driver4VR application has been completed.
+2022-08-17 23:19:10: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-17 23:19:11: Initialize data structures...
+2022-08-17 23:19:11: Initialize data structures... done.
+2022-08-17 23:19:11: Initializing UI: step 2.1.1
+2022-08-17 23:19:11: Reading application settings...
+2022-08-17 23:19:11: Reading application settings... done.
+2022-08-17 23:19:11: Initializing UI: step 2.1.2
+2022-08-17 23:19:11: Initializing UI: step 2.1.3
+2022-08-17 23:19:11: Initializing UI: step 2.1.4
+2022-08-17 23:19:11: Initializing UI: step 2.1.5
+2022-08-17 23:19:11: Initializing UI: step 2.1.6
+2022-08-17 23:19:11: Initializing UI: step 2.1.7
+2022-08-17 23:19:11: Initializing UI: step 2.1.8
+2022-08-17 23:19:11: Initializing UI: step 2.1.9
+2022-08-17 23:19:11: Initializing UI: step 2.1.10
+2022-08-17 23:19:11: Initializing UI.TrackerList: step 1
+2022-08-17 23:19:11: Initializing UI.TrackerList: step 2
+2022-08-17 23:19:11: Initializing UI.TrackerList: step 3
+2022-08-17 23:19:11: Initializing UI.TrackerList: step 99
+2022-08-17 23:19:11: Initializing UI: step 2.1.11
+2022-08-17 23:19:11: Initializing UI: step 2.1.12
+2022-08-17 23:19:11: Initializing UI: step 2.1.13
+2022-08-17 23:19:11: Initializing UI: step 2.1.14
+2022-08-17 23:19:11: Initializing UI: step 2.1.15
+2022-08-17 23:19:11: Initializing UI: step 2.1.16
+2022-08-17 23:19:11: Initializing UI: step 2.1.17
+2022-08-17 23:19:11: Initializing UI: step 2.1.18
+2022-08-17 23:19:11: Initializing UI: step 2.1.19
+2022-08-17 23:19:11: Initializing UI: step 2.1.20
+2022-08-17 23:19:11: Initializing UI: step 2.1.21
+2022-08-17 23:19:11: Initializing UI: step 2.1.22
+2022-08-17 23:19:11: Initializing UI: step 2.1.23
+2022-08-17 23:19:11: Initializing UI: step 2.1.24
+2022-08-17 23:19:11: Initializing UI: step 2.1.25
+2022-08-17 23:19:11: Initializing UI: step 2.1.26
+2022-08-17 23:19:11: Initializing UI: step 2.1.27
+2022-08-17 23:19:11: Initializing UI: step 2.1.28
+2022-08-17 23:19:11: Initializing UI: step 2.1.29
+2022-08-17 23:19:11: Initializing UI: step 2.1.30
+2022-08-17 23:19:11: Initializing UI: step 2.1.99
+2022-08-17 23:19:12: Loading main window.
+2022-08-17 23:19:12: Initialisation...
+2022-08-17 23:19:12: Initialisation - Start...
+2022-08-17 23:19:12: Initialisation - Checking driver installation...
+2022-08-17 23:19:12: Initialisation - Checking driver installation: True
+2022-08-17 23:19:12: Initialisation - Authenticating...
+2022-08-17 23:19:12: Unable to read statistic: stat_reset_stats
+2022-08-17 23:19:12: Initialisation - Authenticating: True
+2022-08-17 23:19:12: Initialisation - Authenticating: True, 0, 
+2022-08-17 23:19:12: Initialisation - loading devices...
+2022-08-17 23:19:12: Connecting to SteamVR - start
+2022-08-17 23:19:13: Connecting to SteamVR - returned: None
+2022-08-17 23:19:14: VRPath reg output: 
+
+2022-08-17 23:19:14: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+
+2022-08-17 23:19:14: Connecting to SteamVR - complete
+2022-08-17 23:19:14: Initialisation - loading devices - Done.
+2022-08-17 23:19:14: Initialisation - loading configuration...
+2022-08-17 23:19:14: Initialisation - loading configuration - Done.
+2022-08-17 23:19:14: Initialisation - starting server...
+2022-08-17 23:19:14: Creating communication thread...
+2022-08-17 23:19:14: Creating communication done...
+2022-08-17 23:19:14: Initialisation - starting server - Done.
+2022-08-17 23:19:14: Initialisation - reload enabled async.
+2022-08-17 23:19:14: Initialize communication thread.
+2022-08-17 23:19:14: Communication thread test start - #1
+2022-08-17 23:19:14: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-17 23:19:14: Initialisation - Done
+2022-08-17 23:19:14: Initialisation... complted.
+2022-08-17 23:19:14: Finalising...
+2022-08-17 23:19:14: Communication thread test end  - #1
+2022-08-17 23:19:14: Communication thread test start - #2
+2022-08-17 23:19:14: Communication thread test end  - #2
+2022-08-17 23:19:14: Communication thread test start - #3
+2022-08-17 23:19:14: Communication thread test end  - #3
+2022-08-17 23:19:14: Communication thread test start - #4
+2022-08-17 23:19:14: Communication thread test end  - #4
+2022-08-17 23:19:14: Communication thread test start - #5
+2022-08-17 23:19:14: Communication thread test end  - #5
+2022-08-17 23:19:16: Status trace: stopped
+2022-08-17 23:19:19: Status trace: stopped
+2022-08-17 23:19:22: Status trace: stopped
+2022-08-17 23:19:25: Status trace: stopped
+2022-08-17 23:19:28: Status trace: stopped
+2022-08-17 23:19:31: Status trace: stopped
+2022-08-17 23:19:34: Status trace: stopped
+2022-08-17 23:19:37: Status trace: stopped
+2022-08-17 23:19:40: Status trace: stopped
+2022-08-17 23:19:43: Status trace: stopped
+2022-08-17 23:25:24: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-17 23:25:25: Initialize data structures...
+2022-08-17 23:25:25: Initialize data structures... done.
+2022-08-17 23:25:25: Initializing UI: step 2.1.1
+2022-08-17 23:25:25: Reading application settings...
+2022-08-17 23:25:25: Reading application settings... done.
+2022-08-17 23:25:25: Initializing UI: step 2.1.2
+2022-08-17 23:25:25: Initializing UI: step 2.1.3
+2022-08-17 23:25:25: Initializing UI: step 2.1.4
+2022-08-17 23:25:25: Initializing UI: step 2.1.5
+2022-08-17 23:25:25: Initializing UI: step 2.1.6
+2022-08-17 23:25:25: Initializing UI: step 2.1.7
+2022-08-17 23:25:25: Initializing UI: step 2.1.8
+2022-08-17 23:25:25: Initializing UI: step 2.1.9
+2022-08-17 23:25:25: Initializing UI: step 2.1.10
+2022-08-17 23:25:25: Initializing UI.TrackerList: step 1
+2022-08-17 23:25:25: Initializing UI.TrackerList: step 2
+2022-08-17 23:25:25: Initializing UI.TrackerList: step 3
+2022-08-17 23:25:25: Initializing UI.TrackerList: step 99
+2022-08-17 23:25:25: Initializing UI: step 2.1.11
+2022-08-17 23:25:25: Initializing UI: step 2.1.12
+2022-08-17 23:25:25: Initializing UI: step 2.1.13
+2022-08-17 23:25:25: Initializing UI: step 2.1.14
+2022-08-17 23:25:25: Initializing UI: step 2.1.15
+2022-08-17 23:25:25: Initializing UI: step 2.1.16
+2022-08-17 23:25:25: Initializing UI: step 2.1.17
+2022-08-17 23:25:25: Initializing UI: step 2.1.18
+2022-08-17 23:25:25: Initializing UI: step 2.1.19
+2022-08-17 23:25:25: Initializing UI: step 2.1.20
+2022-08-17 23:25:25: Initializing UI: step 2.1.21
+2022-08-17 23:25:25: Initializing UI: step 2.1.22
+2022-08-17 23:25:25: Initializing UI: step 2.1.23
+2022-08-17 23:25:25: Initializing UI: step 2.1.24
+2022-08-17 23:25:25: Initializing UI: step 2.1.25
+2022-08-17 23:25:25: Initializing UI: step 2.1.26
+2022-08-17 23:25:25: Initializing UI: step 2.1.27
+2022-08-17 23:25:25: Initializing UI: step 2.1.28
+2022-08-17 23:25:25: Initializing UI: step 2.1.29
+2022-08-17 23:25:25: Initializing UI: step 2.1.30
+2022-08-17 23:25:25: Initializing UI: step 2.1.99
+2022-08-17 23:25:26: Loading main window.
+2022-08-17 23:25:26: Initialisation...
+2022-08-17 23:25:26: Initialisation - Start...
+2022-08-17 23:25:26: Initialisation - Checking driver installation...
+2022-08-17 23:25:26: Initialisation - Checking driver installation: True
+2022-08-17 23:25:26: Initialisation - Authenticating...
+2022-08-17 23:25:26: Unable to read statistic: stat_reset_stats
+2022-08-17 23:25:26: Initialisation - Authenticating: True
+2022-08-17 23:25:26: Initialisation - Authenticating: True, 0, 
+2022-08-17 23:25:26: Initialisation - loading devices...
+2022-08-17 23:25:26: Connecting to SteamVR - start
+2022-08-17 23:25:29: Connecting to SteamVR - returned: None
+2022-08-17 23:25:29: VRPath reg output: 
+
+2022-08-17 23:25:29: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-17 23:25:29: Connecting to SteamVR - complete
+2022-08-17 23:25:29: Initialisation - loading devices - Done.
+2022-08-17 23:25:29: Initialisation - loading configuration...
+2022-08-17 23:25:29: Initialisation - loading configuration - Done.
+2022-08-17 23:25:29: Initialisation - starting server...
+2022-08-17 23:25:29: Creating communication thread...
+2022-08-17 23:25:29: Creating communication done...
+2022-08-17 23:25:29: Initialisation - starting server - Done.
+2022-08-17 23:25:29: Initialisation - reload enabled async.
+2022-08-17 23:25:29: Initialize communication thread.
+2022-08-17 23:25:29: Communication thread test start - #1
+2022-08-17 23:25:29: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-17 23:25:29: Initialisation - Done
+2022-08-17 23:25:29: Initialisation... complted.
+2022-08-17 23:25:29: Finalising...
+2022-08-17 23:25:29: Communication thread test end  - #1
+2022-08-17 23:25:29: Communication thread test start - #2
+2022-08-17 23:25:29: Communication thread test end  - #2
+2022-08-17 23:25:29: Communication thread test start - #3
+2022-08-17 23:25:29: Communication thread test end  - #3
+2022-08-17 23:25:29: Communication thread test start - #4
+2022-08-17 23:25:29: Communication thread test end  - #4
+2022-08-17 23:25:29: Communication thread test start - #5
+2022-08-17 23:25:29: Communication thread test end  - #5
+2022-08-17 23:25:31: Status trace: stopped
+2022-08-17 23:25:34: Status trace: stopped
+2022-08-17 23:25:37: Status trace: stopped
+2022-08-17 23:25:40: Status trace: stopped
+2022-08-17 23:25:43: Status trace: stopped
+2022-08-17 23:25:46: Status trace: stopped
+2022-08-17 23:25:49: Status trace: stopped
+2022-08-17 23:25:52: Status trace: stopped
+2022-08-17 23:25:55: Status trace: stopped
+2022-08-17 23:25:58: Status trace: stopped
+2022-08-17 23:30:33: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-17 23:30:33: Initialize data structures...
+2022-08-17 23:30:33: Initialize data structures... done.
+2022-08-17 23:30:33: Initializing UI: step 2.1.1
+2022-08-17 23:30:33: Reading application settings...
+2022-08-17 23:30:33: Reading application settings... done.
+2022-08-17 23:30:33: Initializing UI: step 2.1.2
+2022-08-17 23:30:33: Initializing UI: step 2.1.3
+2022-08-17 23:30:33: Initializing UI: step 2.1.4
+2022-08-17 23:30:33: Initializing UI: step 2.1.5
+2022-08-17 23:30:33: Initializing UI: step 2.1.6
+2022-08-17 23:30:33: Initializing UI: step 2.1.7
+2022-08-17 23:30:33: Initializing UI: step 2.1.8
+2022-08-17 23:30:33: Initializing UI: step 2.1.9
+2022-08-17 23:30:33: Initializing UI: step 2.1.10
+2022-08-17 23:30:33: Initializing UI.TrackerList: step 1
+2022-08-17 23:30:33: Initializing UI.TrackerList: step 2
+2022-08-17 23:30:33: Initializing UI.TrackerList: step 3
+2022-08-17 23:30:33: Initializing UI.TrackerList: step 99
+2022-08-17 23:30:33: Initializing UI: step 2.1.11
+2022-08-17 23:30:33: Initializing UI: step 2.1.12
+2022-08-17 23:30:33: Initializing UI: step 2.1.13
+2022-08-17 23:30:33: Initializing UI: step 2.1.14
+2022-08-17 23:30:33: Initializing UI: step 2.1.15
+2022-08-17 23:30:33: Initializing UI: step 2.1.16
+2022-08-17 23:30:33: Initializing UI: step 2.1.17
+2022-08-17 23:30:33: Initializing UI: step 2.1.18
+2022-08-17 23:30:33: Initializing UI: step 2.1.19
+2022-08-17 23:30:33: Initializing UI: step 2.1.20
+2022-08-17 23:30:33: Initializing UI: step 2.1.21
+2022-08-17 23:30:33: Initializing UI: step 2.1.22
+2022-08-17 23:30:33: Initializing UI: step 2.1.23
+2022-08-17 23:30:33: Initializing UI: step 2.1.24
+2022-08-17 23:30:33: Initializing UI: step 2.1.25
+2022-08-17 23:30:33: Initializing UI: step 2.1.26
+2022-08-17 23:30:33: Initializing UI: step 2.1.27
+2022-08-17 23:30:33: Initializing UI: step 2.1.28
+2022-08-17 23:30:33: Initializing UI: step 2.1.29
+2022-08-17 23:30:33: Initializing UI: step 2.1.30
+2022-08-17 23:30:33: Initializing UI: step 2.1.99
+2022-08-17 23:30:34: Loading main window.
+2022-08-17 23:30:34: Initialisation...
+2022-08-17 23:30:34: Initialisation - Start...
+2022-08-17 23:30:34: Initialisation - Checking driver installation...
+2022-08-17 23:30:34: Initialisation - Checking driver installation: True
+2022-08-17 23:30:34: Initialisation - Authenticating...
+2022-08-17 23:30:34: Unable to read statistic: stat_reset_stats
+2022-08-17 23:30:34: Initialisation - Authenticating: True
+2022-08-17 23:30:34: Initialisation - Authenticating: True, 0, 
+2022-08-17 23:30:34: Initialisation - loading devices...
+2022-08-17 23:30:34: Connecting to SteamVR - start
+2022-08-17 23:30:36: Connecting to SteamVR - returned: None
+2022-08-17 23:30:36: VRPath reg output: 
+
+2022-08-17 23:30:36: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-17 23:30:36: Connecting to SteamVR - complete
+2022-08-17 23:30:36: Initialisation - loading devices - Done.
+2022-08-17 23:30:36: Initialisation - loading configuration...
+2022-08-17 23:30:36: Initialisation - loading configuration - Done.
+2022-08-17 23:30:36: Initialisation - starting server...
+2022-08-17 23:30:36: Creating communication thread...
+2022-08-17 23:30:36: Creating communication done...
+2022-08-17 23:30:36: Initialisation - starting server - Done.
+2022-08-17 23:30:36: Initialisation - reload enabled async.
+2022-08-17 23:30:36: Initialize communication thread.
+2022-08-17 23:30:36: Communication thread test start - #1
+2022-08-17 23:30:36: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-17 23:30:36: Initialisation - Done
+2022-08-17 23:30:36: Initialisation... complted.
+2022-08-17 23:30:36: Finalising...
+2022-08-17 23:30:36: Communication thread test end  - #1
+2022-08-17 23:30:36: Communication thread test start - #2
+2022-08-17 23:30:36: Communication thread test end  - #2
+2022-08-17 23:30:36: Communication thread test start - #3
+2022-08-17 23:30:36: Communication thread test end  - #3
+2022-08-17 23:30:36: Communication thread test start - #4
+2022-08-17 23:30:36: Communication thread test end  - #4
+2022-08-17 23:30:36: Communication thread test start - #5
+2022-08-17 23:30:37: Communication thread test end  - #5
+2022-08-17 23:30:38: Status trace: stopped
+2022-08-17 23:30:41: Status trace: stopped
+2022-08-17 23:30:44: Status trace: stopped
+2022-08-17 23:30:47: Status trace: stopped
+2022-08-17 23:30:50: Status trace: stopped
+2022-08-17 23:30:53: Status trace: stopped
+2022-08-17 23:30:56: Status trace: stopped
+2022-08-17 23:30:59: Status trace: stopped
+2022-08-17 23:31:02: Status trace: stopped
+2022-08-17 23:31:05: Status trace: stopped
+2022-08-17 23:31:12: Start/Stop sequence starting.
+2022-08-17 23:31:12: Start/Stop sequence starting.
+2022-08-17 23:31:12: Creating processing thread... start.
+2022-08-17 23:31:12: Creating processing thread... done.
+2022-08-17 23:31:12: Sending communication to start driver - start.
+2022-08-17 23:31:12: Sending communication to start driver - complete.
+2022-08-17 23:31:12: Start/Stop sequence done.
+2022-08-17 23:31:12: Start/Stop sequence done.
+2022-08-17 23:31:12: Initialize processing thread.
+2022-08-17 23:31:12: Connection status chanced to: Driver4VR is running!
+2022-08-17 23:31:12: Starting all devices...
+2022-08-17 23:31:12: Creating Wii Connection...
+2022-08-17 23:31:13: Creating Wii Connection... completed with success.
+2022-08-17 23:31:13: Starting devices...
+2022-08-17 23:31:13: Initializing Wii library...
+2022-08-17 23:31:13: Initializing Wii library... done.
+2022-08-17 23:31:19: Starting devices complete
+2022-08-17 23:31:19: Starting all devices... done.
+2022-08-17 23:31:19: Tracker update test start - #1
+2022-08-17 23:31:19: Tracker update test end  - #1
+2022-08-17 23:31:19: Tracker update test start - #2
+2022-08-17 23:31:19: Tracker update test end  - #2
+2022-08-17 23:31:19: Tracker update test start - #3
+2022-08-17 23:31:19: Tracker update test end  - #3
+2022-08-17 23:31:19: Tracker update test start - #4
+2022-08-17 23:31:19: Tracker update test end  - #4
+2022-08-17 23:31:19: Tracker update test start - #5
+2022-08-17 23:31:19: Tracker update test end  - #5
+2022-08-18 00:06:46: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 00:06:47: Initialize data structures...
+2022-08-18 00:06:47: Initialize data structures... done.
+2022-08-18 00:06:47: Initializing UI: step 2.1.1
+2022-08-18 00:06:47: Reading application settings...
+2022-08-18 00:06:47: Reading application settings... done.
+2022-08-18 00:06:47: Initializing UI: step 2.1.2
+2022-08-18 00:06:47: Initializing UI: step 2.1.3
+2022-08-18 00:06:47: Initializing UI: step 2.1.4
+2022-08-18 00:06:47: Initializing UI: step 2.1.5
+2022-08-18 00:06:47: Initializing UI: step 2.1.6
+2022-08-18 00:06:47: Initializing UI: step 2.1.7
+2022-08-18 00:06:47: Initializing UI: step 2.1.8
+2022-08-18 00:06:47: Initializing UI: step 2.1.9
+2022-08-18 00:06:47: Initializing UI: step 2.1.10
+2022-08-18 00:06:47: Initializing UI.TrackerList: step 1
+2022-08-18 00:06:48: Initializing UI.TrackerList: step 2
+2022-08-18 00:06:48: Initializing UI.TrackerList: step 3
+2022-08-18 00:06:48: Initializing UI.TrackerList: step 99
+2022-08-18 00:06:48: Initializing UI: step 2.1.11
+2022-08-18 00:06:48: Initializing UI: step 2.1.12
+2022-08-18 00:06:48: Initializing UI: step 2.1.13
+2022-08-18 00:06:48: Initializing UI: step 2.1.14
+2022-08-18 00:06:48: Initializing UI: step 2.1.15
+2022-08-18 00:06:48: Initializing UI: step 2.1.16
+2022-08-18 00:06:48: Initializing UI: step 2.1.17
+2022-08-18 00:06:48: Initializing UI: step 2.1.18
+2022-08-18 00:06:48: Initializing UI: step 2.1.19
+2022-08-18 00:06:48: Initializing UI: step 2.1.20
+2022-08-18 00:06:48: Initializing UI: step 2.1.21
+2022-08-18 00:06:48: Initializing UI: step 2.1.22
+2022-08-18 00:06:48: Initializing UI: step 2.1.23
+2022-08-18 00:06:48: Initializing UI: step 2.1.24
+2022-08-18 00:06:48: Initializing UI: step 2.1.25
+2022-08-18 00:06:48: Initializing UI: step 2.1.26
+2022-08-18 00:06:48: Initializing UI: step 2.1.27
+2022-08-18 00:06:48: Initializing UI: step 2.1.28
+2022-08-18 00:06:48: Initializing UI: step 2.1.29
+2022-08-18 00:06:48: Initializing UI: step 2.1.30
+2022-08-18 00:06:48: Initializing UI: step 2.1.99
+2022-08-18 00:06:50: Loading main window.
+2022-08-18 00:06:50: Initialisation...
+2022-08-18 00:06:50: Initialisation - Start...
+2022-08-18 00:06:50: Initialisation - Checking driver installation...
+2022-08-18 00:06:51: Initialisation - Checking driver installation: True
+2022-08-18 00:06:51: Initialisation - Authenticating...
+2022-08-18 00:06:51: Unable to read statistic: stat_reset_stats
+2022-08-18 00:06:51: Initialisation - Authenticating: True
+2022-08-18 00:06:51: Initialisation - Authenticating: True, 0, 
+2022-08-18 00:06:51: Initialisation - loading devices...
+2022-08-18 00:06:51: Connecting to SteamVR - start
+2022-08-18 00:06:52: Connecting to SteamVR - returned: None
+2022-08-18 00:06:53: VRPath reg output: 
+
+2022-08-18 00:06:53: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 00:06:53: Connecting to SteamVR - complete
+2022-08-18 00:06:53: Initialisation - loading devices - Done.
+2022-08-18 00:06:53: Initialisation - loading configuration...
+2022-08-18 00:06:53: Initialisation - loading configuration - Done.
+2022-08-18 00:06:53: Initialisation - starting server...
+2022-08-18 00:06:53: Creating communication thread...
+2022-08-18 00:06:53: Creating communication done...
+2022-08-18 00:06:53: Initialisation - starting server - Done.
+2022-08-18 00:06:53: Initialize communication thread.
+2022-08-18 00:06:53: Communication thread test start - #1
+2022-08-18 00:06:53: Communication thread test end  - #1
+2022-08-18 00:06:53: Communication thread test start - #2
+2022-08-18 00:06:53: Initialisation - reload enabled async.
+2022-08-18 00:06:53: Communication thread test end  - #2
+2022-08-18 00:06:53: Communication thread test start - #3
+2022-08-18 00:06:53: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 00:06:53: Initialisation - Done
+2022-08-18 00:06:53: Initialisation... complted.
+2022-08-18 00:06:53: Finalising...
+2022-08-18 00:06:53: Communication thread test end  - #3
+2022-08-18 00:06:53: Communication thread test start - #4
+2022-08-18 00:06:53: Communication thread test end  - #4
+2022-08-18 00:06:53: Communication thread test start - #5
+2022-08-18 00:06:53: Communication thread test end  - #5
+2022-08-18 00:06:55: Status trace: stopped
+2022-08-18 00:06:58: Status trace: stopped
+2022-08-18 00:07:01: Status trace: stopped
+2022-08-18 00:07:04: Status trace: stopped
+2022-08-18 00:07:07: Status trace: stopped
+2022-08-18 00:07:10: Status trace: stopped
+2022-08-18 00:07:13: Status trace: stopped
+2022-08-18 00:07:16: Status trace: stopped
+2022-08-18 00:07:19: Status trace: stopped
+2022-08-18 00:07:22: Status trace: stopped
+2022-08-18 00:18:39: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 00:18:40: Initialize data structures...
+2022-08-18 00:18:40: Initialize data structures... done.
+2022-08-18 00:18:40: Initializing UI: step 2.1.1
+2022-08-18 00:18:40: Reading application settings...
+2022-08-18 00:18:40: Reading application settings... done.
+2022-08-18 00:18:40: Initializing UI: step 2.1.2
+2022-08-18 00:18:40: Initializing UI: step 2.1.3
+2022-08-18 00:18:40: Initializing UI: step 2.1.4
+2022-08-18 00:18:40: Initializing UI: step 2.1.5
+2022-08-18 00:18:40: Initializing UI: step 2.1.6
+2022-08-18 00:18:40: Initializing UI: step 2.1.7
+2022-08-18 00:18:40: Initializing UI: step 2.1.8
+2022-08-18 00:18:40: Initializing UI: step 2.1.9
+2022-08-18 00:18:40: Initializing UI: step 2.1.10
+2022-08-18 00:18:40: Initializing UI.TrackerList: step 1
+2022-08-18 00:18:40: Initializing UI.TrackerList: step 2
+2022-08-18 00:18:40: Initializing UI.TrackerList: step 3
+2022-08-18 00:18:40: Initializing UI.TrackerList: step 99
+2022-08-18 00:18:40: Initializing UI: step 2.1.11
+2022-08-18 00:18:40: Initializing UI: step 2.1.12
+2022-08-18 00:18:40: Initializing UI: step 2.1.13
+2022-08-18 00:18:40: Initializing UI: step 2.1.14
+2022-08-18 00:18:40: Initializing UI: step 2.1.15
+2022-08-18 00:18:40: Initializing UI: step 2.1.16
+2022-08-18 00:18:40: Initializing UI: step 2.1.17
+2022-08-18 00:18:40: Initializing UI: step 2.1.18
+2022-08-18 00:18:40: Initializing UI: step 2.1.19
+2022-08-18 00:18:40: Initializing UI: step 2.1.20
+2022-08-18 00:18:40: Initializing UI: step 2.1.21
+2022-08-18 00:18:40: Initializing UI: step 2.1.22
+2022-08-18 00:18:40: Initializing UI: step 2.1.23
+2022-08-18 00:18:41: Initializing UI: step 2.1.24
+2022-08-18 00:18:41: Initializing UI: step 2.1.25
+2022-08-18 00:18:41: Initializing UI: step 2.1.26
+2022-08-18 00:18:41: Initializing UI: step 2.1.27
+2022-08-18 00:18:41: Initializing UI: step 2.1.28
+2022-08-18 00:18:41: Initializing UI: step 2.1.29
+2022-08-18 00:18:41: Initializing UI: step 2.1.30
+2022-08-18 00:18:41: Initializing UI: step 2.1.99
+2022-08-18 00:18:42: Loading main window.
+2022-08-18 00:18:42: Initialisation...
+2022-08-18 00:18:42: Initialisation - Start...
+2022-08-18 00:18:42: Initialisation - Checking driver installation...
+2022-08-18 00:18:42: Initialisation - Checking driver installation: True
+2022-08-18 00:18:42: Initialisation - Authenticating...
+2022-08-18 00:18:43: Unable to read statistic: stat_reset_stats
+2022-08-18 00:18:43: Initialisation - Authenticating: True
+2022-08-18 00:18:43: Initialisation - Authenticating: True, 0, 
+2022-08-18 00:18:43: Initialisation - loading devices...
+2022-08-18 00:18:43: Connecting to SteamVR - start
+2022-08-18 00:18:45: Connecting to SteamVR - returned: None
+2022-08-18 00:18:46: VRPath reg output: 
+
+2022-08-18 00:18:46: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 00:18:46: Connecting to SteamVR - complete
+2022-08-18 00:18:46: Initialisation - loading devices - Done.
+2022-08-18 00:18:46: Initialisation - loading configuration...
+2022-08-18 00:18:46: Initialisation - loading configuration - Done.
+2022-08-18 00:18:46: Initialisation - starting server...
+2022-08-18 00:18:46: Creating communication thread...
+2022-08-18 00:18:46: Creating communication done...
+2022-08-18 00:18:46: Initialisation - starting server - Done.
+2022-08-18 00:18:46: Initialisation - reload enabled async.
+2022-08-18 00:18:46: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 00:18:46: Initialisation - Done
+2022-08-18 00:18:46: Initialisation... complted.
+2022-08-18 00:18:46: Finalising...
+2022-08-18 00:18:46: Initialize communication thread.
+2022-08-18 00:18:46: Communication thread test start - #1
+2022-08-18 00:18:46: Communication thread test end  - #1
+2022-08-18 00:18:46: Communication thread test start - #2
+2022-08-18 00:18:46: Communication thread test end  - #2
+2022-08-18 00:18:46: Communication thread test start - #3
+2022-08-18 00:18:46: Communication thread test end  - #3
+2022-08-18 00:18:46: Communication thread test start - #4
+2022-08-18 00:18:46: Communication thread test end  - #4
+2022-08-18 00:18:46: Communication thread test start - #5
+2022-08-18 00:18:46: Communication thread test end  - #5
+2022-08-18 00:18:48: Status trace: stopped
+2022-08-18 00:18:51: Status trace: stopped
+2022-08-18 00:18:54: Status trace: stopped
+2022-08-18 00:18:57: Status trace: stopped
+2022-08-18 00:19:00: Status trace: stopped
+2022-08-18 00:19:03: Status trace: stopped
+2022-08-18 00:19:06: Status trace: stopped
+2022-08-18 00:19:09: Status trace: stopped
+2022-08-18 00:19:12: Status trace: stopped
+2022-08-18 00:19:15: Status trace: stopped
+2022-08-18 00:24:16: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 00:24:16: Initialize data structures...
+2022-08-18 00:24:17: Initialize data structures... done.
+2022-08-18 00:24:17: Initializing UI: step 2.1.1
+2022-08-18 00:24:17: Reading application settings...
+2022-08-18 00:24:17: Reading application settings... done.
+2022-08-18 00:24:17: Initializing UI: step 2.1.2
+2022-08-18 00:24:17: Initializing UI: step 2.1.3
+2022-08-18 00:24:17: Initializing UI: step 2.1.4
+2022-08-18 00:24:17: Initializing UI: step 2.1.5
+2022-08-18 00:24:17: Initializing UI: step 2.1.6
+2022-08-18 00:24:17: Initializing UI: step 2.1.7
+2022-08-18 00:24:17: Initializing UI: step 2.1.8
+2022-08-18 00:24:17: Initializing UI: step 2.1.9
+2022-08-18 00:24:17: Initializing UI: step 2.1.10
+2022-08-18 00:24:17: Initializing UI.TrackerList: step 1
+2022-08-18 00:24:17: Initializing UI.TrackerList: step 2
+2022-08-18 00:24:17: Initializing UI.TrackerList: step 3
+2022-08-18 00:24:17: Initializing UI.TrackerList: step 99
+2022-08-18 00:24:17: Initializing UI: step 2.1.11
+2022-08-18 00:24:17: Initializing UI: step 2.1.12
+2022-08-18 00:24:17: Initializing UI: step 2.1.13
+2022-08-18 00:24:17: Initializing UI: step 2.1.14
+2022-08-18 00:24:17: Initializing UI: step 2.1.15
+2022-08-18 00:24:17: Initializing UI: step 2.1.16
+2022-08-18 00:24:17: Initializing UI: step 2.1.17
+2022-08-18 00:24:17: Initializing UI: step 2.1.18
+2022-08-18 00:24:17: Initializing UI: step 2.1.19
+2022-08-18 00:24:17: Initializing UI: step 2.1.20
+2022-08-18 00:24:17: Initializing UI: step 2.1.21
+2022-08-18 00:24:17: Initializing UI: step 2.1.22
+2022-08-18 00:24:17: Initializing UI: step 2.1.23
+2022-08-18 00:24:17: Initializing UI: step 2.1.24
+2022-08-18 00:24:17: Initializing UI: step 2.1.25
+2022-08-18 00:24:17: Initializing UI: step 2.1.26
+2022-08-18 00:24:17: Initializing UI: step 2.1.27
+2022-08-18 00:24:17: Initializing UI: step 2.1.28
+2022-08-18 00:24:17: Initializing UI: step 2.1.29
+2022-08-18 00:24:17: Initializing UI: step 2.1.30
+2022-08-18 00:24:17: Initializing UI: step 2.1.99
+2022-08-18 00:24:20: Loading main window.
+2022-08-18 00:24:20: Initialisation...
+2022-08-18 00:24:20: Initialisation - Start...
+2022-08-18 00:24:20: Initialisation - Checking driver installation...
+2022-08-18 00:24:21: Initialisation - Checking driver installation: True
+2022-08-18 00:24:21: Initialisation - Authenticating...
+2022-08-18 00:24:21: Unable to read statistic: stat_reset_stats
+2022-08-18 00:24:21: Initialisation - Authenticating: True
+2022-08-18 00:24:21: Initialisation - Authenticating: True, 0, 
+2022-08-18 00:24:21: Initialisation - loading devices...
+2022-08-18 00:24:21: Connecting to SteamVR - start
+2022-08-18 00:24:24: Connecting to SteamVR - returned: None
+2022-08-18 00:24:24: VRPath reg output: 
+
+2022-08-18 00:24:24: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\IriunVR\rabbit
+
+2022-08-18 00:24:24: Connecting to SteamVR - complete
+2022-08-18 00:24:24: Initialisation - loading devices - Done.
+2022-08-18 00:24:24: Initialisation - loading configuration...
+2022-08-18 00:24:24: Initialisation - loading configuration - Done.
+2022-08-18 00:24:24: Initialisation - starting server...
+2022-08-18 00:24:24: Creating communication thread...
+2022-08-18 00:24:24: Creating communication done...
+2022-08-18 00:24:24: Initialisation - starting server - Done.
+2022-08-18 00:24:24: Initialisation - reload enabled async.
+2022-08-18 00:24:24: Initialize communication thread.
+2022-08-18 00:24:24: Communication thread test start - #1
+2022-08-18 00:24:24: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 00:24:24: Initialisation - Done
+2022-08-18 00:24:24: Initialisation... complted.
+2022-08-18 00:24:24: Finalising...
+2022-08-18 00:24:24: Communication thread test end  - #1
+2022-08-18 00:24:24: Communication thread test start - #2
+2022-08-18 00:24:24: Communication thread test end  - #2
+2022-08-18 00:24:24: Communication thread test start - #3
+2022-08-18 00:24:24: Communication thread test end  - #3
+2022-08-18 00:24:24: Communication thread test start - #4
+2022-08-18 00:24:24: Communication thread test end  - #4
+2022-08-18 00:24:24: Communication thread test start - #5
+2022-08-18 00:24:24: Communication thread test end  - #5
+2022-08-18 00:24:26: Status trace: stopped
+2022-08-18 00:24:29: Status trace: stopped
+2022-08-18 00:24:32: Status trace: stopped
+2022-08-18 00:24:35: Start/Stop sequence starting.
+2022-08-18 00:24:35: Start/Stop sequence starting.
+2022-08-18 00:24:35: Creating processing thread... start.
+2022-08-18 00:24:35: Creating processing thread... done.
+2022-08-18 00:24:35: Sending communication to start driver - start.
+2022-08-18 00:24:35: Sending communication to start driver - complete.
+2022-08-18 00:24:35: Start/Stop sequence done.
+2022-08-18 00:24:35: Start/Stop sequence done.
+2022-08-18 00:24:35: Initialize processing thread.
+2022-08-18 00:24:35: Status trace: running
+2022-08-18 00:24:35: Connection status chanced to: Driver4VR is running!
+2022-08-18 00:24:35: Starting all devices...
+2022-08-18 00:24:35: Creating Wii Connection...
+2022-08-18 00:24:35: Creating Wii Connection... completed with success.
+2022-08-18 00:24:35: Starting devices...
+2022-08-18 00:24:35: Initializing Wii library...
+2022-08-18 00:24:35: Initializing Wii library... done.
+2022-08-18 00:24:38: Starting devices complete
+2022-08-18 00:24:38: Starting all devices... done.
+2022-08-18 00:24:38: Tracker update test start - #1
+2022-08-18 00:24:38: Tracker update test end  - #1
+2022-08-18 00:24:38: Tracker update test start - #2
+2022-08-18 00:24:38: Tracker update test end  - #2
+2022-08-18 00:24:38: Tracker update test start - #3
+2022-08-18 00:24:38: Tracker update test end  - #3
+2022-08-18 00:24:38: Tracker update test start - #4
+2022-08-18 00:24:38: Tracker update test end  - #4
+2022-08-18 00:24:38: Tracker update test start - #5
+2022-08-18 00:24:38: Tracker update test end  - #5
+2022-08-18 00:24:39: Status trace: running
+2022-08-18 00:24:42: Status trace: running
+2022-08-18 00:24:45: Status trace: running
+2022-08-18 00:24:48: Status trace: running
+2022-08-18 00:24:51: Status trace: running
+2022-08-18 00:24:54: Status trace: running
+2022-08-18 14:09:53: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:09:53: Initialize data structures...
+2022-08-18 14:09:53: Initialize data structures... done.
+2022-08-18 14:09:53: Initializing UI: step 2.1.1
+2022-08-18 14:09:53: Reading application settings...
+2022-08-18 14:09:53: Reading application settings... done.
+2022-08-18 14:09:53: Initializing UI: step 2.1.2
+2022-08-18 14:09:53: Initializing UI: step 2.1.3
+2022-08-18 14:09:53: Initializing UI: step 2.1.4
+2022-08-18 14:09:53: Initializing UI: step 2.1.5
+2022-08-18 14:09:53: Initializing UI: step 2.1.6
+2022-08-18 14:09:53: Initializing UI: step 2.1.7
+2022-08-18 14:09:53: Initializing UI: step 2.1.8
+2022-08-18 14:09:53: Initializing UI: step 2.1.9
+2022-08-18 14:09:53: Initializing UI: step 2.1.10
+2022-08-18 14:09:53: Initializing UI.TrackerList: step 1
+2022-08-18 14:09:53: Initializing UI.TrackerList: step 2
+2022-08-18 14:09:53: Initializing UI.TrackerList: step 3
+2022-08-18 14:09:53: Initializing UI.TrackerList: step 99
+2022-08-18 14:09:53: Initializing UI: step 2.1.11
+2022-08-18 14:09:53: Initializing UI: step 2.1.12
+2022-08-18 14:09:53: Initializing UI: step 2.1.13
+2022-08-18 14:09:53: Initializing UI: step 2.1.14
+2022-08-18 14:09:53: Initializing UI: step 2.1.15
+2022-08-18 14:09:53: Initializing UI: step 2.1.16
+2022-08-18 14:09:53: Initializing UI: step 2.1.17
+2022-08-18 14:09:53: Initializing UI: step 2.1.18
+2022-08-18 14:09:53: Initializing UI: step 2.1.19
+2022-08-18 14:09:53: Initializing UI: step 2.1.20
+2022-08-18 14:09:53: Initializing UI: step 2.1.21
+2022-08-18 14:09:53: Initializing UI: step 2.1.22
+2022-08-18 14:09:53: Initializing UI: step 2.1.23
+2022-08-18 14:09:53: Initializing UI: step 2.1.24
+2022-08-18 14:09:53: Initializing UI: step 2.1.25
+2022-08-18 14:09:53: Initializing UI: step 2.1.26
+2022-08-18 14:09:53: Initializing UI: step 2.1.27
+2022-08-18 14:09:53: Initializing UI: step 2.1.28
+2022-08-18 14:09:53: Initializing UI: step 2.1.29
+2022-08-18 14:09:53: Initializing UI: step 2.1.30
+2022-08-18 14:09:53: Initializing UI: step 2.1.99
+2022-08-18 14:09:53: Loading main window.
+2022-08-18 14:09:53: Initialisation...
+2022-08-18 14:09:53: Initialisation - Start...
+2022-08-18 14:09:53: Initialisation - Checking driver installation...
+2022-08-18 14:09:53: Initialisation - Checking driver installation: True
+2022-08-18 14:09:53: Initialisation - Authenticating...
+2022-08-18 14:09:53: Unable to read statistic: stat_reset_stats
+2022-08-18 14:09:53: Initialisation - Authenticating: True
+2022-08-18 14:09:53: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:09:53: Initialisation - loading devices...
+2022-08-18 14:09:53: Connecting to SteamVR - start
+2022-08-18 14:09:53: Connecting to SteamVR - returned: Init_HmdNotFound
+2022-08-18 14:09:53: VRPath reg output: 
+
+2022-08-18 14:09:53: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:09:53: Connecting to SteamVR - complete
+2022-08-18 14:09:53: Unable to connect to SteamVR: Headset was not found.
+2022-08-18 14:09:53: Connection status chanced to: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-18 14:09:53: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Headset was not found.
+2022-08-18 14:09:53: Initialisation... complted.
+2022-08-18 14:09:53: Finalising...
+2022-08-18 14:09:53: Finalising... completed.
+2022-08-18 14:10:06: Ending application...
+2022-08-18 14:10:06: Closing application...
+2022-08-18 14:10:06: Creating Wii Connection...
+2022-08-18 14:10:06: Creating Wii Connection... completed with success.
+2022-08-18 14:10:06: Closing application... completed.
+2022-08-18 14:10:06: Shutdown of Driver4VR application has been completed.
+2022-08-18 14:10:23: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:10:23: Initialize data structures...
+2022-08-18 14:10:23: Initialize data structures... done.
+2022-08-18 14:10:23: Initializing UI: step 2.1.1
+2022-08-18 14:10:23: Reading application settings...
+2022-08-18 14:10:24: Reading application settings... done.
+2022-08-18 14:10:24: Initializing UI: step 2.1.2
+2022-08-18 14:10:24: Initializing UI: step 2.1.3
+2022-08-18 14:10:24: Initializing UI: step 2.1.4
+2022-08-18 14:10:24: Initializing UI: step 2.1.5
+2022-08-18 14:10:24: Initializing UI: step 2.1.6
+2022-08-18 14:10:24: Initializing UI: step 2.1.7
+2022-08-18 14:10:24: Initializing UI: step 2.1.8
+2022-08-18 14:10:24: Initializing UI: step 2.1.9
+2022-08-18 14:10:24: Initializing UI: step 2.1.10
+2022-08-18 14:10:24: Initializing UI.TrackerList: step 1
+2022-08-18 14:10:24: Initializing UI.TrackerList: step 2
+2022-08-18 14:10:24: Initializing UI.TrackerList: step 3
+2022-08-18 14:10:24: Initializing UI.TrackerList: step 99
+2022-08-18 14:10:24: Initializing UI: step 2.1.11
+2022-08-18 14:10:24: Initializing UI: step 2.1.12
+2022-08-18 14:10:24: Initializing UI: step 2.1.13
+2022-08-18 14:10:24: Initializing UI: step 2.1.14
+2022-08-18 14:10:24: Initializing UI: step 2.1.15
+2022-08-18 14:10:24: Initializing UI: step 2.1.16
+2022-08-18 14:10:24: Initializing UI: step 2.1.17
+2022-08-18 14:10:24: Initializing UI: step 2.1.18
+2022-08-18 14:10:24: Initializing UI: step 2.1.19
+2022-08-18 14:10:24: Initializing UI: step 2.1.20
+2022-08-18 14:10:24: Initializing UI: step 2.1.21
+2022-08-18 14:10:24: Initializing UI: step 2.1.22
+2022-08-18 14:10:24: Initializing UI: step 2.1.23
+2022-08-18 14:10:24: Initializing UI: step 2.1.24
+2022-08-18 14:10:24: Initializing UI: step 2.1.25
+2022-08-18 14:10:24: Initializing UI: step 2.1.26
+2022-08-18 14:10:24: Initializing UI: step 2.1.27
+2022-08-18 14:10:24: Initializing UI: step 2.1.28
+2022-08-18 14:10:24: Initializing UI: step 2.1.29
+2022-08-18 14:10:24: Initializing UI: step 2.1.30
+2022-08-18 14:10:24: Initializing UI: step 2.1.99
+2022-08-18 14:10:24: Loading main window.
+2022-08-18 14:10:24: Initialisation...
+2022-08-18 14:10:24: Initialisation - Start...
+2022-08-18 14:10:24: Initialisation - Checking driver installation...
+2022-08-18 14:10:25: Initialisation - Checking driver installation: True
+2022-08-18 14:10:25: Initialisation - Authenticating...
+2022-08-18 14:10:25: Unable to read statistic: stat_reset_stats
+2022-08-18 14:10:25: Initialisation - Authenticating: True
+2022-08-18 14:10:25: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:10:25: Initialisation - loading devices...
+2022-08-18 14:10:25: Connecting to SteamVR - start
+2022-08-18 14:10:27: Connecting to SteamVR - returned: None
+2022-08-18 14:10:27: VRPath reg output: 
+
+2022-08-18 14:10:27: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:10:27: Connecting to SteamVR - complete
+2022-08-18 14:10:27: Detected iVRy Headset.
+2022-08-18 14:10:27: Initialisation - loading devices - Done.
+2022-08-18 14:10:27: Initialisation - loading configuration...
+2022-08-18 14:10:27: Initialisation - loading configuration - Done.
+2022-08-18 14:10:27: Initialisation - starting server...
+2022-08-18 14:10:27: Creating communication thread...
+2022-08-18 14:10:27: Creating communication done...
+2022-08-18 14:10:27: Initialisation - starting server - Done.
+2022-08-18 14:10:27: Initialisation - reload enabled async.
+2022-08-18 14:10:27: Initialize communication thread.
+2022-08-18 14:10:27: Communication thread test start - #1
+2022-08-18 14:10:27: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:10:27: Initialisation - Done
+2022-08-18 14:10:27: Initialisation... complted.
+2022-08-18 14:10:27: Finalising...
+2022-08-18 14:10:27: Communication thread test end  - #1
+2022-08-18 14:10:27: Communication thread test start - #2
+2022-08-18 14:10:27: Communication thread test end  - #2
+2022-08-18 14:10:27: Communication thread test start - #3
+2022-08-18 14:10:27: Communication thread test end  - #3
+2022-08-18 14:10:27: Communication thread test start - #4
+2022-08-18 14:10:27: Communication thread test end  - #4
+2022-08-18 14:10:27: Communication thread test start - #5
+2022-08-18 14:10:27: Communication thread test end  - #5
+2022-08-18 14:10:29: Status trace: stopped
+2022-08-18 14:10:33: Status trace: stopped
+2022-08-18 14:10:35: Status trace: stopped
+2022-08-18 14:10:38: Status trace: stopped
+2022-08-18 14:10:39: Enumeration of devices starting... with 0
+2022-08-18 14:10:39: PS Move Service not required... skipping.
+2022-08-18 14:10:39: Enumeration of devices starting completed with 0 total.
+2022-08-18 14:10:41: Status trace: stopped
+2022-08-18 14:10:44: Status trace: stopped
+2022-08-18 14:10:47: Status trace: stopped
+2022-08-18 14:10:50: Status trace: stopped
+2022-08-18 14:10:53: Status trace: stopped
+2022-08-18 14:10:56: Status trace: stopped
+2022-08-18 14:12:36: Enumeration of devices starting... with 0
+2022-08-18 14:12:36: PS Move Service not required... skipping.
+2022-08-18 14:12:36: Enumeration of devices starting completed with 0 total.
+2022-08-18 14:12:41: Start/Stop sequence starting.
+2022-08-18 14:12:41: Start/Stop sequence starting.
+2022-08-18 14:12:41: Creating processing thread... start.
+2022-08-18 14:12:41: Creating processing thread... done.
+2022-08-18 14:12:41: Sending communication to start driver - start.
+2022-08-18 14:12:41: Sending communication to start driver - complete.
+2022-08-18 14:12:41: Start/Stop sequence done.
+2022-08-18 14:12:41: Start/Stop sequence done.
+2022-08-18 14:12:41: Initialize processing thread.
+2022-08-18 14:12:42: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:12:42: Starting all devices...
+2022-08-18 14:12:42: Creating Wii Connection...
+2022-08-18 14:12:42: Creating Wii Connection... completed with success.
+2022-08-18 14:12:42: Starting devices...
+2022-08-18 14:12:42: Initializing Wii library...
+2022-08-18 14:12:42: Initializing Wii library... done.
+2022-08-18 14:12:45: Starting devices complete
+2022-08-18 14:12:45: Starting all devices... done.
+2022-08-18 14:12:45: Tracker update test start - #1
+2022-08-18 14:12:45: Tracker update test end  - #1
+2022-08-18 14:12:45: Tracker update test start - #2
+2022-08-18 14:12:45: Tracker update test end  - #2
+2022-08-18 14:12:45: Tracker update test start - #3
+2022-08-18 14:12:45: Tracker update test end  - #3
+2022-08-18 14:12:45: Tracker update test start - #4
+2022-08-18 14:12:45: Tracker update test end  - #4
+2022-08-18 14:12:45: Tracker update test start - #5
+2022-08-18 14:12:45: Tracker update test end  - #5
+2022-08-18 14:22:03: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:22:03: Initialize data structures...
+2022-08-18 14:22:03: Initialize data structures... done.
+2022-08-18 14:22:03: Initializing UI: step 2.1.1
+2022-08-18 14:22:03: Reading application settings...
+2022-08-18 14:22:03: Reading application settings... done.
+2022-08-18 14:22:03: Initializing UI: step 2.1.2
+2022-08-18 14:22:03: Initializing UI: step 2.1.3
+2022-08-18 14:22:03: Initializing UI: step 2.1.4
+2022-08-18 14:22:03: Initializing UI: step 2.1.5
+2022-08-18 14:22:03: Initializing UI: step 2.1.6
+2022-08-18 14:22:03: Initializing UI: step 2.1.7
+2022-08-18 14:22:03: Initializing UI: step 2.1.8
+2022-08-18 14:22:03: Initializing UI: step 2.1.9
+2022-08-18 14:22:03: Initializing UI: step 2.1.10
+2022-08-18 14:22:03: Initializing UI.TrackerList: step 1
+2022-08-18 14:22:03: Initializing UI.TrackerList: step 2
+2022-08-18 14:22:03: Initializing UI.TrackerList: step 3
+2022-08-18 14:22:03: Initializing UI.TrackerList: step 99
+2022-08-18 14:22:03: Initializing UI: step 2.1.11
+2022-08-18 14:22:03: Initializing UI: step 2.1.12
+2022-08-18 14:22:03: Initializing UI: step 2.1.13
+2022-08-18 14:22:03: Initializing UI: step 2.1.14
+2022-08-18 14:22:03: Initializing UI: step 2.1.15
+2022-08-18 14:22:03: Initializing UI: step 2.1.16
+2022-08-18 14:22:03: Initializing UI: step 2.1.17
+2022-08-18 14:22:03: Initializing UI: step 2.1.18
+2022-08-18 14:22:03: Initializing UI: step 2.1.19
+2022-08-18 14:22:03: Initializing UI: step 2.1.20
+2022-08-18 14:22:03: Initializing UI: step 2.1.21
+2022-08-18 14:22:03: Initializing UI: step 2.1.22
+2022-08-18 14:22:03: Initializing UI: step 2.1.23
+2022-08-18 14:22:03: Initializing UI: step 2.1.24
+2022-08-18 14:22:03: Initializing UI: step 2.1.25
+2022-08-18 14:22:03: Initializing UI: step 2.1.26
+2022-08-18 14:22:03: Initializing UI: step 2.1.27
+2022-08-18 14:22:03: Initializing UI: step 2.1.28
+2022-08-18 14:22:03: Initializing UI: step 2.1.29
+2022-08-18 14:22:03: Initializing UI: step 2.1.30
+2022-08-18 14:22:03: Initializing UI: step 2.1.99
+2022-08-18 14:22:03: Loading main window.
+2022-08-18 14:22:03: Initialisation...
+2022-08-18 14:22:03: Initialisation - Start...
+2022-08-18 14:22:03: Initialisation - Checking driver installation...
+2022-08-18 14:22:03: Initialisation - Checking driver installation: True
+2022-08-18 14:22:03: Initialisation - Authenticating...
+2022-08-18 14:22:03: [Steamworks] Steam is not running or game wasn't started through Steam.
+2022-08-18 14:22:03: Initialisation - Authenticating: False
+2022-08-18 14:22:03: Initialisation - Authenticating: False, -1, Error: Unable to initialize Steam#4
+2022-08-18 14:22:03: Failed to initialize: Error: Unable to initialize Steam#4
+2022-08-18 14:22:03: Initialisation - not completed at authentication:Error: Unable to initialize Steam#4
+2022-08-18 14:22:03: Initialisation... complted.
+2022-08-18 14:22:03: Finalising...
+2022-08-18 14:22:58: Closing application...
+2022-08-18 14:22:58: Creating Wii Connection...
+2022-08-18 14:22:58: Creating Wii Connection... completed with success.
+2022-08-18 14:22:58: Closing application... completed.
+2022-08-18 14:25:14: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:25:15: Initialize data structures...
+2022-08-18 14:25:15: Initialize data structures... done.
+2022-08-18 14:25:15: Initializing UI: step 2.1.1
+2022-08-18 14:25:15: Reading application settings...
+2022-08-18 14:25:15: Reading application settings... done.
+2022-08-18 14:25:15: Initializing UI: step 2.1.2
+2022-08-18 14:25:15: Initializing UI: step 2.1.3
+2022-08-18 14:25:15: Initializing UI: step 2.1.4
+2022-08-18 14:25:15: Initializing UI: step 2.1.5
+2022-08-18 14:25:15: Initializing UI: step 2.1.6
+2022-08-18 14:25:15: Initializing UI: step 2.1.7
+2022-08-18 14:25:15: Initializing UI: step 2.1.8
+2022-08-18 14:25:15: Initializing UI: step 2.1.9
+2022-08-18 14:25:15: Initializing UI: step 2.1.10
+2022-08-18 14:25:15: Initializing UI.TrackerList: step 1
+2022-08-18 14:25:15: Initializing UI.TrackerList: step 2
+2022-08-18 14:25:15: Initializing UI.TrackerList: step 3
+2022-08-18 14:25:15: Initializing UI.TrackerList: step 99
+2022-08-18 14:25:15: Initializing UI: step 2.1.11
+2022-08-18 14:25:15: Initializing UI: step 2.1.12
+2022-08-18 14:25:15: Initializing UI: step 2.1.13
+2022-08-18 14:25:15: Initializing UI: step 2.1.14
+2022-08-18 14:25:15: Initializing UI: step 2.1.15
+2022-08-18 14:25:15: Initializing UI: step 2.1.16
+2022-08-18 14:25:15: Initializing UI: step 2.1.17
+2022-08-18 14:25:15: Initializing UI: step 2.1.18
+2022-08-18 14:25:15: Initializing UI: step 2.1.19
+2022-08-18 14:25:15: Initializing UI: step 2.1.20
+2022-08-18 14:25:15: Initializing UI: step 2.1.21
+2022-08-18 14:25:15: Initializing UI: step 2.1.22
+2022-08-18 14:25:15: Initializing UI: step 2.1.23
+2022-08-18 14:25:15: Initializing UI: step 2.1.24
+2022-08-18 14:25:15: Initializing UI: step 2.1.25
+2022-08-18 14:25:15: Initializing UI: step 2.1.26
+2022-08-18 14:25:15: Initializing UI: step 2.1.27
+2022-08-18 14:25:15: Initializing UI: step 2.1.28
+2022-08-18 14:25:15: Initializing UI: step 2.1.29
+2022-08-18 14:25:15: Initializing UI: step 2.1.30
+2022-08-18 14:25:15: Initializing UI: step 2.1.99
+2022-08-18 14:25:15: Loading main window.
+2022-08-18 14:25:16: Initialisation...
+2022-08-18 14:25:16: Initialisation - Start...
+2022-08-18 14:25:16: Initialisation - Checking driver installation...
+2022-08-18 14:25:16: Initialisation - Checking driver installation: True
+2022-08-18 14:25:16: Initialisation - Authenticating...
+2022-08-18 14:25:16: Unable to read statistic: stat_reset_stats
+2022-08-18 14:25:16: Initialisation - Authenticating: True
+2022-08-18 14:25:16: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:25:16: Initialisation - loading devices...
+2022-08-18 14:25:16: Connecting to SteamVR - start
+2022-08-18 14:25:17: Connecting to SteamVR - returned: None
+2022-08-18 14:25:17: VRPath reg output: 
+
+2022-08-18 14:25:17: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:25:17: Connecting to SteamVR - complete
+2022-08-18 14:25:17: Detected iVRy Headset.
+2022-08-18 14:25:17: Initialisation - loading devices - Done.
+2022-08-18 14:25:17: Initialisation - loading configuration...
+2022-08-18 14:25:17: Initialisation - loading configuration - Done.
+2022-08-18 14:25:17: Initialisation - starting server...
+2022-08-18 14:25:17: Creating communication thread...
+2022-08-18 14:25:17: Creating communication done...
+2022-08-18 14:25:17: Initialisation - starting server - Done.
+2022-08-18 14:25:17: Initialisation - reload enabled async.
+2022-08-18 14:25:17: Initialize communication thread.
+2022-08-18 14:25:17: Communication thread test start - #1
+2022-08-18 14:25:17: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:25:17: Initialisation - Done
+2022-08-18 14:25:17: Initialisation... complted.
+2022-08-18 14:25:17: Finalising...
+2022-08-18 14:25:17: Communication thread test end  - #1
+2022-08-18 14:25:17: Communication thread test start - #2
+2022-08-18 14:25:17: Communication thread test end  - #2
+2022-08-18 14:25:17: Communication thread test start - #3
+2022-08-18 14:25:17: Communication thread test end  - #3
+2022-08-18 14:25:17: Communication thread test start - #4
+2022-08-18 14:25:17: Communication thread test end  - #4
+2022-08-18 14:25:17: Communication thread test start - #5
+2022-08-18 14:25:17: Communication thread test end  - #5
+2022-08-18 14:25:19: Status trace: stopped
+2022-08-18 14:25:20: Start/Stop sequence starting.
+2022-08-18 14:25:20: Start/Stop sequence starting.
+2022-08-18 14:25:20: Creating processing thread... start.
+2022-08-18 14:25:20: Creating processing thread... done.
+2022-08-18 14:25:20: Sending communication to start driver - start.
+2022-08-18 14:25:20: Sending communication to start driver - complete.
+2022-08-18 14:25:20: Start/Stop sequence done.
+2022-08-18 14:25:20: Start/Stop sequence done.
+2022-08-18 14:25:20: Initialize processing thread.
+2022-08-18 14:25:21: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:25:21: Starting all devices...
+2022-08-18 14:25:21: Creating Wii Connection...
+2022-08-18 14:25:21: Creating Wii Connection... completed with success.
+2022-08-18 14:25:21: Starting devices...
+2022-08-18 14:25:21: Initializing Wii library...
+2022-08-18 14:25:21: Initializing Wii library... done.
+2022-08-18 14:25:24: Starting devices complete
+2022-08-18 14:25:24: Starting all devices... done.
+2022-08-18 14:25:24: Status trace: running
+2022-08-18 14:25:24: Tracker update test start - #1
+2022-08-18 14:25:24: Tracker update test end  - #1
+2022-08-18 14:25:24: Tracker update test start - #2
+2022-08-18 14:25:24: Tracker update test end  - #2
+2022-08-18 14:25:24: Tracker update test start - #3
+2022-08-18 14:25:24: Tracker update test end  - #3
+2022-08-18 14:25:24: Tracker update test start - #4
+2022-08-18 14:25:24: Tracker update test end  - #4
+2022-08-18 14:25:24: Tracker update test start - #5
+2022-08-18 14:25:24: Tracker update test end  - #5
+2022-08-18 14:25:26: Status trace: running
+2022-08-18 14:25:29: Status trace: running
+2022-08-18 14:25:32: Status trace: running
+2022-08-18 14:25:35: Status trace: running
+2022-08-18 14:25:35: Start/Stop sequence starting.
+2022-08-18 14:25:35: Start/Stop sequence starting.
+2022-08-18 14:25:35: Start/Stop sequence done.
+2022-08-18 14:25:35: Start/Stop sequence done.
+2022-08-18 14:25:36: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:25:36: Stopping devices...
+2022-08-18 14:25:36: Stopping devices... done. 
+2022-08-18 14:25:38: Status trace: stopped
+2022-08-18 14:25:41: Status trace: stopped
+2022-08-18 14:25:44: Status trace: stopped
+2022-08-18 14:25:47: Status trace: stopped
+2022-08-18 14:26:29: Start/Stop sequence starting.
+2022-08-18 14:26:29: Start/Stop sequence starting.
+2022-08-18 14:26:29: Sending communication to start driver - start.
+2022-08-18 14:26:29: Sending communication to start driver - complete.
+2022-08-18 14:26:29: Start/Stop sequence done.
+2022-08-18 14:26:29: Start/Stop sequence done.
+2022-08-18 14:26:30: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:26:30: Starting all devices...
+2022-08-18 14:26:30: Starting devices...
+2022-08-18 14:26:30: Starting devices complete
+2022-08-18 14:26:30: Starting all devices... done.
+2022-08-18 14:26:56: Start/Stop sequence starting.
+2022-08-18 14:26:56: Start/Stop sequence starting.
+2022-08-18 14:26:56: Start/Stop sequence done.
+2022-08-18 14:26:56: Start/Stop sequence done.
+2022-08-18 14:26:57: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:26:57: Stopping devices...
+2022-08-18 14:26:57: Stopping devices... done. 
+2022-08-18 14:26:58: Start/Stop sequence starting.
+2022-08-18 14:26:58: Start/Stop sequence starting.
+2022-08-18 14:26:58: Sending communication to start driver - start.
+2022-08-18 14:26:58: Sending communication to start driver - complete.
+2022-08-18 14:26:58: Start/Stop sequence done.
+2022-08-18 14:26:58: Start/Stop sequence done.
+2022-08-18 14:26:58: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:26:58: Starting all devices...
+2022-08-18 14:26:58: Starting devices...
+2022-08-18 14:26:58: Starting devices complete
+2022-08-18 14:26:58: Starting all devices... done.
+2022-08-18 14:28:49: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:28:50: Initialize data structures...
+2022-08-18 14:28:50: Initialize data structures... done.
+2022-08-18 14:28:50: Initializing UI: step 2.1.1
+2022-08-18 14:28:50: Reading application settings...
+2022-08-18 14:28:50: Reading application settings... done.
+2022-08-18 14:28:50: Initializing UI: step 2.1.2
+2022-08-18 14:28:50: Initializing UI: step 2.1.3
+2022-08-18 14:28:50: Initializing UI: step 2.1.4
+2022-08-18 14:28:50: Initializing UI: step 2.1.5
+2022-08-18 14:28:50: Initializing UI: step 2.1.6
+2022-08-18 14:28:50: Initializing UI: step 2.1.7
+2022-08-18 14:28:50: Initializing UI: step 2.1.8
+2022-08-18 14:28:50: Initializing UI: step 2.1.9
+2022-08-18 14:28:50: Initializing UI: step 2.1.10
+2022-08-18 14:28:50: Initializing UI.TrackerList: step 1
+2022-08-18 14:28:50: Initializing UI.TrackerList: step 2
+2022-08-18 14:28:50: Initializing UI.TrackerList: step 3
+2022-08-18 14:28:50: Initializing UI.TrackerList: step 99
+2022-08-18 14:28:50: Initializing UI: step 2.1.11
+2022-08-18 14:28:50: Initializing UI: step 2.1.12
+2022-08-18 14:28:50: Initializing UI: step 2.1.13
+2022-08-18 14:28:50: Initializing UI: step 2.1.14
+2022-08-18 14:28:50: Initializing UI: step 2.1.15
+2022-08-18 14:28:50: Initializing UI: step 2.1.16
+2022-08-18 14:28:50: Initializing UI: step 2.1.17
+2022-08-18 14:28:50: Initializing UI: step 2.1.18
+2022-08-18 14:28:50: Initializing UI: step 2.1.19
+2022-08-18 14:28:50: Initializing UI: step 2.1.20
+2022-08-18 14:28:50: Initializing UI: step 2.1.21
+2022-08-18 14:28:50: Initializing UI: step 2.1.22
+2022-08-18 14:28:50: Initializing UI: step 2.1.23
+2022-08-18 14:28:50: Initializing UI: step 2.1.24
+2022-08-18 14:28:50: Initializing UI: step 2.1.25
+2022-08-18 14:28:50: Initializing UI: step 2.1.26
+2022-08-18 14:28:50: Initializing UI: step 2.1.27
+2022-08-18 14:28:50: Initializing UI: step 2.1.28
+2022-08-18 14:28:50: Initializing UI: step 2.1.29
+2022-08-18 14:28:50: Initializing UI: step 2.1.30
+2022-08-18 14:28:50: Initializing UI: step 2.1.99
+2022-08-18 14:28:50: Loading main window.
+2022-08-18 14:28:50: Initialisation...
+2022-08-18 14:28:50: Initialisation - Start...
+2022-08-18 14:28:50: Initialisation - Checking driver installation...
+2022-08-18 14:28:51: Initialisation - Checking driver installation: True
+2022-08-18 14:28:51: Initialisation - Authenticating...
+2022-08-18 14:28:51: Unable to read statistic: stat_reset_stats
+2022-08-18 14:28:51: Initialisation - Authenticating: True
+2022-08-18 14:28:51: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:28:51: Initialisation - loading devices...
+2022-08-18 14:28:51: Connecting to SteamVR - start
+2022-08-18 14:28:51: Connecting to SteamVR - returned: None
+2022-08-18 14:28:52: VRPath reg output: 
+
+2022-08-18 14:28:52: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:28:52: Connecting to SteamVR - complete
+2022-08-18 14:28:52: Detected iVRy Headset.
+2022-08-18 14:28:52: Initialisation - loading devices - Done.
+2022-08-18 14:28:52: Initialisation - loading configuration...
+2022-08-18 14:28:52: Initialisation - loading configuration - Done.
+2022-08-18 14:28:52: Initialisation - starting server...
+2022-08-18 14:28:52: Creating communication thread...
+2022-08-18 14:28:52: Creating communication done...
+2022-08-18 14:28:52: Initialisation - starting server - Done.
+2022-08-18 14:28:52: Initialisation - reload enabled async.
+2022-08-18 14:28:52: Initialize communication thread.
+2022-08-18 14:28:52: Communication thread test start - #1
+2022-08-18 14:28:52: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:28:52: Initialisation - Done
+2022-08-18 14:28:52: Initialisation... complted.
+2022-08-18 14:28:52: Finalising...
+2022-08-18 14:28:52: Communication thread test end  - #1
+2022-08-18 14:28:52: Communication thread test start - #2
+2022-08-18 14:28:52: Communication thread test end  - #2
+2022-08-18 14:28:52: Communication thread test start - #3
+2022-08-18 14:28:52: Communication thread test end  - #3
+2022-08-18 14:28:52: Communication thread test start - #4
+2022-08-18 14:28:52: Communication thread test end  - #4
+2022-08-18 14:28:52: Communication thread test start - #5
+2022-08-18 14:28:52: Communication thread test end  - #5
+2022-08-18 14:28:55: Status trace: stopped
+2022-08-18 14:28:58: Status trace: stopped
+2022-08-18 14:29:01: Status trace: stopped
+2022-08-18 14:29:04: Status trace: stopped
+2022-08-18 14:29:05: Start/Stop sequence starting.
+2022-08-18 14:29:05: Start/Stop sequence starting.
+2022-08-18 14:29:05: Creating processing thread... start.
+2022-08-18 14:29:05: Creating processing thread... done.
+2022-08-18 14:29:05: Sending communication to start driver - start.
+2022-08-18 14:29:05: Sending communication to start driver - complete.
+2022-08-18 14:29:05: Start/Stop sequence done.
+2022-08-18 14:29:05: Start/Stop sequence done.
+2022-08-18 14:29:05: Initialize processing thread.
+2022-08-18 14:29:06: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:29:06: Starting all devices...
+2022-08-18 14:29:06: Creating Wii Connection...
+2022-08-18 14:29:06: Creating Wii Connection... completed with success.
+2022-08-18 14:29:06: Starting devices...
+2022-08-18 14:29:06: Initializing Wii library...
+2022-08-18 14:29:06: Initializing Wii library... done.
+2022-08-18 14:29:08: Starting devices complete
+2022-08-18 14:29:08: Starting all devices... done.
+2022-08-18 14:29:08: Tracker update test start - #1
+2022-08-18 14:29:08: Status trace: running
+2022-08-18 14:29:09: Tracker update test end  - #1
+2022-08-18 14:29:09: Tracker update test start - #2
+2022-08-18 14:29:09: Tracker update test end  - #2
+2022-08-18 14:29:09: Tracker update test start - #3
+2022-08-18 14:29:09: Tracker update test end  - #3
+2022-08-18 14:29:09: Tracker update test start - #4
+2022-08-18 14:29:09: Tracker update test end  - #4
+2022-08-18 14:29:09: Tracker update test start - #5
+2022-08-18 14:29:09: Tracker update test end  - #5
+2022-08-18 14:29:11: Status trace: running
+2022-08-18 14:29:14: Status trace: running
+2022-08-18 14:29:17: Status trace: running
+2022-08-18 14:29:20: Status trace: running
+2022-08-18 14:29:23: Status trace: running
+2022-08-18 14:32:35: Start/Stop sequence starting.
+2022-08-18 14:32:35: Start/Stop sequence starting.
+2022-08-18 14:32:35: DeepLearning module initialized with result: 0
+2022-08-18 14:32:35: Could not find configured camera. Trying default.
+2022-08-18 14:32:35: starting camera: '0' in mode: Msmf
+2022-08-18 14:32:40: starting camera completed: True
+2022-08-18 14:32:40: Start/Stop sequence done.
+2022-08-18 14:32:40: Start/Stop sequence done.
+2022-08-18 14:32:40: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:32:40: Stopping devices...
+2022-08-18 14:32:40: Stopping devices... done. 
+2022-08-18 14:34:50: Start/Stop sequence starting.
+2022-08-18 14:34:50: Start/Stop sequence starting.
+2022-08-18 14:34:50: Sending communication to start driver - start.
+2022-08-18 14:34:50: Sending communication to start driver - complete.
+2022-08-18 14:34:50: Start/Stop sequence done.
+2022-08-18 14:34:50: Start/Stop sequence done.
+2022-08-18 14:34:52: Start/Stop sequence starting.
+2022-08-18 14:34:52: Start/Stop sequence starting.
+2022-08-18 14:34:52: Sending communication to start driver - start.
+2022-08-18 14:34:52: Sending communication to start driver - complete.
+2022-08-18 14:34:52: Start/Stop sequence done.
+2022-08-18 14:34:52: Start/Stop sequence done.
+2022-08-18 14:35:03: Start/Stop sequence starting.
+2022-08-18 14:35:03: Start/Stop sequence starting.
+2022-08-18 14:35:03: Sending communication to start driver - start.
+2022-08-18 14:35:03: Sending communication to start driver - complete.
+2022-08-18 14:35:03: Start/Stop sequence done.
+2022-08-18 14:35:03: Start/Stop sequence done.
+2022-08-18 14:35:52: Closing application...
+2022-08-18 14:35:52: Closing application... completed.
+2022-08-18 14:35:52: End processing thread.
+2022-08-18 14:35:52: Shutdown of Driver4VR application has been completed.
+2022-08-18 14:36:54: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:36:54: Initialize data structures...
+2022-08-18 14:36:54: Initialize data structures... done.
+2022-08-18 14:36:54: Initializing UI: step 2.1.1
+2022-08-18 14:36:54: Reading application settings...
+2022-08-18 14:36:54: Reading application settings... done.
+2022-08-18 14:36:54: Initializing UI: step 2.1.2
+2022-08-18 14:36:54: Initializing UI: step 2.1.3
+2022-08-18 14:36:54: Initializing UI: step 2.1.4
+2022-08-18 14:36:54: Initializing UI: step 2.1.5
+2022-08-18 14:36:54: Initializing UI: step 2.1.6
+2022-08-18 14:36:54: Initializing UI: step 2.1.7
+2022-08-18 14:36:54: Initializing UI: step 2.1.8
+2022-08-18 14:36:54: Initializing UI: step 2.1.9
+2022-08-18 14:36:54: Initializing UI: step 2.1.10
+2022-08-18 14:36:54: Initializing UI.TrackerList: step 1
+2022-08-18 14:36:54: Initializing UI.TrackerList: step 2
+2022-08-18 14:36:54: Initializing UI.TrackerList: step 3
+2022-08-18 14:36:54: Initializing UI.TrackerList: step 99
+2022-08-18 14:36:54: Initializing UI: step 2.1.11
+2022-08-18 14:36:54: Initializing UI: step 2.1.12
+2022-08-18 14:36:54: Initializing UI: step 2.1.13
+2022-08-18 14:36:54: Initializing UI: step 2.1.14
+2022-08-18 14:36:54: Initializing UI: step 2.1.15
+2022-08-18 14:36:54: Initializing UI: step 2.1.16
+2022-08-18 14:36:54: Initializing UI: step 2.1.17
+2022-08-18 14:36:54: Initializing UI: step 2.1.18
+2022-08-18 14:36:54: Initializing UI: step 2.1.19
+2022-08-18 14:36:54: Initializing UI: step 2.1.20
+2022-08-18 14:36:54: Initializing UI: step 2.1.21
+2022-08-18 14:36:54: Initializing UI: step 2.1.22
+2022-08-18 14:36:54: Initializing UI: step 2.1.23
+2022-08-18 14:36:54: Initializing UI: step 2.1.24
+2022-08-18 14:36:54: Initializing UI: step 2.1.25
+2022-08-18 14:36:54: Initializing UI: step 2.1.26
+2022-08-18 14:36:54: Initializing UI: step 2.1.27
+2022-08-18 14:36:54: Initializing UI: step 2.1.28
+2022-08-18 14:36:54: Initializing UI: step 2.1.29
+2022-08-18 14:36:54: Initializing UI: step 2.1.30
+2022-08-18 14:36:54: Initializing UI: step 2.1.99
+2022-08-18 14:36:55: Loading main window.
+2022-08-18 14:36:55: Initialisation...
+2022-08-18 14:36:55: Initialisation - Start...
+2022-08-18 14:36:55: Initialisation - Checking driver installation...
+2022-08-18 14:36:55: Initialisation - Checking driver installation: True
+2022-08-18 14:36:55: Initialisation - Authenticating...
+2022-08-18 14:36:55: Unable to read statistic: stat_reset_stats
+2022-08-18 14:36:55: Initialisation - Authenticating: True
+2022-08-18 14:36:55: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:36:55: Initialisation - loading devices...
+2022-08-18 14:36:55: Connecting to SteamVR - start
+2022-08-18 14:36:58: Connecting to SteamVR - returned: None
+2022-08-18 14:36:58: VRPath reg output: 
+
+2022-08-18 14:36:58: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:36:58: Connecting to SteamVR - complete
+2022-08-18 14:36:58: Detected iVRy Headset.
+2022-08-18 14:36:58: Initialisation - loading devices - Done.
+2022-08-18 14:36:58: Initialisation - loading configuration...
+2022-08-18 14:36:58: Initialisation - loading configuration - Done.
+2022-08-18 14:36:58: Initialisation - starting server...
+2022-08-18 14:36:58: Creating communication thread...
+2022-08-18 14:36:58: Creating communication done...
+2022-08-18 14:36:58: Initialisation - starting server - Done.
+2022-08-18 14:36:58: Initialisation - reload enabled async.
+2022-08-18 14:36:58: Initialize communication thread.
+2022-08-18 14:36:58: Communication thread test start - #1
+2022-08-18 14:36:58: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:36:58: Initialisation - Done
+2022-08-18 14:36:58: Initialisation... complted.
+2022-08-18 14:36:58: Finalising...
+2022-08-18 14:36:58: Communication thread test end  - #1
+2022-08-18 14:36:58: Communication thread test start - #2
+2022-08-18 14:36:58: Communication thread test end  - #2
+2022-08-18 14:36:58: Communication thread test start - #3
+2022-08-18 14:36:58: Communication thread test end  - #3
+2022-08-18 14:36:58: Communication thread test start - #4
+2022-08-18 14:36:58: Communication thread test end  - #4
+2022-08-18 14:36:58: Communication thread test start - #5
+2022-08-18 14:36:58: Communication thread test end  - #5
+2022-08-18 14:37:01: Status trace: stopped
+2022-08-18 14:37:04: Status trace: stopped
+2022-08-18 14:37:07: Status trace: stopped
+2022-08-18 14:37:08: Start/Stop sequence starting.
+2022-08-18 14:37:08: Start/Stop sequence starting.
+2022-08-18 14:37:08: DeepLearning module initialized with result: 0
+2022-08-18 14:37:08: starting camera: '0' in mode: Msmf
+2022-08-18 14:37:14: starting camera completed: True
+2022-08-18 14:37:14: Creating processing thread... start.
+2022-08-18 14:37:14: Creating processing thread... done.
+2022-08-18 14:37:14: Sending communication to start driver - start.
+2022-08-18 14:37:14: Sending communication to start driver - complete.
+2022-08-18 14:37:14: Start/Stop sequence done.
+2022-08-18 14:37:14: Start/Stop sequence done.
+2022-08-18 14:37:14: Initialize processing thread.
+2022-08-18 14:37:14: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:37:14: Starting all devices...
+2022-08-18 14:37:14: Creating Wii Connection...
+2022-08-18 14:37:14: Creating Wii Connection... completed with success.
+2022-08-18 14:37:14: Starting devices...
+2022-08-18 14:37:14: Initializing Wii library...
+2022-08-18 14:37:14: Initializing Wii library... done.
+2022-08-18 14:37:17: Starting devices complete
+2022-08-18 14:37:17: Starting all devices... done.
+2022-08-18 14:37:17: Tracker update test start - #1
+2022-08-18 14:37:17: Status trace: running
+2022-08-18 14:37:17: Tracker update test end  - #1
+2022-08-18 14:37:17: Tracker update test start - #2
+2022-08-18 14:37:17: Tracker update test end  - #2
+2022-08-18 14:37:17: Tracker update test start - #3
+2022-08-18 14:37:17: Tracker update test end  - #3
+2022-08-18 14:37:17: Tracker update test start - #4
+2022-08-18 14:37:17: Tracker update test end  - #4
+2022-08-18 14:37:17: Tracker update test start - #5
+2022-08-18 14:37:17: Tracker update test end  - #5
+2022-08-18 14:37:20: Status trace: running
+2022-08-18 14:37:23: Status trace: running
+2022-08-18 14:37:26: Status trace: running
+2022-08-18 14:37:29: Status trace: running
+2022-08-18 14:37:32: Status trace: running
+2022-08-18 14:37:35: Status trace: running
+2022-08-18 14:43:21: Start/Stop sequence starting.
+2022-08-18 14:43:21: Start/Stop sequence starting.
+2022-08-18 14:43:21: Start/Stop sequence done.
+2022-08-18 14:43:21: Start/Stop sequence done.
+2022-08-18 14:43:22: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:43:22: Stopping devices...
+2022-08-18 14:43:22: Stopping devices... done. 
+2022-08-18 14:43:29: Start/Stop sequence starting.
+2022-08-18 14:43:29: Start/Stop sequence starting.
+2022-08-18 14:43:29: Sending communication to start driver - start.
+2022-08-18 14:43:29: Sending communication to start driver - complete.
+2022-08-18 14:43:29: Start/Stop sequence done.
+2022-08-18 14:43:29: Start/Stop sequence done.
+2022-08-18 14:43:30: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:43:30: Starting all devices...
+2022-08-18 14:43:30: Starting devices...
+2022-08-18 14:43:30: Starting devices complete
+2022-08-18 14:43:30: Starting all devices... done.
+2022-08-18 14:44:43: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:44:43: Initialize data structures...
+2022-08-18 14:44:43: Initialize data structures... done.
+2022-08-18 14:44:43: Initializing UI: step 2.1.1
+2022-08-18 14:44:43: Reading application settings...
+2022-08-18 14:44:43: Reading application settings... done.
+2022-08-18 14:44:43: Initializing UI: step 2.1.2
+2022-08-18 14:44:43: Initializing UI: step 2.1.3
+2022-08-18 14:44:43: Initializing UI: step 2.1.4
+2022-08-18 14:44:43: Initializing UI: step 2.1.5
+2022-08-18 14:44:43: Initializing UI: step 2.1.6
+2022-08-18 14:44:43: Initializing UI: step 2.1.7
+2022-08-18 14:44:43: Initializing UI: step 2.1.8
+2022-08-18 14:44:43: Initializing UI: step 2.1.9
+2022-08-18 14:44:43: Initializing UI: step 2.1.10
+2022-08-18 14:44:43: Initializing UI.TrackerList: step 1
+2022-08-18 14:44:43: Initializing UI.TrackerList: step 2
+2022-08-18 14:44:43: Initializing UI.TrackerList: step 3
+2022-08-18 14:44:43: Initializing UI.TrackerList: step 99
+2022-08-18 14:44:43: Initializing UI: step 2.1.11
+2022-08-18 14:44:43: Initializing UI: step 2.1.12
+2022-08-18 14:44:43: Initializing UI: step 2.1.13
+2022-08-18 14:44:43: Initializing UI: step 2.1.14
+2022-08-18 14:44:43: Initializing UI: step 2.1.15
+2022-08-18 14:44:43: Initializing UI: step 2.1.16
+2022-08-18 14:44:43: Initializing UI: step 2.1.17
+2022-08-18 14:44:43: Initializing UI: step 2.1.18
+2022-08-18 14:44:43: Initializing UI: step 2.1.19
+2022-08-18 14:44:43: Initializing UI: step 2.1.20
+2022-08-18 14:44:43: Initializing UI: step 2.1.21
+2022-08-18 14:44:43: Initializing UI: step 2.1.22
+2022-08-18 14:44:43: Initializing UI: step 2.1.23
+2022-08-18 14:44:43: Initializing UI: step 2.1.24
+2022-08-18 14:44:43: Initializing UI: step 2.1.25
+2022-08-18 14:44:43: Initializing UI: step 2.1.26
+2022-08-18 14:44:43: Initializing UI: step 2.1.27
+2022-08-18 14:44:43: Initializing UI: step 2.1.28
+2022-08-18 14:44:43: Initializing UI: step 2.1.29
+2022-08-18 14:44:43: Initializing UI: step 2.1.30
+2022-08-18 14:44:43: Initializing UI: step 2.1.99
+2022-08-18 14:44:43: Loading main window.
+2022-08-18 14:44:43: Initialisation...
+2022-08-18 14:44:43: Initialisation - Start...
+2022-08-18 14:44:43: Initialisation - Checking driver installation...
+2022-08-18 14:44:44: Initialisation - Checking driver installation: True
+2022-08-18 14:44:44: Initialisation - Authenticating...
+2022-08-18 14:44:44: Unable to read statistic: stat_reset_stats
+2022-08-18 14:44:44: Initialisation - Authenticating: True
+2022-08-18 14:44:44: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:44:44: Initialisation - loading devices...
+2022-08-18 14:44:44: Connecting to SteamVR - start
+2022-08-18 14:44:44: Connecting to SteamVR - returned: None
+2022-08-18 14:44:44: VRPath reg output: 
+
+2022-08-18 14:44:44: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:44:44: Connecting to SteamVR - complete
+2022-08-18 14:44:44: Detected iVRy Headset.
+2022-08-18 14:44:44: Initialisation - loading devices - Done.
+2022-08-18 14:44:44: Initialisation - loading configuration...
+2022-08-18 14:44:44: Initialisation - loading configuration - Done.
+2022-08-18 14:44:44: Initialisation - starting server...
+2022-08-18 14:44:44: Creating communication thread...
+2022-08-18 14:44:44: Creating communication done...
+2022-08-18 14:44:44: Initialisation - starting server - Done.
+2022-08-18 14:44:44: Initialisation - reload enabled async.
+2022-08-18 14:44:44: Initialize communication thread.
+2022-08-18 14:44:44: Communication thread test start - #1
+2022-08-18 14:44:44: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:44:44: Initialisation - Done
+2022-08-18 14:44:44: Initialisation... complted.
+2022-08-18 14:44:44: Finalising...
+2022-08-18 14:44:44: Communication thread test end  - #1
+2022-08-18 14:44:44: Communication thread test start - #2
+2022-08-18 14:44:44: Communication thread test end  - #2
+2022-08-18 14:44:44: Communication thread test start - #3
+2022-08-18 14:44:44: Communication thread test end  - #3
+2022-08-18 14:44:44: Communication thread test start - #4
+2022-08-18 14:44:44: Communication thread test end  - #4
+2022-08-18 14:44:44: Communication thread test start - #5
+2022-08-18 14:44:44: Communication thread test end  - #5
+2022-08-18 14:44:46: Status trace: stopped
+2022-08-18 14:44:47: Start/Stop sequence starting.
+2022-08-18 14:44:47: Start/Stop sequence starting.
+2022-08-18 14:44:47: Creating processing thread... start.
+2022-08-18 14:44:47: Creating processing thread... done.
+2022-08-18 14:44:47: Sending communication to start driver - start.
+2022-08-18 14:44:47: Sending communication to start driver - complete.
+2022-08-18 14:44:47: Start/Stop sequence done.
+2022-08-18 14:44:47: Start/Stop sequence done.
+2022-08-18 14:44:47: Initialize processing thread.
+2022-08-18 14:44:47: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:44:47: Starting all devices...
+2022-08-18 14:44:47: Creating Wii Connection...
+2022-08-18 14:44:47: Creating Wii Connection... completed with success.
+2022-08-18 14:44:47: Starting devices...
+2022-08-18 14:44:47: Initializing Wii library...
+2022-08-18 14:44:47: Initializing Wii library... done.
+2022-08-18 14:44:50: Starting devices complete
+2022-08-18 14:44:50: Starting all devices... done.
+2022-08-18 14:44:50: Tracker update test start - #1
+2022-08-18 14:44:50: Tracker update test end  - #1
+2022-08-18 14:44:50: Tracker update test start - #2
+2022-08-18 14:44:50: Tracker update test end  - #2
+2022-08-18 14:44:50: Tracker update test start - #3
+2022-08-18 14:44:50: Tracker update test end  - #3
+2022-08-18 14:44:50: Status trace: running
+2022-08-18 14:44:50: Tracker update test start - #4
+2022-08-18 14:44:50: Tracker update test end  - #4
+2022-08-18 14:44:50: Tracker update test start - #5
+2022-08-18 14:44:50: Tracker update test end  - #5
+2022-08-18 14:44:53: Status trace: running
+2022-08-18 14:44:56: Status trace: running
+2022-08-18 14:44:59: Status trace: running
+2022-08-18 14:45:02: Status trace: running
+2022-08-18 14:45:05: Status trace: running
+2022-08-18 14:45:08: Status trace: running
+2022-08-18 14:45:11: Status trace: running
+2022-08-18 14:45:14: Status trace: running
+2022-08-18 14:54:36: Exception while parsing float value: nan
+2022-08-18 14:57:14: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 14:57:14: Initialize data structures...
+2022-08-18 14:57:14: Initialize data structures... done.
+2022-08-18 14:57:14: Initializing UI: step 2.1.1
+2022-08-18 14:57:14: Reading application settings...
+2022-08-18 14:57:14: Reading application settings... done.
+2022-08-18 14:57:14: Initializing UI: step 2.1.2
+2022-08-18 14:57:14: Initializing UI: step 2.1.3
+2022-08-18 14:57:14: Initializing UI: step 2.1.4
+2022-08-18 14:57:14: Initializing UI: step 2.1.5
+2022-08-18 14:57:14: Initializing UI: step 2.1.6
+2022-08-18 14:57:14: Initializing UI: step 2.1.7
+2022-08-18 14:57:14: Initializing UI: step 2.1.8
+2022-08-18 14:57:14: Initializing UI: step 2.1.9
+2022-08-18 14:57:14: Initializing UI: step 2.1.10
+2022-08-18 14:57:14: Initializing UI.TrackerList: step 1
+2022-08-18 14:57:14: Initializing UI.TrackerList: step 2
+2022-08-18 14:57:14: Initializing UI.TrackerList: step 3
+2022-08-18 14:57:14: Initializing UI.TrackerList: step 99
+2022-08-18 14:57:14: Initializing UI: step 2.1.11
+2022-08-18 14:57:14: Initializing UI: step 2.1.12
+2022-08-18 14:57:14: Initializing UI: step 2.1.13
+2022-08-18 14:57:14: Initializing UI: step 2.1.14
+2022-08-18 14:57:14: Initializing UI: step 2.1.15
+2022-08-18 14:57:14: Initializing UI: step 2.1.16
+2022-08-18 14:57:14: Initializing UI: step 2.1.17
+2022-08-18 14:57:14: Initializing UI: step 2.1.18
+2022-08-18 14:57:14: Initializing UI: step 2.1.19
+2022-08-18 14:57:14: Initializing UI: step 2.1.20
+2022-08-18 14:57:14: Initializing UI: step 2.1.21
+2022-08-18 14:57:14: Initializing UI: step 2.1.22
+2022-08-18 14:57:14: Initializing UI: step 2.1.23
+2022-08-18 14:57:14: Initializing UI: step 2.1.24
+2022-08-18 14:57:14: Initializing UI: step 2.1.25
+2022-08-18 14:57:14: Initializing UI: step 2.1.26
+2022-08-18 14:57:14: Initializing UI: step 2.1.27
+2022-08-18 14:57:14: Initializing UI: step 2.1.28
+2022-08-18 14:57:14: Initializing UI: step 2.1.29
+2022-08-18 14:57:14: Initializing UI: step 2.1.30
+2022-08-18 14:57:14: Initializing UI: step 2.1.99
+2022-08-18 14:57:15: Loading main window.
+2022-08-18 14:57:15: Initialisation...
+2022-08-18 14:57:15: Initialisation - Start...
+2022-08-18 14:57:15: Initialisation - Checking driver installation...
+2022-08-18 14:57:15: Initialisation - Checking driver installation: True
+2022-08-18 14:57:15: Initialisation - Authenticating...
+2022-08-18 14:57:15: Unable to read statistic: stat_reset_stats
+2022-08-18 14:57:15: Initialisation - Authenticating: True
+2022-08-18 14:57:15: Initialisation - Authenticating: True, 0, 
+2022-08-18 14:57:15: Initialisation - loading devices...
+2022-08-18 14:57:15: Connecting to SteamVR - start
+2022-08-18 14:57:17: Connecting to SteamVR - returned: None
+2022-08-18 14:57:17: VRPath reg output: 
+
+2022-08-18 14:57:17: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 14:57:17: Connecting to SteamVR - complete
+2022-08-18 14:57:17: Detected iVRy Headset.
+2022-08-18 14:57:17: Initialisation - loading devices - Done.
+2022-08-18 14:57:17: Initialisation - loading configuration...
+2022-08-18 14:57:17: Initialisation - loading configuration - Done.
+2022-08-18 14:57:17: Initialisation - starting server...
+2022-08-18 14:57:17: Creating communication thread...
+2022-08-18 14:57:17: Creating communication done...
+2022-08-18 14:57:17: Initialisation - starting server - Done.
+2022-08-18 14:57:17: Initialisation - reload enabled async.
+2022-08-18 14:57:17: Initialize communication thread.
+2022-08-18 14:57:17: Communication thread test start - #1
+2022-08-18 14:57:17: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 14:57:17: Initialisation - Done
+2022-08-18 14:57:17: Initialisation... complted.
+2022-08-18 14:57:17: Finalising...
+2022-08-18 14:57:17: Communication thread test end  - #1
+2022-08-18 14:57:17: Communication thread test start - #2
+2022-08-18 14:57:17: Communication thread test end  - #2
+2022-08-18 14:57:17: Communication thread test start - #3
+2022-08-18 14:57:17: Communication thread test end  - #3
+2022-08-18 14:57:17: Communication thread test start - #4
+2022-08-18 14:57:18: Communication thread test end  - #4
+2022-08-18 14:57:18: Communication thread test start - #5
+2022-08-18 14:57:18: Communication thread test end  - #5
+2022-08-18 14:57:20: Status trace: stopped
+2022-08-18 14:57:23: Status trace: stopped
+2022-08-18 14:57:26: Status trace: stopped
+2022-08-18 14:57:26: Start/Stop sequence starting.
+2022-08-18 14:57:26: Start/Stop sequence starting.
+2022-08-18 14:57:26: Creating processing thread... start.
+2022-08-18 14:57:26: Creating processing thread... done.
+2022-08-18 14:57:26: Sending communication to start driver - start.
+2022-08-18 14:57:26: Sending communication to start driver - complete.
+2022-08-18 14:57:26: Start/Stop sequence done.
+2022-08-18 14:57:26: Start/Stop sequence done.
+2022-08-18 14:57:26: Initialize processing thread.
+2022-08-18 14:57:27: Connection status chanced to: Driver4VR is running!
+2022-08-18 14:57:27: Starting all devices...
+2022-08-18 14:57:27: Creating Wii Connection...
+2022-08-18 14:57:27: Creating Wii Connection... completed with success.
+2022-08-18 14:57:27: Starting devices...
+2022-08-18 14:57:27: Initializing Wii library...
+2022-08-18 14:57:27: Initializing Wii library... done.
+2022-08-18 14:57:29: Starting devices complete
+2022-08-18 14:57:29: Starting all devices... done.
+2022-08-18 14:57:29: Tracker update test start - #1
+2022-08-18 14:57:30: Tracker update test end  - #1
+2022-08-18 14:57:30: Tracker update test start - #2
+2022-08-18 14:57:30: Tracker update test end  - #2
+2022-08-18 14:57:30: Tracker update test start - #3
+2022-08-18 14:57:30: Tracker update test end  - #3
+2022-08-18 14:57:30: Tracker update test start - #4
+2022-08-18 14:57:30: Tracker update test end  - #4
+2022-08-18 14:57:30: Tracker update test start - #5
+2022-08-18 14:57:30: Tracker update test end  - #5
+2022-08-18 14:57:31: Status trace: running
+2022-08-18 14:57:34: Status trace: running
+2022-08-18 14:57:37: Status trace: running
+2022-08-18 14:57:40: Status trace: running
+2022-08-18 14:57:43: Status trace: running
+2022-08-18 14:57:46: Status trace: running
+2022-08-18 14:57:49: Status trace: running
+2022-08-18 22:33:17: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 22:33:17: Initialize data structures...
+2022-08-18 22:33:18: Initialize data structures... done.
+2022-08-18 22:33:18: Initializing UI: step 2.1.1
+2022-08-18 22:33:18: Reading application settings...
+2022-08-18 22:33:18: Reading application settings... done.
+2022-08-18 22:33:18: Initializing UI: step 2.1.2
+2022-08-18 22:33:18: Initializing UI: step 2.1.3
+2022-08-18 22:33:18: Initializing UI: step 2.1.4
+2022-08-18 22:33:18: Initializing UI: step 2.1.5
+2022-08-18 22:33:18: Initializing UI: step 2.1.6
+2022-08-18 22:33:18: Initializing UI: step 2.1.7
+2022-08-18 22:33:18: Initializing UI: step 2.1.8
+2022-08-18 22:33:18: Initializing UI: step 2.1.9
+2022-08-18 22:33:18: Initializing UI: step 2.1.10
+2022-08-18 22:33:18: Initializing UI.TrackerList: step 1
+2022-08-18 22:33:18: Initializing UI.TrackerList: step 2
+2022-08-18 22:33:18: Initializing UI.TrackerList: step 3
+2022-08-18 22:33:18: Initializing UI.TrackerList: step 99
+2022-08-18 22:33:18: Initializing UI: step 2.1.11
+2022-08-18 22:33:18: Initializing UI: step 2.1.12
+2022-08-18 22:33:18: Initializing UI: step 2.1.13
+2022-08-18 22:33:18: Initializing UI: step 2.1.14
+2022-08-18 22:33:18: Initializing UI: step 2.1.15
+2022-08-18 22:33:18: Initializing UI: step 2.1.16
+2022-08-18 22:33:18: Initializing UI: step 2.1.17
+2022-08-18 22:33:18: Initializing UI: step 2.1.18
+2022-08-18 22:33:18: Initializing UI: step 2.1.19
+2022-08-18 22:33:18: Initializing UI: step 2.1.20
+2022-08-18 22:33:18: Initializing UI: step 2.1.21
+2022-08-18 22:33:18: Initializing UI: step 2.1.22
+2022-08-18 22:33:18: Initializing UI: step 2.1.23
+2022-08-18 22:33:18: Initializing UI: step 2.1.24
+2022-08-18 22:33:18: Initializing UI: step 2.1.25
+2022-08-18 22:33:18: Initializing UI: step 2.1.26
+2022-08-18 22:33:18: Initializing UI: step 2.1.27
+2022-08-18 22:33:18: Initializing UI: step 2.1.28
+2022-08-18 22:33:18: Initializing UI: step 2.1.29
+2022-08-18 22:33:18: Initializing UI: step 2.1.30
+2022-08-18 22:33:18: Initializing UI: step 2.1.99
+2022-08-18 22:33:19: Loading main window.
+2022-08-18 22:33:19: Initialisation...
+2022-08-18 22:33:19: Initialisation - Start...
+2022-08-18 22:33:19: Initialisation - Checking driver installation...
+2022-08-18 22:33:20: Initialisation - Checking driver installation: True
+2022-08-18 22:33:20: Initialisation - Authenticating...
+2022-08-18 22:33:20: Unable to read statistic: stat_reset_stats
+2022-08-18 22:33:20: Initialisation - Authenticating: True
+2022-08-18 22:33:20: Initialisation - Authenticating: True, 0, 
+2022-08-18 22:33:20: Initialisation - loading devices...
+2022-08-18 22:33:20: Connecting to SteamVR - start
+2022-08-18 22:33:20: Connecting to SteamVR - returned: None
+2022-08-18 22:33:21: VRPath reg output: 
+
+2022-08-18 22:33:21: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 22:33:21: Connecting to SteamVR - complete
+2022-08-18 22:33:21: Detected iVRy Headset.
+2022-08-18 22:33:21: Initialisation - loading devices - Done.
+2022-08-18 22:33:21: Initialisation - loading configuration...
+2022-08-18 22:33:21: Initialisation - loading configuration - Done.
+2022-08-18 22:33:21: Initialisation - starting server...
+2022-08-18 22:33:21: Creating communication thread...
+2022-08-18 22:33:21: Creating communication done...
+2022-08-18 22:33:21: Initialisation - starting server - Done.
+2022-08-18 22:33:21: Initialisation - reload enabled async.
+2022-08-18 22:33:21: Initialize communication thread.
+2022-08-18 22:33:21: Communication thread test start - #1
+2022-08-18 22:33:21: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 22:33:21: Initialisation - Done
+2022-08-18 22:33:21: Initialisation... complted.
+2022-08-18 22:33:21: Finalising...
+2022-08-18 22:33:21: Communication thread test end  - #1
+2022-08-18 22:33:21: Communication thread test start - #2
+2022-08-18 22:33:21: Communication thread test end  - #2
+2022-08-18 22:33:21: Communication thread test start - #3
+2022-08-18 22:33:21: Communication thread test end  - #3
+2022-08-18 22:33:21: Communication thread test start - #4
+2022-08-18 22:33:21: Communication thread test end  - #4
+2022-08-18 22:33:21: Communication thread test start - #5
+2022-08-18 22:33:21: Communication thread test end  - #5
+2022-08-18 22:33:22: Start/Stop sequence starting.
+2022-08-18 22:33:22: Start/Stop sequence starting.
+2022-08-18 22:33:22: Creating processing thread... start.
+2022-08-18 22:33:22: Creating processing thread... done.
+2022-08-18 22:33:22: Sending communication to start driver - start.
+2022-08-18 22:33:22: Sending communication to start driver - complete.
+2022-08-18 22:33:22: Start/Stop sequence done.
+2022-08-18 22:33:22: Start/Stop sequence done.
+2022-08-18 22:33:22: Initialize processing thread.
+2022-08-18 22:33:23: Status trace: running
+2022-08-18 22:33:23: Connection status chanced to: Driver4VR is running!
+2022-08-18 22:33:23: Starting all devices...
+2022-08-18 22:33:23: Creating Wii Connection...
+2022-08-18 22:33:23: Creating Wii Connection... completed with success.
+2022-08-18 22:33:23: Starting devices...
+2022-08-18 22:33:23: Initializing Wii library...
+2022-08-18 22:33:23: Initializing Wii library... done.
+2022-08-18 22:33:26: Starting devices complete
+2022-08-18 22:33:26: Starting all devices... done.
+2022-08-18 22:33:26: Tracker update test start - #1
+2022-08-18 22:33:26: Tracker update test end  - #1
+2022-08-18 22:33:26: Tracker update test start - #2
+2022-08-18 22:33:26: Tracker update test end  - #2
+2022-08-18 22:33:26: Tracker update test start - #3
+2022-08-18 22:33:26: Tracker update test end  - #3
+2022-08-18 22:33:26: Tracker update test start - #4
+2022-08-18 22:33:26: Tracker update test end  - #4
+2022-08-18 22:33:26: Tracker update test start - #5
+2022-08-18 22:33:26: Tracker update test end  - #5
+2022-08-18 22:33:28: Status trace: running
+2022-08-18 22:33:31: Status trace: running
+2022-08-18 22:33:34: Status trace: running
+2022-08-18 22:33:37: Status trace: running
+2022-08-18 22:33:40: Status trace: running
+2022-08-18 22:33:43: Status trace: running
+2022-08-18 22:33:46: Status trace: running
+2022-08-18 22:33:49: Status trace: running
+2022-08-18 22:33:52: Status trace: running
+2022-08-18 22:36:27: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-18 22:36:27: Initialize data structures...
+2022-08-18 22:36:27: Initialize data structures... done.
+2022-08-18 22:36:27: Initializing UI: step 2.1.1
+2022-08-18 22:36:27: Reading application settings...
+2022-08-18 22:36:27: Reading application settings... done.
+2022-08-18 22:36:27: Initializing UI: step 2.1.2
+2022-08-18 22:36:27: Initializing UI: step 2.1.3
+2022-08-18 22:36:27: Initializing UI: step 2.1.4
+2022-08-18 22:36:27: Initializing UI: step 2.1.5
+2022-08-18 22:36:27: Initializing UI: step 2.1.6
+2022-08-18 22:36:27: Initializing UI: step 2.1.7
+2022-08-18 22:36:27: Initializing UI: step 2.1.8
+2022-08-18 22:36:27: Initializing UI: step 2.1.9
+2022-08-18 22:36:27: Initializing UI: step 2.1.10
+2022-08-18 22:36:27: Initializing UI.TrackerList: step 1
+2022-08-18 22:36:27: Initializing UI.TrackerList: step 2
+2022-08-18 22:36:27: Initializing UI.TrackerList: step 3
+2022-08-18 22:36:27: Initializing UI.TrackerList: step 99
+2022-08-18 22:36:27: Initializing UI: step 2.1.11
+2022-08-18 22:36:27: Initializing UI: step 2.1.12
+2022-08-18 22:36:27: Initializing UI: step 2.1.13
+2022-08-18 22:36:27: Initializing UI: step 2.1.14
+2022-08-18 22:36:27: Initializing UI: step 2.1.15
+2022-08-18 22:36:27: Initializing UI: step 2.1.16
+2022-08-18 22:36:27: Initializing UI: step 2.1.17
+2022-08-18 22:36:27: Initializing UI: step 2.1.18
+2022-08-18 22:36:27: Initializing UI: step 2.1.19
+2022-08-18 22:36:27: Initializing UI: step 2.1.20
+2022-08-18 22:36:27: Initializing UI: step 2.1.21
+2022-08-18 22:36:27: Initializing UI: step 2.1.22
+2022-08-18 22:36:27: Initializing UI: step 2.1.23
+2022-08-18 22:36:28: Initializing UI: step 2.1.24
+2022-08-18 22:36:28: Initializing UI: step 2.1.25
+2022-08-18 22:36:28: Initializing UI: step 2.1.26
+2022-08-18 22:36:28: Initializing UI: step 2.1.27
+2022-08-18 22:36:28: Initializing UI: step 2.1.28
+2022-08-18 22:36:28: Initializing UI: step 2.1.29
+2022-08-18 22:36:28: Initializing UI: step 2.1.30
+2022-08-18 22:36:28: Initializing UI: step 2.1.99
+2022-08-18 22:36:28: Loading main window.
+2022-08-18 22:36:28: Initialisation...
+2022-08-18 22:36:28: Initialisation - Start...
+2022-08-18 22:36:28: Initialisation - Checking driver installation...
+2022-08-18 22:36:28: Initialisation - Checking driver installation: True
+2022-08-18 22:36:28: Initialisation - Authenticating...
+2022-08-18 22:36:28: Unable to read statistic: stat_reset_stats
+2022-08-18 22:36:28: Initialisation - Authenticating: True
+2022-08-18 22:36:28: Initialisation - Authenticating: True, 0, 
+2022-08-18 22:36:28: Initialisation - loading devices...
+2022-08-18 22:36:28: Connecting to SteamVR - start
+2022-08-18 22:36:29: Connecting to SteamVR - returned: None
+2022-08-18 22:36:29: VRPath reg output: 
+
+2022-08-18 22:36:29: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-18 22:36:29: Connecting to SteamVR - complete
+2022-08-18 22:36:29: Detected iVRy Headset.
+2022-08-18 22:36:29: Initialisation - loading devices - Done.
+2022-08-18 22:36:29: Initialisation - loading configuration...
+2022-08-18 22:36:29: Initialisation - loading configuration - Done.
+2022-08-18 22:36:29: Initialisation - starting server...
+2022-08-18 22:36:29: Creating communication thread...
+2022-08-18 22:36:29: Creating communication done...
+2022-08-18 22:36:29: Initialisation - starting server - Done.
+2022-08-18 22:36:29: Initialisation - reload enabled async.
+2022-08-18 22:36:29: Initialize communication thread.
+2022-08-18 22:36:29: Communication thread test start - #1
+2022-08-18 22:36:29: Connection status chanced to: Press 'Start Driver4VR'
+2022-08-18 22:36:29: Initialisation - Done
+2022-08-18 22:36:29: Initialisation... complted.
+2022-08-18 22:36:29: Finalising...
+2022-08-18 22:36:29: Communication thread test end  - #1
+2022-08-18 22:36:29: Communication thread test start - #2
+2022-08-18 22:36:29: Communication thread test end  - #2
+2022-08-18 22:36:29: Communication thread test start - #3
+2022-08-18 22:36:29: Communication thread test end  - #3
+2022-08-18 22:36:29: Communication thread test start - #4
+2022-08-18 22:36:29: Communication thread test end  - #4
+2022-08-18 22:36:29: Communication thread test start - #5
+2022-08-18 22:36:29: Communication thread test end  - #5
+2022-08-18 22:36:31: Status trace: stopped
+2022-08-18 22:36:32: Start/Stop sequence starting.
+2022-08-18 22:36:32: Start/Stop sequence starting.
+2022-08-18 22:36:32: Creating processing thread... start.
+2022-08-18 22:36:32: Creating processing thread... done.
+2022-08-18 22:36:32: Sending communication to start driver - start.
+2022-08-18 22:36:32: Sending communication to start driver - complete.
+2022-08-18 22:36:32: Start/Stop sequence done.
+2022-08-18 22:36:32: Start/Stop sequence done.
+2022-08-18 22:36:32: Initialize processing thread.
+2022-08-18 22:36:32: Connection status chanced to: Driver4VR is running!
+2022-08-18 22:36:32: Starting all devices...
+2022-08-18 22:36:32: Creating Wii Connection...
+2022-08-18 22:36:32: Creating Wii Connection... completed with success.
+2022-08-18 22:36:32: Starting devices...
+2022-08-18 22:36:32: Initializing Wii library...
+2022-08-18 22:36:32: Initializing Wii library... done.
+2022-08-18 22:36:35: Starting devices complete
+2022-08-18 22:36:35: Starting all devices... done.
+2022-08-18 22:36:35: Tracker update test start - #1
+2022-08-18 22:36:35: Status trace: running
+2022-08-18 22:36:35: Tracker update test end  - #1
+2022-08-18 22:36:35: Tracker update test start - #2
+2022-08-18 22:36:35: Tracker update test end  - #2
+2022-08-18 22:36:35: Tracker update test start - #3
+2022-08-18 22:36:35: Tracker update test end  - #3
+2022-08-18 22:36:35: Tracker update test start - #4
+2022-08-18 22:36:35: Tracker update test end  - #4
+2022-08-18 22:36:35: Tracker update test start - #5
+2022-08-18 22:36:35: Tracker update test end  - #5
+2022-08-18 22:36:38: Status trace: running
+2022-08-18 22:36:41: Status trace: running
+2022-08-18 22:36:44: Status trace: running
+2022-08-18 22:36:47: Status trace: running
+2022-08-18 22:36:50: Status trace: running
+2022-08-18 22:36:53: Status trace: running
+2022-08-18 22:36:56: Status trace: running
+2022-08-18 22:36:59: Status trace: running
+2022-08-19 11:54:41: Initializing Driver4VR application ver:  5.7.7.3
+2022-08-19 11:54:41: Initialize data structures...
+2022-08-19 11:54:41: Initialize data structures... done.
+2022-08-19 11:54:42: Initializing UI: step 2.1.1
+2022-08-19 11:54:42: Reading application settings...
+2022-08-19 11:54:42: Reading application settings... done.
+2022-08-19 11:54:42: Initializing UI: step 2.1.2
+2022-08-19 11:54:42: Initializing UI: step 2.1.3
+2022-08-19 11:54:42: Initializing UI: step 2.1.4
+2022-08-19 11:54:42: Initializing UI: step 2.1.5
+2022-08-19 11:54:42: Initializing UI: step 2.1.6
+2022-08-19 11:54:42: Initializing UI: step 2.1.7
+2022-08-19 11:54:42: Initializing UI: step 2.1.8
+2022-08-19 11:54:42: Initializing UI: step 2.1.9
+2022-08-19 11:54:42: Initializing UI: step 2.1.10
+2022-08-19 11:54:42: Initializing UI.TrackerList: step 1
+2022-08-19 11:54:42: Initializing UI.TrackerList: step 2
+2022-08-19 11:54:42: Initializing UI.TrackerList: step 3
+2022-08-19 11:54:42: Initializing UI.TrackerList: step 99
+2022-08-19 11:54:42: Initializing UI: step 2.1.11
+2022-08-19 11:54:42: Initializing UI: step 2.1.12
+2022-08-19 11:54:42: Initializing UI: step 2.1.13
+2022-08-19 11:54:42: Initializing UI: step 2.1.14
+2022-08-19 11:54:42: Initializing UI: step 2.1.15
+2022-08-19 11:54:42: Initializing UI: step 2.1.16
+2022-08-19 11:54:42: Initializing UI: step 2.1.17
+2022-08-19 11:54:42: Initializing UI: step 2.1.18
+2022-08-19 11:54:42: Initializing UI: step 2.1.19
+2022-08-19 11:54:42: Initializing UI: step 2.1.20
+2022-08-19 11:54:42: Initializing UI: step 2.1.21
+2022-08-19 11:54:42: Initializing UI: step 2.1.22
+2022-08-19 11:54:42: Initializing UI: step 2.1.23
+2022-08-19 11:54:42: Initializing UI: step 2.1.24
+2022-08-19 11:54:42: Initializing UI: step 2.1.25
+2022-08-19 11:54:42: Initializing UI: step 2.1.26
+2022-08-19 11:54:42: Initializing UI: step 2.1.27
+2022-08-19 11:54:42: Initializing UI: step 2.1.28
+2022-08-19 11:54:42: Initializing UI: step 2.1.29
+2022-08-19 11:54:42: Initializing UI: step 2.1.30
+2022-08-19 11:54:42: Initializing UI: step 2.1.99
+2022-08-19 11:54:42: Loading main window.
+2022-08-19 11:54:42: Initialisation...
+2022-08-19 11:54:42: Initialisation - Start...
+2022-08-19 11:54:42: Initialisation - Checking driver installation...
+2022-08-19 11:54:42: Initialisation - Checking driver installation: True
+2022-08-19 11:54:42: Initialisation - Authenticating...
+2022-08-19 11:54:42: Unable to read statistic: stat_reset_stats
+2022-08-19 11:54:42: Initialisation - Authenticating: True
+2022-08-19 11:54:42: Initialisation - Authenticating: True, 0, 
+2022-08-19 11:54:42: Initialisation - loading devices...
+2022-08-19 11:54:42: Connecting to SteamVR - start
+2022-08-19 11:54:43: Connecting to SteamVR - returned: Init_ShuttingDown
+2022-08-19 11:54:43: VRPath reg output: 
+
+2022-08-19 11:54:43: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	ivry : C:\Program Files (x86)\Steam\steamapps\common\iVRy
+	holographic : C:\Program Files (x86)\Steam\steamapps\common\MixedRealityVRDriver
+	driver4vr : C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr
+	[ NO DRIVER NAME FOUND ] : C:\Program Files (x86)\Riftcat 2\lib\Driver\vridge
+
+2022-08-19 11:54:43: Connecting to SteamVR - complete
+2022-08-19 11:54:43: Unable to connect to SteamVR: Init Shutting Down
+2022-08-19 11:54:43: Connection status chanced to: Error: Unable to connect to SteamVR:
+Init Shutting Down
+2022-08-19 11:54:43: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Init Shutting Down
+2022-08-19 11:54:43: Initialisation... complted.
+2022-08-19 11:54:43: Finalising...
+2022-08-19 11:54:43: Finalising... completed.
+2022-08-19 11:54:44: Closing application...
+2022-08-19 11:54:44: Creating Wii Connection...
+2022-08-19 11:54:44: Creating Wii Connection... completed with success.
+2022-08-19 11:54:44: Closing application... completed.
+2022-08-19 11:54:44: Shutdown of Driver4VR application has been completed.

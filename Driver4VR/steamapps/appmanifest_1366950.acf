@@ -1,0 +1,41 @@
+"AppState"
+{
+	"appid"		"1366950"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Driver4VR"
+	"StateFlags"		"4"
+	"installdir"		"Driver4VR"
+	"LastUpdated"		"1642366917"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"270125939"
+	"buildid"		"8013868"
+	"LastOwner"		"76561199216617495"
+	"BytesToDownload"		"102490464"
+	"BytesDownloaded"		"102490464"
+	"BytesToStage"		"270125939"
+	"BytesStaged"		"270125939"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1366951"
+		{
+			"manifest"		"3405694439067886950"
+			"size"		"270125939"
+		}
+	}
+	"InstallScripts"
+	{
+		"1366951"		"driver4vr_installscript.vdf"
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+}

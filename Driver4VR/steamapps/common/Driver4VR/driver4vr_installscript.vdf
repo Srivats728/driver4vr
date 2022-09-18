@@ -1,0 +1,23 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"Driver4VRInstall"
+		{
+			"process 1"		"%INSTALLDIR%\\Installer.exe"
+			"command 1"		"/installer /quiet"
+		}
+	}
+	"Run Process On Uninstall"
+	{
+		"Driver4VRUninstall"
+		{
+			"process 1"		"%INSTALLDIR%\\Installer.exe"
+			"command 1"		"/uninstaller /quiet"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"4b2432427ffddc341131aa050bc4cb4cf2ee05cf4275887f1e47706ac073ac764602f8a1beebfedeff255495d806e906df20b6ba80927ec3ee89096b334f7b0125b078778b02714cb5843593c80777248f2475f0942c2e57bb001b84f692819a5ba4176ec6512c871591ada84dcc93f7073cfa5f27d70320b4989151de9b4bb9"
+}

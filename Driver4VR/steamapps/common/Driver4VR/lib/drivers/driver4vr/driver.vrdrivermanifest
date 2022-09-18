@@ -1,0 +1,10 @@
+{
+	"alwaysActivate": true,
+	"name" : "driver4vr",
+	"directory" : "",
+	"resourceOnly" : false,
+	"hmd_presence" : 
+	[
+		"*.*"
+	]
+}

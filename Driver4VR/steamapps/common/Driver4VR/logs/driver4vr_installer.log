@@ -1,0 +1,30 @@
+2022-08-16 01:52:29: Starting installer: True, False, False
+2022-08-16 01:52:29: Found SteamVR JSON config folder: C:\Users\Srivats Viswanathan\AppData\Local\openvr\openvrpaths.vrpath
+2022-08-16 01:52:29: JSON file: {
+	"config" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\config"
+	],
+	"external_drivers" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\iVRy",
+		"C:\\Users\\Srivats Viswanathan\\Desktop\\Driver4VR\\Driver4VR.8013868\\Driver4VR\\steamapps\\common\\Driver4VR\\lib\\drivers\\driver4vr",
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\MixedRealityVRDriver"
+	],
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\logs"
+	],
+	"runtime" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\SteamVR"
+	],
+	"version" : 1
+}
+2022-08-16 01:52:29: Got SteamVR folder from JSON: C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+2022-08-16 01:52:29: Found vrpathreg at : C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe
+2022-08-16 01:52:29: Register driver (False): >>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe<<, >> removedriver "C:\Users\Srivats Viswanathan\Desktop\Driver4VR\Driver4VR.8013868\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr"<<
+2022-08-16 01:52:29: Register driver (True): >>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe<<, >> adddriver "C:\Users\Srivats Viswanathan\Desktop\driver4VR\Driver4VR\steamapps\common\Driver4VR\lib\drivers\driver4vr"<<
+2022-08-16 01:52:32: Registration completed with: True
+2022-08-16 01:52:59: Installer complete.
